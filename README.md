@@ -24,7 +24,8 @@ nsf - 1h 28m 20s
 
 professional-development - 14m 26s
 
-thesis - 14m 12s
+thesis - 1h 29m 47s
 - [organization     14m 12s]  
+- [writing  1h 15m 35s]  
 
-Total: 2h 59m 26s
+Total: 4h 15m 01s
