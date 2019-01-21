@@ -12,15 +12,16 @@ Ideally, my use of this project will continue in perpetuity.
 
 Mon 21 January 2019 -> Mon 21 January 2019
 
-hub - 33m 21s
-- [maintenance     33m 21s]  
+hub - 1h 02m 28s
+- [docs     22m 00s]  
+- [maintenance     40m 28s]  
 
-nsf - 1h 18m 08s
+nsf - 1h 28m 20s
 - [background     57m 22s]  
-- [bet     20m 46s]  
+- [bet     30m 58s]  
 - [setup     57m 22s]  
-- [upgrade     20m 46s]  
+- [upgrade     30m 58s]  
 
-professional-development - 11s
+professional-development - 14m 26s
 
-Total: 1h 51m 40s
+Total: 2h 45m 14s
