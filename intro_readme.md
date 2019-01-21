@@ -8,17 +8,3 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 
 ## Weekly Summary
 
-Mon 21 January 2019 -> Mon 21 January 2019
-
-hub - 33m 21s
-- [maintenance     33m 21s]  
-
-nsf - 1h 18m 08s
-- [background     57m 22s]  
-- [bet     20m 46s]  
-- [setup     57m 22s]  
-- [upgrade     20m 46s]  
-
-professional-development - 11s
-
-Total: 1h 51m 40s
