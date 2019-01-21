@@ -1,5 +1,4 @@
 # Public Time-Log of Michael Pilosov
----
 
 This document was generated using some modifications to [Watson](https://github.com/TailorDev/Watson) and synchronized using GitHub instead of the built-in functionality. 
 
