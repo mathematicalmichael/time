@@ -53,14 +53,6 @@
   1548093748
  ],
  [
-  1548095595,
-  1548095606,
-  "professional-development",
-  "a625366d50f146b586d91e657ff07818",
-  [],
-  1548095606
- ],
- [
   1548096954,
   1548097809,
   "professional-development",
@@ -128,5 +120,17 @@
    "writing"
   ],
   1548115754
+ ],
+ [
+  1548120588,
+  1548121366,
+  "professional-development",
+  "c1fb00cad6434c26bd795d88896475e6",
+  [
+   "web",
+   "mp",
+   "resources"
+  ],
+  1548121688
  ]
 ]

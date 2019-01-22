@@ -22,10 +22,57 @@ nsf - 1h 28m 20s
 - [setup     57m 22s]  
 - [upgrade     30m 58s]  
 
-professional-development - 14m 26s
+professional-development - 27m 13s
+- [mp     12m 58s]  
+- [resources     12m 58s]  
+- [web     12m 58s]  
 
 thesis - 1h 41m 15s
 - [organization     14m 12s]  
 - [writing  1h 27m 03s]  
 
-Total: 4h 26m 29s
+Total: 4h 39m 16s
+Tue 15 January 2019 -> Tue 22 January 2019
+
+hub - 1h 02m 28s
+- [docs     22m 00s]  
+- [maintenance     40m 28s]  
+
+nsf - 1h 28m 20s
+- [background     57m 22s]  
+- [bet     30m 58s]  
+- [setup     57m 22s]  
+- [upgrade     30m 58s]  
+
+professional-development - 27m 13s
+- [mp     12m 58s]  
+- [resources     12m 58s]  
+- [web     12m 58s]  
+
+thesis - 1h 41m 15s
+- [organization     14m 12s]  
+- [writing  1h 27m 03s]  
+
+Total: 4h 39m 16s
+Tue 01 January 2019 -> Tue 22 January 2019
+
+hub - 1h 02m 28s
+- [docs     22m 00s]  
+- [maintenance     40m 28s]  
+
+nsf - 1h 28m 20s
+- [background     57m 22s]  
+- [bet     30m 58s]  
+- [setup     57m 22s]  
+- [upgrade     30m 58s]  
+
+professional-development - 27m 13s
+- [mp     12m 58s]  
+- [resources     12m 58s]  
+- [web     12m 58s]  
+
+thesis - 1h 41m 15s
+- [organization     14m 12s]  
+- [writing  1h 27m 03s]  
+
+Total: 4h 39m 16s
