@@ -15,11 +15,11 @@ hub - 1h 05m 53s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
 
-nsf - 2h 22m 27s
+nsf - 3h 39m 58s
 - [background     57m 22s]  
-- [bet  1h 25m 05s]  
+- [bet  2h 42m 36s]  
 - [setup     57m 22s]  
-- [upgrade  1h 25m 05s]  
+- [upgrade  2h 42m 36s]  
 
 professional-development - 27m 13s
 - [mp     12m 58s]  
@@ -30,7 +30,7 @@ thesis - 1h 55m 13s
 - [organization     28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 5h 50m 46s
+Total: 7h 08m 17s
 ## Last 7 Days
 Tue 15 January 2019 -> Tue 22 January 2019
 
@@ -38,11 +38,11 @@ hub - 1h 05m 53s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
 
-nsf - 2h 22m 27s
+nsf - 3h 39m 58s
 - [background     57m 22s]  
-- [bet  1h 25m 05s]  
+- [bet  2h 42m 36s]  
 - [setup     57m 22s]  
-- [upgrade  1h 25m 05s]  
+- [upgrade  2h 42m 36s]  
 
 professional-development - 27m 13s
 - [mp     12m 58s]  
@@ -53,7 +53,7 @@ thesis - 1h 55m 13s
 - [organization     28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 5h 50m 46s
+Total: 7h 08m 17s
 ## Last Month
 Tue 01 January 2019 -> Tue 22 January 2019
 
@@ -61,11 +61,11 @@ hub - 1h 05m 53s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
 
-nsf - 2h 22m 27s
+nsf - 3h 39m 58s
 - [background     57m 22s]  
-- [bet  1h 25m 05s]  
+- [bet  2h 42m 36s]  
 - [setup     57m 22s]  
-- [upgrade  1h 25m 05s]  
+- [upgrade  2h 42m 36s]  
 
 professional-development - 27m 13s
 - [mp     12m 58s]  
@@ -76,7 +76,7 @@ thesis - 1h 55m 13s
 - [organization     28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 5h 50m 46s
+Total: 7h 08m 17s
 ## Last Year
 Tue 01 January 2019 -> Tue 22 January 2019
 
@@ -84,11 +84,11 @@ hub - 1h 05m 53s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
 
-nsf - 2h 22m 27s
+nsf - 3h 39m 58s
 - [background     57m 22s]  
-- [bet  1h 25m 05s]  
+- [bet  2h 42m 36s]  
 - [setup     57m 22s]  
-- [upgrade  1h 25m 05s]  
+- [upgrade  2h 42m 36s]  
 
 professional-development - 27m 13s
 - [mp     12m 58s]  
@@ -99,4 +99,4 @@ thesis - 1h 55m 13s
 - [organization     28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 5h 50m 46s
+Total: 7h 08m 17s
