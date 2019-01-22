@@ -8,5 +8,3 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 
 Ideally, my use of this project will continue in perpetuity.
 
-## Weekly Summary
-
