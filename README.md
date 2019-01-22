@@ -15,22 +15,22 @@ hub - 1h 02m 28s
 - [docs     22m 00s]  
 - [maintenance     40m 28s]  
 
-nsf - 1h 28m 20s
+nsf - 2h 07m 09s
 - [background     57m 22s]  
-- [bet     30m 58s]  
+- [bet  1h 09m 47s]  
 - [setup     57m 22s]  
-- [upgrade     30m 58s]  
+- [upgrade  1h 09m 47s]  
 
 professional-development - 27m 13s
 - [mp     12m 58s]  
 - [resources     12m 58s]  
 - [web     12m 58s]  
 
-thesis - 1h 41m 15s
-- [organization     14m 12s]  
+thesis - 1h 55m 13s
+- [organization     28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 4h 39m 16s
+Total: 5h 32m 03s
 ## Last 7 Days
 Tue 15 January 2019 -> Tue 22 January 2019
 
@@ -38,22 +38,22 @@ hub - 1h 02m 28s
 - [docs     22m 00s]  
 - [maintenance     40m 28s]  
 
-nsf - 1h 28m 20s
+nsf - 2h 07m 09s
 - [background     57m 22s]  
-- [bet     30m 58s]  
+- [bet  1h 09m 47s]  
 - [setup     57m 22s]  
-- [upgrade     30m 58s]  
+- [upgrade  1h 09m 47s]  
 
 professional-development - 27m 13s
 - [mp     12m 58s]  
 - [resources     12m 58s]  
 - [web     12m 58s]  
 
-thesis - 1h 41m 15s
-- [organization     14m 12s]  
+thesis - 1h 55m 13s
+- [organization     28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 4h 39m 16s
+Total: 5h 32m 03s
 ## Last Month
 Tue 01 January 2019 -> Tue 22 January 2019
 
@@ -61,22 +61,22 @@ hub - 1h 02m 28s
 - [docs     22m 00s]  
 - [maintenance     40m 28s]  
 
-nsf - 1h 28m 20s
+nsf - 2h 07m 09s
 - [background     57m 22s]  
-- [bet     30m 58s]  
+- [bet  1h 09m 47s]  
 - [setup     57m 22s]  
-- [upgrade     30m 58s]  
+- [upgrade  1h 09m 47s]  
 
 professional-development - 27m 13s
 - [mp     12m 58s]  
 - [resources     12m 58s]  
 - [web     12m 58s]  
 
-thesis - 1h 41m 15s
-- [organization     14m 12s]  
+thesis - 1h 55m 13s
+- [organization     28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 4h 39m 16s
+Total: 5h 32m 03s
 ## Last Year
 Tue 01 January 2019 -> Tue 22 January 2019
 
@@ -84,19 +84,19 @@ hub - 1h 02m 28s
 - [docs     22m 00s]  
 - [maintenance     40m 28s]  
 
-nsf - 1h 28m 20s
+nsf - 2h 07m 09s
 - [background     57m 22s]  
-- [bet     30m 58s]  
+- [bet  1h 09m 47s]  
 - [setup     57m 22s]  
-- [upgrade     30m 58s]  
+- [upgrade  1h 09m 47s]  
 
 professional-development - 27m 13s
 - [mp     12m 58s]  
 - [resources     12m 58s]  
 - [web     12m 58s]  
 
-thesis - 1h 41m 15s
-- [organization     14m 12s]  
+thesis - 1h 55m 13s
+- [organization     28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 4h 39m 16s
+Total: 5h 32m 03s
