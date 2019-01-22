@@ -11,15 +11,15 @@ Ideally, my use of this project will continue in perpetuity.
 ## Last Week
 Mon 21 January 2019 -> Tue 22 January 2019
 
-hub - 1h 02m 28s
+hub - 1h 05m 53s
 - [docs     22m 00s]  
-- [maintenance     40m 28s]  
+- [maintenance     43m 53s]  
 
-nsf - 2h 07m 09s
+nsf - 2h 22m 27s
 - [background     57m 22s]  
-- [bet  1h 09m 47s]  
+- [bet  1h 25m 05s]  
 - [setup     57m 22s]  
-- [upgrade  1h 09m 47s]  
+- [upgrade  1h 25m 05s]  
 
 professional-development - 27m 13s
 - [mp     12m 58s]  
@@ -30,19 +30,19 @@ thesis - 1h 55m 13s
 - [organization     28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 5h 32m 03s
+Total: 5h 50m 46s
 ## Last 7 Days
 Tue 15 January 2019 -> Tue 22 January 2019
 
-hub - 1h 02m 28s
+hub - 1h 05m 53s
 - [docs     22m 00s]  
-- [maintenance     40m 28s]  
+- [maintenance     43m 53s]  
 
-nsf - 2h 07m 09s
+nsf - 2h 22m 27s
 - [background     57m 22s]  
-- [bet  1h 09m 47s]  
+- [bet  1h 25m 05s]  
 - [setup     57m 22s]  
-- [upgrade  1h 09m 47s]  
+- [upgrade  1h 25m 05s]  
 
 professional-development - 27m 13s
 - [mp     12m 58s]  
@@ -53,19 +53,19 @@ thesis - 1h 55m 13s
 - [organization     28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 5h 32m 03s
+Total: 5h 50m 46s
 ## Last Month
 Tue 01 January 2019 -> Tue 22 January 2019
 
-hub - 1h 02m 28s
+hub - 1h 05m 53s
 - [docs     22m 00s]  
-- [maintenance     40m 28s]  
+- [maintenance     43m 53s]  
 
-nsf - 2h 07m 09s
+nsf - 2h 22m 27s
 - [background     57m 22s]  
-- [bet  1h 09m 47s]  
+- [bet  1h 25m 05s]  
 - [setup     57m 22s]  
-- [upgrade  1h 09m 47s]  
+- [upgrade  1h 25m 05s]  
 
 professional-development - 27m 13s
 - [mp     12m 58s]  
@@ -76,19 +76,19 @@ thesis - 1h 55m 13s
 - [organization     28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 5h 32m 03s
+Total: 5h 50m 46s
 ## Last Year
 Tue 01 January 2019 -> Tue 22 January 2019
 
-hub - 1h 02m 28s
+hub - 1h 05m 53s
 - [docs     22m 00s]  
-- [maintenance     40m 28s]  
+- [maintenance     43m 53s]  
 
-nsf - 2h 07m 09s
+nsf - 2h 22m 27s
 - [background     57m 22s]  
-- [bet  1h 09m 47s]  
+- [bet  1h 25m 05s]  
 - [setup     57m 22s]  
-- [upgrade  1h 09m 47s]  
+- [upgrade  1h 25m 05s]  
 
 professional-development - 27m 13s
 - [mp     12m 58s]  
@@ -99,4 +99,4 @@ thesis - 1h 55m 13s
 - [organization     28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 5h 32m 03s
+Total: 5h 50m 46s
