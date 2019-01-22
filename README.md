@@ -8,7 +8,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 
 Ideally, my use of this project will continue in perpetuity.
 
-## Week to Date
+## Last Week
 Mon 21 January 2019 -> Tue 22 January 2019
 
 hub - 1h 02m 28s
@@ -31,7 +31,7 @@ thesis - 1h 41m 15s
 - [writing  1h 27m 03s]  
 
 Total: 4h 39m 16s
-## Last Week
+## Last 7 Days
 Tue 15 January 2019 -> Tue 22 January 2019
 
 hub - 1h 02m 28s
