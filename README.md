@@ -10,7 +10,7 @@ Ideally, my use of this project will continue in perpetuity.
 
 ## Weekly Summary
 
-Mon 21 January 2019 -> Mon 21 January 2019
+Mon 21 January 2019 -> Tue 22 January 2019
 
 hub - 1h 02m 28s
 - [docs     22m 00s]  
@@ -24,8 +24,8 @@ nsf - 1h 28m 20s
 
 professional-development - 14m 26s
 
-thesis - 1h 29m 47s
+thesis - 1h 41m 15s
 - [organization     14m 12s]  
-- [writing  1h 15m 35s]  
+- [writing  1h 27m 03s]  
 
-Total: 4h 15m 01s
+Total: 4h 26m 29s

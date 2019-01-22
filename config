@@ -1,3 +1,4 @@
 [options]
 log_current = true
+date_format = %m/%d/%Y
 
