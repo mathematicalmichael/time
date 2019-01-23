@@ -9,15 +9,17 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 ## Last Week
-Mon 21 January 2019 -> Tue 22 January 2019
+Mon 21 January 2019 -> Wed 23 January 2019
 
 hub - 1h 05m 53s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
 
-nsf - 6h 30m 41s
+nsf - 7h 45m 41s
 - [background     57m 22s]  
 - [bet  5h 33m 19s]  
+- [meeting  1h 15m 00s]  
+- [organization  1h 15m 00s]  
 - [setup     57m 22s]  
 - [tests  2h 10m 30s]  
 - [upgrade  5h 33m 19s]  
@@ -31,21 +33,27 @@ school - 1h 02m 24s
 - [email     06m 18s]  
 - [paperwork     56m 06s]  
 
-thesis - 1h 55m 13s
-- [organization     28m 10s]  
+stat - 2h 00m 00s
+- [meeting  2h 00m 00s]  
+
+thesis - 2h 55m 13s
+- [meeting  1h 00m 00s]  
+- [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 11h 01m 24s
+Total: 15h 16m 24s
 ## Last 7 Days
-Tue 15 January 2019 -> Tue 22 January 2019
+Wed 16 January 2019 -> Wed 23 January 2019
 
 hub - 1h 05m 53s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
 
-nsf - 6h 30m 41s
+nsf - 7h 45m 41s
 - [background     57m 22s]  
 - [bet  5h 33m 19s]  
+- [meeting  1h 15m 00s]  
+- [organization  1h 15m 00s]  
 - [setup     57m 22s]  
 - [tests  2h 10m 30s]  
 - [upgrade  5h 33m 19s]  
@@ -59,21 +67,27 @@ school - 1h 02m 24s
 - [email     06m 18s]  
 - [paperwork     56m 06s]  
 
-thesis - 1h 55m 13s
-- [organization     28m 10s]  
+stat - 2h 00m 00s
+- [meeting  2h 00m 00s]  
+
+thesis - 2h 55m 13s
+- [meeting  1h 00m 00s]  
+- [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 11h 01m 24s
+Total: 15h 16m 24s
 ## Last Month
-Tue 01 January 2019 -> Tue 22 January 2019
+Tue 01 January 2019 -> Wed 23 January 2019
 
 hub - 1h 05m 53s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
 
-nsf - 6h 30m 41s
+nsf - 7h 45m 41s
 - [background     57m 22s]  
 - [bet  5h 33m 19s]  
+- [meeting  1h 15m 00s]  
+- [organization  1h 15m 00s]  
 - [setup     57m 22s]  
 - [tests  2h 10m 30s]  
 - [upgrade  5h 33m 19s]  
@@ -87,21 +101,27 @@ school - 1h 02m 24s
 - [email     06m 18s]  
 - [paperwork     56m 06s]  
 
-thesis - 1h 55m 13s
-- [organization     28m 10s]  
+stat - 2h 00m 00s
+- [meeting  2h 00m 00s]  
+
+thesis - 2h 55m 13s
+- [meeting  1h 00m 00s]  
+- [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 11h 01m 24s
+Total: 15h 16m 24s
 ## Last Year
-Tue 01 January 2019 -> Tue 22 January 2019
+Tue 01 January 2019 -> Wed 23 January 2019
 
 hub - 1h 05m 53s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
 
-nsf - 6h 30m 41s
+nsf - 7h 45m 41s
 - [background     57m 22s]  
 - [bet  5h 33m 19s]  
+- [meeting  1h 15m 00s]  
+- [organization  1h 15m 00s]  
 - [setup     57m 22s]  
 - [tests  2h 10m 30s]  
 - [upgrade  5h 33m 19s]  
@@ -115,8 +135,12 @@ school - 1h 02m 24s
 - [email     06m 18s]  
 - [paperwork     56m 06s]  
 
-thesis - 1h 55m 13s
-- [organization     28m 10s]  
+stat - 2h 00m 00s
+- [meeting  2h 00m 00s]  
+
+thesis - 2h 55m 13s
+- [meeting  1h 00m 00s]  
+- [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 11h 01m 24s
+Total: 15h 16m 24s
