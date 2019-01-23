@@ -33,15 +33,15 @@ school - 1h 02m 24s
 - [email     06m 18s]  
 - [paperwork     56m 06s]  
 
-stat - 2h 00m 00s
-- [meeting  2h 00m 00s]  
+stat - 2h 30m 00s
+- [meeting  2h 30m 00s]  
 
 thesis - 2h 55m 13s
 - [meeting  1h 00m 00s]  
 - [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 15h 16m 24s
+Total: 15h 46m 24s
 ## Last 7 Days
 Wed 16 January 2019 -> Wed 23 January 2019
 
@@ -67,15 +67,15 @@ school - 1h 02m 24s
 - [email     06m 18s]  
 - [paperwork     56m 06s]  
 
-stat - 2h 00m 00s
-- [meeting  2h 00m 00s]  
+stat - 2h 30m 00s
+- [meeting  2h 30m 00s]  
 
 thesis - 2h 55m 13s
 - [meeting  1h 00m 00s]  
 - [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 15h 16m 24s
+Total: 15h 46m 24s
 ## Last Month
 Tue 01 January 2019 -> Wed 23 January 2019
 
@@ -101,15 +101,15 @@ school - 1h 02m 24s
 - [email     06m 18s]  
 - [paperwork     56m 06s]  
 
-stat - 2h 00m 00s
-- [meeting  2h 00m 00s]  
+stat - 2h 30m 00s
+- [meeting  2h 30m 00s]  
 
 thesis - 2h 55m 13s
 - [meeting  1h 00m 00s]  
 - [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 15h 16m 24s
+Total: 15h 46m 24s
 ## Last Year
 Tue 01 January 2019 -> Wed 23 January 2019
 
@@ -135,12 +135,12 @@ school - 1h 02m 24s
 - [email     06m 18s]  
 - [paperwork     56m 06s]  
 
-stat - 2h 00m 00s
-- [meeting  2h 00m 00s]  
+stat - 2h 30m 00s
+- [meeting  2h 30m 00s]  
 
 thesis - 2h 55m 13s
 - [meeting  1h 00m 00s]  
 - [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 15h 16m 24s
+Total: 15h 46m 24s
