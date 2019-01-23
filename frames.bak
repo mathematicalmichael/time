@@ -287,11 +287,34 @@
  [
   1548176400,
   1548185400,
-  "stat",
+  "professional-development",
   "7f387d1e7a4e4e8caafd5e74a4c4c70e",
   [
-   "meeting"
+   "meeting",
+   "stat"
   ],
-  1548215005
+  1548215078
+ ],
+ [
+  1548237600,
+  1548239520,
+  "nsf",
+  "d2d9495ece4b49d6bb0c85d2660f8e7c",
+  [
+   "bet",
+   "discussion"
+  ],
+  1548266595
+ ],
+ [
+  1548266497,
+  1548270484,
+  "nsf",
+  "fe6589ea35cd425888de8121c5cb31ff",
+  [
+   "bet",
+   "upgrade"
+  ],
+  1548270484
  ]
 ]

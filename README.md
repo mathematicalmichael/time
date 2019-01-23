@@ -15,14 +15,15 @@ hub - 1h 05m 53s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
 
-nsf - 7h 45m 41s
+nsf - 11h 01m 13s
 - [background     57m 22s]  
-- [bet  5h 33m 19s]  
+- [bet  8h 48m 51s]  
+- [discussion     32m 00s]  
 - [meeting  1h 15m 00s]  
 - [organization  1h 15m 00s]  
 - [setup     57m 22s]  
-- [tests  2h 10m 30s]  
-- [upgrade  5h 33m 19s]  
+- [tests  3h 47m 35s]  
+- [upgrade  8h 16m 51s]  
 
 professional-development - 2h 57m 13s
 - [meeting  2h 30m 00s]  
@@ -40,7 +41,7 @@ thesis - 2h 55m 13s
 - [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 15h 46m 24s
+Total: 19h 01m 56s
 ## Last 7 Days
 Wed 16 January 2019 -> Wed 23 January 2019
 
@@ -48,14 +49,15 @@ hub - 1h 05m 53s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
 
-nsf - 7h 45m 41s
+nsf - 11h 01m 13s
 - [background     57m 22s]  
-- [bet  5h 33m 19s]  
+- [bet  8h 48m 51s]  
+- [discussion     32m 00s]  
 - [meeting  1h 15m 00s]  
 - [organization  1h 15m 00s]  
 - [setup     57m 22s]  
-- [tests  2h 10m 30s]  
-- [upgrade  5h 33m 19s]  
+- [tests  3h 47m 35s]  
+- [upgrade  8h 16m 51s]  
 
 professional-development - 2h 57m 13s
 - [meeting  2h 30m 00s]  
@@ -73,7 +75,7 @@ thesis - 2h 55m 13s
 - [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 15h 46m 24s
+Total: 19h 01m 56s
 ## Last Month
 Tue 01 January 2019 -> Wed 23 January 2019
 
@@ -81,14 +83,15 @@ hub - 1h 05m 53s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
 
-nsf - 7h 45m 41s
+nsf - 11h 01m 13s
 - [background     57m 22s]  
-- [bet  5h 33m 19s]  
+- [bet  8h 48m 51s]  
+- [discussion     32m 00s]  
 - [meeting  1h 15m 00s]  
 - [organization  1h 15m 00s]  
 - [setup     57m 22s]  
-- [tests  2h 10m 30s]  
-- [upgrade  5h 33m 19s]  
+- [tests  3h 47m 35s]  
+- [upgrade  8h 16m 51s]  
 
 professional-development - 2h 57m 13s
 - [meeting  2h 30m 00s]  
@@ -106,7 +109,7 @@ thesis - 2h 55m 13s
 - [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 15h 46m 24s
+Total: 19h 01m 56s
 ## Last Year
 Tue 01 January 2019 -> Wed 23 January 2019
 
@@ -114,14 +117,15 @@ hub - 1h 05m 53s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
 
-nsf - 7h 45m 41s
+nsf - 11h 01m 13s
 - [background     57m 22s]  
-- [bet  5h 33m 19s]  
+- [bet  8h 48m 51s]  
+- [discussion     32m 00s]  
 - [meeting  1h 15m 00s]  
 - [organization  1h 15m 00s]  
 - [setup     57m 22s]  
-- [tests  2h 10m 30s]  
-- [upgrade  5h 33m 19s]  
+- [tests  3h 47m 35s]  
+- [upgrade  8h 16m 51s]  
 
 professional-development - 2h 57m 13s
 - [meeting  2h 30m 00s]  
@@ -139,4 +143,4 @@ thesis - 2h 55m 13s
 - [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 15h 46m 24s
+Total: 19h 01m 56s
