@@ -24,17 +24,16 @@ nsf - 7h 45m 41s
 - [tests  2h 10m 30s]  
 - [upgrade  5h 33m 19s]  
 
-professional-development - 27m 13s
+professional-development - 2h 57m 13s
+- [meeting  2h 30m 00s]  
 - [mp     12m 58s]  
 - [resources     12m 58s]  
+- [stat  2h 30m 00s]  
 - [web     12m 58s]  
 
 school - 1h 02m 24s
 - [email     06m 18s]  
 - [paperwork     56m 06s]  
-
-stat - 2h 30m 00s
-- [meeting  2h 30m 00s]  
 
 thesis - 2h 55m 13s
 - [meeting  1h 00m 00s]  
@@ -58,17 +57,16 @@ nsf - 7h 45m 41s
 - [tests  2h 10m 30s]  
 - [upgrade  5h 33m 19s]  
 
-professional-development - 27m 13s
+professional-development - 2h 57m 13s
+- [meeting  2h 30m 00s]  
 - [mp     12m 58s]  
 - [resources     12m 58s]  
+- [stat  2h 30m 00s]  
 - [web     12m 58s]  
 
 school - 1h 02m 24s
 - [email     06m 18s]  
 - [paperwork     56m 06s]  
-
-stat - 2h 30m 00s
-- [meeting  2h 30m 00s]  
 
 thesis - 2h 55m 13s
 - [meeting  1h 00m 00s]  
@@ -92,17 +90,16 @@ nsf - 7h 45m 41s
 - [tests  2h 10m 30s]  
 - [upgrade  5h 33m 19s]  
 
-professional-development - 27m 13s
+professional-development - 2h 57m 13s
+- [meeting  2h 30m 00s]  
 - [mp     12m 58s]  
 - [resources     12m 58s]  
+- [stat  2h 30m 00s]  
 - [web     12m 58s]  
 
 school - 1h 02m 24s
 - [email     06m 18s]  
 - [paperwork     56m 06s]  
-
-stat - 2h 30m 00s
-- [meeting  2h 30m 00s]  
 
 thesis - 2h 55m 13s
 - [meeting  1h 00m 00s]  
@@ -126,17 +123,16 @@ nsf - 7h 45m 41s
 - [tests  2h 10m 30s]  
 - [upgrade  5h 33m 19s]  
 
-professional-development - 27m 13s
+professional-development - 2h 57m 13s
+- [meeting  2h 30m 00s]  
 - [mp     12m 58s]  
 - [resources     12m 58s]  
+- [stat  2h 30m 00s]  
 - [web     12m 58s]  
 
 school - 1h 02m 24s
 - [email     06m 18s]  
 - [paperwork     56m 06s]  
-
-stat - 2h 30m 00s
-- [meeting  2h 30m 00s]  
 
 thesis - 2h 55m 13s
 - [meeting  1h 00m 00s]  
