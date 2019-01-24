@@ -11,19 +11,23 @@ Ideally, my use of this project will continue in perpetuity.
 ## Last Week
 Mon 21 January 2019 -> Thu 24 January 2019
 
-hub - 1h 05m 53s
+hub - 1h 34m 04s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
+- [setup     28m 11s]  
+- [turing     28m 11s]  
 
-nsf - 14h 25m 21s
+nsf - 18h 36m 30s
 - [background  1h 37m 05s]  
-- [bet 12h 12m 59s]  
+- [bet 16h 24m 08s]  
 - [discussion     32m 00s]  
+- [features  2h 58m 11s]  
 - [meeting  1h 15m 00s]  
+- [notebooks  2h 58m 11s]  
 - [organization  1h 15m 00s]  
 - [setup     57m 22s]  
-- [tests  7h 11m 43s]  
-- [upgrade 11h 01m 16s]  
+- [tests 11h 22m 52s]  
+- [upgrade 12h 14m 14s]  
 
 professional-development - 2h 57m 13s
 - [meeting  2h 30m 00s]  
@@ -41,23 +45,27 @@ thesis - 2h 55m 13s
 - [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 22h 26m 04s
+Total: 27h 05m 24s
 ## Last 7 Days
 Thu 17 January 2019 -> Thu 24 January 2019
 
-hub - 1h 05m 53s
+hub - 1h 34m 04s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
+- [setup     28m 11s]  
+- [turing     28m 11s]  
 
-nsf - 14h 25m 21s
+nsf - 18h 36m 30s
 - [background  1h 37m 05s]  
-- [bet 12h 12m 59s]  
+- [bet 16h 24m 08s]  
 - [discussion     32m 00s]  
+- [features  2h 58m 11s]  
 - [meeting  1h 15m 00s]  
+- [notebooks  2h 58m 11s]  
 - [organization  1h 15m 00s]  
 - [setup     57m 22s]  
-- [tests  7h 11m 43s]  
-- [upgrade 11h 01m 16s]  
+- [tests 11h 22m 52s]  
+- [upgrade 12h 14m 14s]  
 
 professional-development - 2h 57m 13s
 - [meeting  2h 30m 00s]  
@@ -75,23 +83,27 @@ thesis - 2h 55m 13s
 - [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 22h 26m 04s
+Total: 27h 05m 24s
 ## Last Month
 Tue 01 January 2019 -> Thu 24 January 2019
 
-hub - 1h 05m 53s
+hub - 1h 34m 04s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
+- [setup     28m 11s]  
+- [turing     28m 11s]  
 
-nsf - 14h 25m 21s
+nsf - 18h 36m 30s
 - [background  1h 37m 05s]  
-- [bet 12h 12m 59s]  
+- [bet 16h 24m 08s]  
 - [discussion     32m 00s]  
+- [features  2h 58m 11s]  
 - [meeting  1h 15m 00s]  
+- [notebooks  2h 58m 11s]  
 - [organization  1h 15m 00s]  
 - [setup     57m 22s]  
-- [tests  7h 11m 43s]  
-- [upgrade 11h 01m 16s]  
+- [tests 11h 22m 52s]  
+- [upgrade 12h 14m 14s]  
 
 professional-development - 2h 57m 13s
 - [meeting  2h 30m 00s]  
@@ -109,23 +121,27 @@ thesis - 2h 55m 13s
 - [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 22h 26m 04s
+Total: 27h 05m 24s
 ## Last Year
 Tue 01 January 2019 -> Thu 24 January 2019
 
-hub - 1h 05m 53s
+hub - 1h 34m 04s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
+- [setup     28m 11s]  
+- [turing     28m 11s]  
 
-nsf - 14h 25m 21s
+nsf - 18h 36m 30s
 - [background  1h 37m 05s]  
-- [bet 12h 12m 59s]  
+- [bet 16h 24m 08s]  
 - [discussion     32m 00s]  
+- [features  2h 58m 11s]  
 - [meeting  1h 15m 00s]  
+- [notebooks  2h 58m 11s]  
 - [organization  1h 15m 00s]  
 - [setup     57m 22s]  
-- [tests  7h 11m 43s]  
-- [upgrade 11h 01m 16s]  
+- [tests 11h 22m 52s]  
+- [upgrade 12h 14m 14s]  
 
 professional-development - 2h 57m 13s
 - [meeting  2h 30m 00s]  
@@ -143,4 +159,4 @@ thesis - 2h 55m 13s
 - [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 22h 26m 04s
+Total: 27h 05m 24s
