@@ -11,11 +11,11 @@ Ideally, my use of this project will continue in perpetuity.
 ## Last Week
 Mon 21 January 2019 -> Thu 24 January 2019
 
-hub - 1h 34m 04s
+hub - 1h 49m 23s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
-- [setup     28m 11s]  
-- [turing     28m 11s]  
+- [setup     43m 30s]  
+- [turing     43m 30s]  
 
 nsf - 18h 36m 30s
 - [background  1h 37m 05s]  
@@ -45,15 +45,15 @@ thesis - 2h 55m 13s
 - [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 27h 05m 24s
+Total: 27h 20m 43s
 ## Last 7 Days
 Thu 17 January 2019 -> Thu 24 January 2019
 
-hub - 1h 34m 04s
+hub - 1h 49m 23s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
-- [setup     28m 11s]  
-- [turing     28m 11s]  
+- [setup     43m 30s]  
+- [turing     43m 30s]  
 
 nsf - 18h 36m 30s
 - [background  1h 37m 05s]  
@@ -83,15 +83,15 @@ thesis - 2h 55m 13s
 - [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 27h 05m 24s
+Total: 27h 20m 43s
 ## Last Month
 Tue 01 January 2019 -> Thu 24 January 2019
 
-hub - 1h 34m 04s
+hub - 1h 49m 23s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
-- [setup     28m 11s]  
-- [turing     28m 11s]  
+- [setup     43m 30s]  
+- [turing     43m 30s]  
 
 nsf - 18h 36m 30s
 - [background  1h 37m 05s]  
@@ -121,15 +121,15 @@ thesis - 2h 55m 13s
 - [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 27h 05m 24s
+Total: 27h 20m 43s
 ## Last Year
 Tue 01 January 2019 -> Thu 24 January 2019
 
-hub - 1h 34m 04s
+hub - 1h 49m 23s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
-- [setup     28m 11s]  
-- [turing     28m 11s]  
+- [setup     43m 30s]  
+- [turing     43m 30s]  
 
 nsf - 18h 36m 30s
 - [background  1h 37m 05s]  
@@ -159,4 +159,4 @@ thesis - 2h 55m 13s
 - [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 27h 05m 24s
+Total: 27h 20m 43s
