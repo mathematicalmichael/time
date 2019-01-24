@@ -15,14 +15,14 @@ hub - 1h 05m 53s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
 
-nsf - 13h 45m 38s
-- [background     57m 22s]  
-- [bet 11h 33m 16s]  
+nsf - 14h 25m 21s
+- [background  1h 37m 05s]  
+- [bet 12h 12m 59s]  
 - [discussion     32m 00s]  
 - [meeting  1h 15m 00s]  
 - [organization  1h 15m 00s]  
 - [setup     57m 22s]  
-- [tests  6h 32m 00s]  
+- [tests  7h 11m 43s]  
 - [upgrade 11h 01m 16s]  
 
 professional-development - 2h 57m 13s
@@ -41,7 +41,7 @@ thesis - 2h 55m 13s
 - [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 21h 46m 21s
+Total: 22h 26m 04s
 ## Last 7 Days
 Thu 17 January 2019 -> Thu 24 January 2019
 
@@ -49,14 +49,14 @@ hub - 1h 05m 53s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
 
-nsf - 13h 45m 38s
-- [background     57m 22s]  
-- [bet 11h 33m 16s]  
+nsf - 14h 25m 21s
+- [background  1h 37m 05s]  
+- [bet 12h 12m 59s]  
 - [discussion     32m 00s]  
 - [meeting  1h 15m 00s]  
 - [organization  1h 15m 00s]  
 - [setup     57m 22s]  
-- [tests  6h 32m 00s]  
+- [tests  7h 11m 43s]  
 - [upgrade 11h 01m 16s]  
 
 professional-development - 2h 57m 13s
@@ -75,7 +75,7 @@ thesis - 2h 55m 13s
 - [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 21h 46m 21s
+Total: 22h 26m 04s
 ## Last Month
 Tue 01 January 2019 -> Thu 24 January 2019
 
@@ -83,14 +83,14 @@ hub - 1h 05m 53s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
 
-nsf - 13h 45m 38s
-- [background     57m 22s]  
-- [bet 11h 33m 16s]  
+nsf - 14h 25m 21s
+- [background  1h 37m 05s]  
+- [bet 12h 12m 59s]  
 - [discussion     32m 00s]  
 - [meeting  1h 15m 00s]  
 - [organization  1h 15m 00s]  
 - [setup     57m 22s]  
-- [tests  6h 32m 00s]  
+- [tests  7h 11m 43s]  
 - [upgrade 11h 01m 16s]  
 
 professional-development - 2h 57m 13s
@@ -109,7 +109,7 @@ thesis - 2h 55m 13s
 - [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 21h 46m 21s
+Total: 22h 26m 04s
 ## Last Year
 Tue 01 January 2019 -> Thu 24 January 2019
 
@@ -117,14 +117,14 @@ hub - 1h 05m 53s
 - [docs     22m 00s]  
 - [maintenance     43m 53s]  
 
-nsf - 13h 45m 38s
-- [background     57m 22s]  
-- [bet 11h 33m 16s]  
+nsf - 14h 25m 21s
+- [background  1h 37m 05s]  
+- [bet 12h 12m 59s]  
 - [discussion     32m 00s]  
 - [meeting  1h 15m 00s]  
 - [organization  1h 15m 00s]  
 - [setup     57m 22s]  
-- [tests  6h 32m 00s]  
+- [tests  7h 11m 43s]  
 - [upgrade 11h 01m 16s]  
 
 professional-development - 2h 57m 13s
@@ -143,4 +143,4 @@ thesis - 2h 55m 13s
 - [organization  1h 28m 10s]  
 - [writing  1h 27m 03s]  
 
-Total: 21h 46m 21s
+Total: 22h 26m 04s
