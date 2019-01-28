@@ -11,9 +11,16 @@ Ideally, my use of this project will continue in perpetuity.
 ## This Week
 Mon 28 January 2019 -> Mon 28 January 2019
 
-thesis - 29m 16s
+professional-development - 2h 08m 32s
+- [meeting  2h 08m 32s]  
+- [stat  2h 08m 32s]  
+
+thesis - 1h 01m 39s
+- [planning     28m 47s]  
+- [review     32m 23s]  
 - [writing     29m 16s]  
 
+Total: 3h 10m 11s
 ## Last 7 Days
 Mon 21 January 2019 -> Mon 28 January 2019
 
@@ -37,26 +44,27 @@ nsf - 23h 22m 55s
 - [upgrade 12h 14m 14s]  
 - [versioning  4h 46m 25s]  
 
-professional-development - 2h 57m 13s
-- [meeting  2h 30m 00s]  
+professional-development - 5h 05m 45s
+- [meeting  4h 38m 32s]  
 - [mp     12m 58s]  
 - [resources     12m 58s]  
-- [stat  2h 30m 00s]  
+- [stat  4h 38m 32s]  
 - [web     12m 58s]  
 
 school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 9h 28m 15s
+thesis - 10h 00m 38s
 - [meeting  1h 00m 00s]  
 - [organization  3h 55m 29s]  
+- [planning     28m 47s]  
 - [reading  1h 09m 40s]  
-- [review  2h 23m 11s]  
+- [review  2h 55m 34s]  
 - [setup  1h 30m 00s]  
 - [writing  3h 09m 35s]  
 
-Total: 41h 03m 13s
+Total: 43h 44m 08s
 ## Last Month
 Tue 01 January 2019 -> Mon 28 January 2019
 
@@ -80,26 +88,27 @@ nsf - 23h 22m 55s
 - [upgrade 12h 14m 14s]  
 - [versioning  4h 46m 25s]  
 
-professional-development - 2h 57m 13s
-- [meeting  2h 30m 00s]  
+professional-development - 5h 05m 45s
+- [meeting  4h 38m 32s]  
 - [mp     12m 58s]  
 - [resources     12m 58s]  
-- [stat  2h 30m 00s]  
+- [stat  4h 38m 32s]  
 - [web     12m 58s]  
 
 school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 9h 28m 15s
+thesis - 10h 00m 38s
 - [meeting  1h 00m 00s]  
 - [organization  3h 55m 29s]  
+- [planning     28m 47s]  
 - [reading  1h 09m 40s]  
-- [review  2h 23m 11s]  
+- [review  2h 55m 34s]  
 - [setup  1h 30m 00s]  
 - [writing  3h 09m 35s]  
 
-Total: 41h 03m 13s
+Total: 43h 44m 08s
 ## Last Year
 Tue 01 January 2019 -> Mon 28 January 2019
 
@@ -123,23 +132,24 @@ nsf - 23h 22m 55s
 - [upgrade 12h 14m 14s]  
 - [versioning  4h 46m 25s]  
 
-professional-development - 2h 57m 13s
-- [meeting  2h 30m 00s]  
+professional-development - 5h 05m 45s
+- [meeting  4h 38m 32s]  
 - [mp     12m 58s]  
 - [resources     12m 58s]  
-- [stat  2h 30m 00s]  
+- [stat  4h 38m 32s]  
 - [web     12m 58s]  
 
 school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 9h 28m 15s
+thesis - 10h 00m 38s
 - [meeting  1h 00m 00s]  
 - [organization  3h 55m 29s]  
+- [planning     28m 47s]  
 - [reading  1h 09m 40s]  
-- [review  2h 23m 11s]  
+- [review  2h 55m 34s]  
 - [setup  1h 30m 00s]  
 - [writing  3h 09m 35s]  
 
-Total: 41h 03m 13s
+Total: 43h 44m 08s
