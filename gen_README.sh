@@ -1,5 +1,5 @@
 cat intro_readme.md > README.md
-echo "## Last Week" >> README.md
+echo "## This Week" >> README.md
 watson report --week | sed 's/\t\[/- \[/g' | sed 's/\]/\]  /g' >> README.md
 
 echo "## Last 7 Days" >> README.md
