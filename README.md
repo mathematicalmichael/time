@@ -48,15 +48,15 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 33h 28m 15s
+thesis - 9h 28m 15s
 - [meeting  1h 00m 00s]  
 - [organization  3h 55m 29s]  
 - [reading  1h 09m 40s]  
-- [review 26h 23m 11s]  
+- [review  2h 23m 11s]  
 - [setup  1h 30m 00s]  
 - [writing  3h 09m 35s]  
 
-Total: 65h 03m 13s
+Total: 41h 03m 13s
 ## Last Month
 Tue 01 January 2019 -> Mon 28 January 2019
 
@@ -91,15 +91,15 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 33h 28m 15s
+thesis - 9h 28m 15s
 - [meeting  1h 00m 00s]  
 - [organization  3h 55m 29s]  
 - [reading  1h 09m 40s]  
-- [review 26h 23m 11s]  
+- [review  2h 23m 11s]  
 - [setup  1h 30m 00s]  
 - [writing  3h 09m 35s]  
 
-Total: 65h 03m 13s
+Total: 41h 03m 13s
 ## Last Year
 Tue 01 January 2019 -> Mon 28 January 2019
 
@@ -134,12 +134,12 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 33h 28m 15s
+thesis - 9h 28m 15s
 - [meeting  1h 00m 00s]  
 - [organization  3h 55m 29s]  
 - [reading  1h 09m 40s]  
-- [review 26h 23m 11s]  
+- [review  2h 23m 11s]  
 - [setup  1h 30m 00s]  
 - [writing  3h 09m 35s]  
 
-Total: 65h 03m 13s
+Total: 41h 03m 13s
