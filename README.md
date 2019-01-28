@@ -11,6 +11,9 @@ Ideally, my use of this project will continue in perpetuity.
 ## Last Week
 Mon 28 January 2019 -> Mon 28 January 2019
 
+thesis - 29m 16s
+- [writing     29m 16s]  
+
 ## Last 7 Days
 Mon 21 January 2019 -> Mon 28 January 2019
 
@@ -45,15 +48,15 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 32h 58m 59s
+thesis - 33h 28m 15s
 - [meeting  1h 00m 00s]  
 - [organization  3h 55m 29s]  
 - [reading  1h 09m 40s]  
 - [review 26h 23m 11s]  
 - [setup  1h 30m 00s]  
-- [writing  2h 40m 19s]  
+- [writing  3h 09m 35s]  
 
-Total: 64h 33m 57s
+Total: 65h 03m 13s
 ## Last Month
 Tue 01 January 2019 -> Mon 28 January 2019
 
@@ -88,15 +91,15 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 32h 58m 59s
+thesis - 33h 28m 15s
 - [meeting  1h 00m 00s]  
 - [organization  3h 55m 29s]  
 - [reading  1h 09m 40s]  
 - [review 26h 23m 11s]  
 - [setup  1h 30m 00s]  
-- [writing  2h 40m 19s]  
+- [writing  3h 09m 35s]  
 
-Total: 64h 33m 57s
+Total: 65h 03m 13s
 ## Last Year
 Tue 01 January 2019 -> Mon 28 January 2019
 
@@ -131,12 +134,12 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 32h 58m 59s
+thesis - 33h 28m 15s
 - [meeting  1h 00m 00s]  
 - [organization  3h 55m 29s]  
 - [reading  1h 09m 40s]  
 - [review 26h 23m 11s]  
 - [setup  1h 30m 00s]  
-- [writing  2h 40m 19s]  
+- [writing  3h 09m 35s]  
 
-Total: 64h 33m 57s
+Total: 65h 03m 13s
