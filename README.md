@@ -9,50 +9,10 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 ## Last Week
-Mon 21 January 2019 -> Sun 27 January 2019
+Mon 28 January 2019 -> Mon 28 January 2019
 
-hub - 4h 01m 43s
-- [docs     22m 00s]  
-- [maintenance  1h 46m 23s]  
-- [setup  1h 53m 20s]  
-- [turing  1h 00m 38s]  
-
-nsf - 23h 22m 55s
-- [background  1h 37m 05s]  
-- [bet 21h 10m 33s]  
-- [discussion     32m 00s]  
-- [features  2h 58m 11s]  
-- [meeting  1h 15m 00s]  
-- [notebooks  2h 58m 11s]  
-- [organization  1h 15m 00s]  
-- [plotting  1h 33m 58s]  
-- [setup     57m 22s]  
-- [tests 16h 09m 17s]  
-- [upgrade 12h 14m 14s]  
-- [versioning  4h 46m 25s]  
-
-professional-development - 2h 57m 13s
-- [meeting  2h 30m 00s]  
-- [mp     12m 58s]  
-- [resources     12m 58s]  
-- [stat  2h 30m 00s]  
-- [web     12m 58s]  
-
-school - 1h 13m 07s
-- [email     17m 01s]  
-- [paperwork     56m 06s]  
-
-thesis - 7h 45m 28s
-- [meeting  1h 00m 00s]  
-- [organization  3h 55m 29s]  
-- [reading  1h 09m 40s]  
-- [review  1h 09m 40s]  
-- [setup  1h 30m 00s]  
-- [writing  2h 40m 19s]  
-
-Total: 39h 20m 26s
 ## Last 7 Days
-Sun 20 January 2019 -> Sun 27 January 2019
+Mon 21 January 2019 -> Mon 28 January 2019
 
 hub - 4h 01m 43s
 - [docs     22m 00s]  
@@ -85,17 +45,17 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 7h 45m 28s
+thesis - 32h 58m 59s
 - [meeting  1h 00m 00s]  
 - [organization  3h 55m 29s]  
 - [reading  1h 09m 40s]  
-- [review  1h 09m 40s]  
+- [review 26h 23m 11s]  
 - [setup  1h 30m 00s]  
 - [writing  2h 40m 19s]  
 
-Total: 39h 20m 26s
+Total: 64h 33m 57s
 ## Last Month
-Tue 01 January 2019 -> Sun 27 January 2019
+Tue 01 January 2019 -> Mon 28 January 2019
 
 hub - 4h 01m 43s
 - [docs     22m 00s]  
@@ -128,17 +88,17 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 7h 45m 28s
+thesis - 32h 58m 59s
 - [meeting  1h 00m 00s]  
 - [organization  3h 55m 29s]  
 - [reading  1h 09m 40s]  
-- [review  1h 09m 40s]  
+- [review 26h 23m 11s]  
 - [setup  1h 30m 00s]  
 - [writing  2h 40m 19s]  
 
-Total: 39h 20m 26s
+Total: 64h 33m 57s
 ## Last Year
-Tue 01 January 2019 -> Sun 27 January 2019
+Tue 01 January 2019 -> Mon 28 January 2019
 
 hub - 4h 01m 43s
 - [docs     22m 00s]  
@@ -171,12 +131,12 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 7h 45m 28s
+thesis - 32h 58m 59s
 - [meeting  1h 00m 00s]  
 - [organization  3h 55m 29s]  
 - [reading  1h 09m 40s]  
-- [review  1h 09m 40s]  
+- [review 26h 23m 11s]  
 - [setup  1h 30m 00s]  
 - [writing  2h 40m 19s]  
 
-Total: 39h 20m 26s
+Total: 64h 33m 57s
