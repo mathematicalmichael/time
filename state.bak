@@ -1,10 +1,8 @@
 {
  "project": "nsf",
- "start": 1548855543,
+ "start": 1548882090,
  "tags": [
   "bet",
-  "upgrade",
-  "testing",
-  "versioning"
+  "upgrade"
  ]
 }

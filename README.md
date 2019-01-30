@@ -11,12 +11,15 @@ Ideally, my use of this project will continue in perpetuity.
 ## This Week
 Mon 28 January 2019 -> Wed 30 January 2019
 
-nsf - 6h 15m 27s
-- [bet  5h 19m 27s]  
+hub - 53m 22s
+- [maintenance     53m 22s]  
+
+nsf - 7h 21m 59s
+- [bet  6h 25m 59s]  
 - [meeting     56m 00s]  
 - [planning     56m 00s]  
 - [testing  5h 19m 27s]  
-- [upgrade  5h 19m 27s]  
+- [upgrade  6h 25m 59s]  
 - [versioning  5h 19m 27s]  
 
 professional-development - 2h 08m 32s
@@ -29,18 +32,18 @@ thesis - 4h 59m 40s
 - [review  1h 27m 57s]  
 - [writing  2h 22m 43s]  
 
-Total: 13h 23m 39s
+Total: 15h 23m 33s
 ## Last 7 Days
 Wed 23 January 2019 -> Wed 30 January 2019
 
-hub - 2h 55m 50s
-- [maintenance  1h 02m 30s]  
+hub - 3h 49m 12s
+- [maintenance  1h 55m 52s]  
 - [setup  1h 53m 20s]  
 - [turing  1h 00m 38s]  
 
-nsf - 21h 52m 41s
+nsf - 22h 59m 13s
 - [background     39m 43s]  
-- [bet 20h 56m 41s]  
+- [bet 22h 03m 13s]  
 - [discussion     32m 00s]  
 - [features  2h 58m 11s]  
 - [meeting     56m 00s]  
@@ -49,7 +52,7 @@ nsf - 21h 52m 41s
 - [plotting  1h 33m 58s]  
 - [testing  5h 19m 27s]  
 - [tests 13h 58m 47s]  
-- [upgrade 12h 00m 22s]  
+- [upgrade 13h 06m 54s]  
 - [versioning 10h 05m 52s]  
 
 professional-development - 2h 08m 32s
@@ -68,19 +71,19 @@ thesis - 11h 03m 26s
 - [setup  1h 30m 00s]  
 - [writing  3h 35m 59s]  
 
-Total: 38h 11m 12s
+Total: 40h 11m 06s
 ## Last Month
 Tue 01 January 2019 -> Wed 30 January 2019
 
-hub - 4h 01m 43s
+hub - 4h 55m 05s
 - [docs     22m 00s]  
-- [maintenance  1h 46m 23s]  
+- [maintenance  2h 39m 45s]  
 - [setup  1h 53m 20s]  
 - [turing  1h 00m 38s]  
 
-nsf - 29h 38m 22s
+nsf - 30h 44m 54s
 - [background  1h 37m 05s]  
-- [bet 26h 30m 00s]  
+- [bet 27h 36m 32s]  
 - [discussion     32m 00s]  
 - [features  2h 58m 11s]  
 - [meeting  2h 11m 00s]  
@@ -91,7 +94,7 @@ nsf - 29h 38m 22s
 - [setup     57m 22s]  
 - [testing  5h 19m 27s]  
 - [tests 16h 09m 17s]  
-- [upgrade 17h 33m 41s]  
+- [upgrade 18h 40m 13s]  
 - [versioning 10h 05m 52s]  
 
 professional-development - 5h 05m 45s
@@ -114,19 +117,19 @@ thesis - 13h 58m 39s
 - [setup  1h 30m 00s]  
 - [writing  5h 03m 02s]  
 
-Total: 53h 57m 36s
+Total: 55h 57m 30s
 ## Last Year
 Tue 01 January 2019 -> Wed 30 January 2019
 
-hub - 4h 01m 43s
+hub - 4h 55m 05s
 - [docs     22m 00s]  
-- [maintenance  1h 46m 23s]  
+- [maintenance  2h 39m 45s]  
 - [setup  1h 53m 20s]  
 - [turing  1h 00m 38s]  
 
-nsf - 29h 38m 22s
+nsf - 30h 44m 54s
 - [background  1h 37m 05s]  
-- [bet 26h 30m 00s]  
+- [bet 27h 36m 32s]  
 - [discussion     32m 00s]  
 - [features  2h 58m 11s]  
 - [meeting  2h 11m 00s]  
@@ -137,7 +140,7 @@ nsf - 29h 38m 22s
 - [setup     57m 22s]  
 - [testing  5h 19m 27s]  
 - [tests 16h 09m 17s]  
-- [upgrade 17h 33m 41s]  
+- [upgrade 18h 40m 13s]  
 - [versioning 10h 05m 52s]  
 
 professional-development - 5h 05m 45s
@@ -160,4 +163,4 @@ thesis - 13h 58m 39s
 - [setup  1h 30m 00s]  
 - [writing  5h 03m 02s]  
 
-Total: 53h 57m 36s
+Total: 55h 57m 30s
