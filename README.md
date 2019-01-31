@@ -14,17 +14,17 @@ Mon 28 January 2019 -> Thu 31 January 2019
 hub - 53m 22s
 - [maintenance     53m 22s]  
 
-nsf - 7h 21m 59s
-- [bet  6h 25m 59s]  
+nsf - 8h 56m 22s
+- [bet  8h 00m 22s]  
 - [meeting     56m 00s]  
 - [planning     56m 00s]  
 - [testing  5h 19m 27s]  
 - [upgrade  6h 25m 59s]  
-- [versioning  5h 19m 27s]  
+- [versioning  6h 53m 50s]  
 
-professional-development - 2h 08m 32s
+professional-development - 5h 08m 32s
 - [meeting  2h 08m 32s]  
-- [stat  2h 08m 32s]  
+- [stat  5h 08m 32s]  
 
 thesis - 4h 59m 40s
 - [meeting  1h 09m 00s]  
@@ -32,7 +32,7 @@ thesis - 4h 59m 40s
 - [review  1h 27m 57s]  
 - [writing  2h 22m 43s]  
 
-Total: 15h 23m 33s
+Total: 19h 57m 56s
 ## Last 7 Days
 Thu 24 January 2019 -> Thu 31 January 2019
 
@@ -41,8 +41,8 @@ hub - 3h 49m 12s
 - [setup  1h 53m 20s]  
 - [turing  1h 00m 38s]  
 
-nsf - 16h 19m 33s
-- [bet 15h 23m 33s]  
+nsf - 17h 53m 56s
+- [bet 16h 57m 56s]  
 - [features  2h 58m 11s]  
 - [meeting     56m 00s]  
 - [notebooks  2h 58m 11s]  
@@ -51,11 +51,11 @@ nsf - 16h 19m 33s
 - [testing  5h 19m 27s]  
 - [tests  8h 57m 34s]  
 - [upgrade  7h 38m 57s]  
-- [versioning 10h 05m 52s]  
+- [versioning 11h 40m 15s]  
 
-professional-development - 2h 08m 32s
+professional-development - 5h 08m 32s
 - [meeting  2h 08m 32s]  
-- [stat  2h 08m 32s]  
+- [stat  5h 08m 32s]  
 
 school - 10m 43s
 - [email     10m 43s]  
@@ -69,7 +69,7 @@ thesis - 11h 03m 26s
 - [setup  1h 30m 00s]  
 - [writing  3h 35m 59s]  
 
-Total: 33h 31m 26s
+Total: 38h 05m 49s
 ## Last Month
 Tue 01 January 2019 -> Thu 31 January 2019
 
@@ -79,9 +79,9 @@ hub - 4h 55m 05s
 - [setup  1h 53m 20s]  
 - [turing  1h 00m 38s]  
 
-nsf - 30h 44m 54s
+nsf - 32h 19m 17s
 - [background  1h 37m 05s]  
-- [bet 27h 36m 32s]  
+- [bet 29h 10m 55s]  
 - [discussion     32m 00s]  
 - [features  2h 58m 11s]  
 - [meeting  2h 11m 00s]  
@@ -93,13 +93,13 @@ nsf - 30h 44m 54s
 - [testing  5h 19m 27s]  
 - [tests 16h 09m 17s]  
 - [upgrade 18h 40m 13s]  
-- [versioning 10h 05m 52s]  
+- [versioning 11h 40m 15s]  
 
-professional-development - 5h 05m 45s
+professional-development - 8h 05m 45s
 - [meeting  4h 38m 32s]  
 - [mp     12m 58s]  
 - [resources     12m 58s]  
-- [stat  4h 38m 32s]  
+- [stat  7h 38m 32s]  
 - [web     12m 58s]  
 
 school - 1h 13m 07s
@@ -115,7 +115,7 @@ thesis - 13h 58m 39s
 - [setup  1h 30m 00s]  
 - [writing  5h 03m 02s]  
 
-Total: 55h 57m 30s
+Total: 60h 31m 53s
 ## Last Year
 Tue 01 January 2019 -> Thu 31 January 2019
 
@@ -125,9 +125,9 @@ hub - 4h 55m 05s
 - [setup  1h 53m 20s]  
 - [turing  1h 00m 38s]  
 
-nsf - 30h 44m 54s
+nsf - 32h 19m 17s
 - [background  1h 37m 05s]  
-- [bet 27h 36m 32s]  
+- [bet 29h 10m 55s]  
 - [discussion     32m 00s]  
 - [features  2h 58m 11s]  
 - [meeting  2h 11m 00s]  
@@ -139,13 +139,13 @@ nsf - 30h 44m 54s
 - [testing  5h 19m 27s]  
 - [tests 16h 09m 17s]  
 - [upgrade 18h 40m 13s]  
-- [versioning 10h 05m 52s]  
+- [versioning 11h 40m 15s]  
 
-professional-development - 5h 05m 45s
+professional-development - 8h 05m 45s
 - [meeting  4h 38m 32s]  
 - [mp     12m 58s]  
 - [resources     12m 58s]  
-- [stat  4h 38m 32s]  
+- [stat  7h 38m 32s]  
 - [web     12m 58s]  
 
 school - 1h 13m 07s
@@ -161,4 +161,4 @@ thesis - 13h 58m 39s
 - [setup  1h 30m 00s]  
 - [writing  5h 03m 02s]  
 
-Total: 55h 57m 30s
+Total: 60h 31m 53s
