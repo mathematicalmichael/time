@@ -14,11 +14,12 @@ Mon 28 January 2019 -> Fri 01 February 2019
 hub - 53m 22s
 - [maintenance     53m 22s]  
 
-nsf - 10h 38m 04s
-- [bet  9h 42m 04s]  
+nsf - 13h 01m 00s
+- [bet 12h 05m 00s]  
 - [meeting     56m 00s]  
 - [planning     56m 00s]  
-- [testing  5h 19m 27s]  
+- [testing  7h 42m 23s]  
+- [travis  1h 29m 27s]  
 - [upgrade  6h 25m 59s]  
 - [versioning  8h 35m 32s]  
 
@@ -32,7 +33,7 @@ thesis - 4h 59m 40s
 - [review  1h 27m 57s]  
 - [writing  2h 22m 43s]  
 
-Total: 21h 39m 38s
+Total: 24h 02m 34s
 ## Last 7 Days
 Fri 25 January 2019 -> Fri 01 February 2019
 
@@ -40,13 +41,14 @@ hub - 1h 46m 04s
 - [maintenance     53m 22s]  
 - [setup     52m 42s]  
 
-nsf - 15h 24m 29s
-- [bet 14h 28m 29s]  
+nsf - 17h 47m 25s
+- [bet 16h 51m 25s]  
 - [meeting     56m 00s]  
 - [planning     56m 00s]  
 - [plotting  1h 33m 58s]  
-- [testing  5h 19m 27s]  
+- [testing  7h 42m 23s]  
 - [tests  4h 46m 25s]  
+- [travis  1h 29m 27s]  
 - [upgrade  6h 25m 59s]  
 - [versioning 13h 21m 57s]  
 
@@ -63,12 +65,14 @@ thesis - 11h 03m 26s
 - [setup  1h 30m 00s]  
 - [writing  3h 35m 59s]  
 
-Total: 33h 22m 31s
+Total: 35h 45m 27s
 ## Last Month
 Fri 01 February 2019 -> Fri 01 February 2019
 
-nsf - 1h 41m 42s
-- [bet  1h 41m 42s]  
+nsf - 4h 04m 38s
+- [bet  4h 04m 38s]  
+- [testing  2h 22m 56s]  
+- [travis  1h 29m 27s]  
 - [versioning  1h 41m 42s]  
 
 ## Last Year
@@ -80,9 +84,9 @@ hub - 4h 55m 05s
 - [setup  1h 53m 20s]  
 - [turing  1h 00m 38s]  
 
-nsf - 34h 00m 59s
+nsf - 36h 23m 55s
 - [background  1h 37m 05s]  
-- [bet 30h 52m 37s]  
+- [bet 33h 15m 33s]  
 - [discussion     32m 00s]  
 - [features  2h 58m 11s]  
 - [meeting  2h 11m 00s]  
@@ -91,8 +95,9 @@ nsf - 34h 00m 59s
 - [planning     56m 00s]  
 - [plotting  1h 33m 58s]  
 - [setup     57m 22s]  
-- [testing  5h 19m 27s]  
+- [testing  7h 42m 23s]  
 - [tests 16h 09m 17s]  
+- [travis  1h 29m 27s]  
 - [upgrade 18h 40m 13s]  
 - [versioning 13h 21m 57s]  
 
@@ -116,4 +121,4 @@ thesis - 13h 58m 39s
 - [setup  1h 30m 00s]  
 - [writing  5h 03m 02s]  
 
-Total: 62h 13m 35s
+Total: 64h 36m 31s
