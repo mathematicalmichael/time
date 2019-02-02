@@ -11,8 +11,8 @@ Ideally, my use of this project will continue in perpetuity.
 ## This Week
 Mon 28 January 2019 -> Fri 01 February 2019
 
-hub - 53m 22s
-- [maintenance     53m 22s]  
+hub - 1h 47m 14s
+- [maintenance  1h 47m 14s]  
 
 nsf - 15h 47m 42s
 - [bet 14h 51m 42s]  
@@ -33,12 +33,12 @@ thesis - 4h 59m 40s
 - [review  1h 27m 57s]  
 - [writing  2h 22m 43s]  
 
-Total: 26h 49m 16s
+Total: 27h 43m 08s
 ## Last 7 Days
 Fri 25 January 2019 -> Fri 01 February 2019
 
-hub - 1h 46m 04s
-- [maintenance     53m 22s]  
+hub - 2h 39m 56s
+- [maintenance  1h 47m 14s]  
 - [setup     52m 42s]  
 
 nsf - 20h 34m 07s
@@ -65,7 +65,7 @@ thesis - 11h 03m 26s
 - [setup  1h 30m 00s]  
 - [writing  3h 35m 59s]  
 
-Total: 38h 32m 09s
+Total: 39h 26m 01s
 ## Last Month
 Fri 01 February 2019 -> Fri 01 February 2019
 
@@ -78,9 +78,9 @@ nsf - 6h 51m 20s
 ## Last Year
 Tue 01 January 2019 -> Fri 01 February 2019
 
-hub - 4h 55m 05s
+hub - 5h 48m 57s
 - [docs     22m 00s]  
-- [maintenance  2h 39m 45s]  
+- [maintenance  3h 33m 37s]  
 - [setup  1h 53m 20s]  
 - [turing  1h 00m 38s]  
 
@@ -121,4 +121,4 @@ thesis - 13h 58m 39s
 - [setup  1h 30m 00s]  
 - [writing  5h 03m 02s]  
 
-Total: 67h 23m 13s
+Total: 68h 17m 05s
