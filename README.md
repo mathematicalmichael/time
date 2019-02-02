@@ -14,12 +14,13 @@ Mon 28 January 2019 -> Fri 01 February 2019
 hub - 1h 47m 14s
 - [maintenance  1h 47m 14s]  
 
-nsf - 15h 47m 42s
-- [bet 14h 51m 42s]  
+nsf - 16h 21m 35s
+- [bet 15h 25m 35s]  
 - [meeting     56m 00s]  
 - [planning     56m 00s]  
-- [testing 10h 29m 05s]  
-- [travis  4h 16m 09s]  
+- [reading     33m 53s]  
+- [testing 11h 02m 58s]  
+- [travis  4h 50m 02s]  
 - [upgrade  6h 25m 59s]  
 - [versioning  8h 35m 32s]  
 
@@ -33,7 +34,7 @@ thesis - 4h 59m 40s
 - [review  1h 27m 57s]  
 - [writing  2h 22m 43s]  
 
-Total: 27h 43m 08s
+Total: 28h 17m 01s
 ## Last 7 Days
 Fri 25 January 2019 -> Fri 01 February 2019
 
@@ -41,14 +42,15 @@ hub - 2h 39m 56s
 - [maintenance  1h 47m 14s]  
 - [setup     52m 42s]  
 
-nsf - 20h 34m 07s
-- [bet 19h 38m 07s]  
+nsf - 21h 08m 00s
+- [bet 20h 12m 00s]  
 - [meeting     56m 00s]  
 - [planning     56m 00s]  
 - [plotting  1h 33m 58s]  
-- [testing 10h 29m 05s]  
+- [reading     33m 53s]  
+- [testing 11h 02m 58s]  
 - [tests  4h 46m 25s]  
-- [travis  4h 16m 09s]  
+- [travis  4h 50m 02s]  
 - [upgrade  6h 25m 59s]  
 - [versioning 13h 21m 57s]  
 
@@ -65,14 +67,15 @@ thesis - 11h 03m 26s
 - [setup  1h 30m 00s]  
 - [writing  3h 35m 59s]  
 
-Total: 39h 26m 01s
+Total: 39h 59m 54s
 ## Last Month
 Fri 01 February 2019 -> Fri 01 February 2019
 
-nsf - 6h 51m 20s
-- [bet  6h 51m 20s]  
-- [testing  5h 09m 38s]  
-- [travis  4h 16m 09s]  
+nsf - 7h 25m 13s
+- [bet  7h 25m 13s]  
+- [reading     33m 53s]  
+- [testing  5h 43m 31s]  
+- [travis  4h 50m 02s]  
 - [versioning  1h 41m 42s]  
 
 ## Last Year
@@ -84,9 +87,9 @@ hub - 5h 48m 57s
 - [setup  1h 53m 20s]  
 - [turing  1h 00m 38s]  
 
-nsf - 39h 10m 37s
+nsf - 39h 44m 30s
 - [background  1h 37m 05s]  
-- [bet 36h 02m 15s]  
+- [bet 36h 36m 08s]  
 - [discussion     32m 00s]  
 - [features  2h 58m 11s]  
 - [meeting  2h 11m 00s]  
@@ -94,10 +97,11 @@ nsf - 39h 10m 37s
 - [organization  1h 15m 00s]  
 - [planning     56m 00s]  
 - [plotting  1h 33m 58s]  
+- [reading     33m 53s]  
 - [setup     57m 22s]  
-- [testing 10h 29m 05s]  
+- [testing 11h 02m 58s]  
 - [tests 16h 09m 17s]  
-- [travis  4h 16m 09s]  
+- [travis  4h 50m 02s]  
 - [upgrade 18h 40m 13s]  
 - [versioning 13h 21m 57s]  
 
@@ -121,4 +125,4 @@ thesis - 13h 58m 39s
 - [setup  1h 30m 00s]  
 - [writing  5h 03m 02s]  
 
-Total: 68h 17m 05s
+Total: 68h 50m 58s
