@@ -14,10 +14,10 @@ Mon 28 January 2019 -> Sat 02 February 2019
 hub - 1h 47m 14s
 - [maintenance  1h 47m 14s]  
 
-nsf - 20h 46m 07s
-- [bet 19h 50m 07s]  
+nsf - 23h 04m 39s
+- [bet 22h 08m 39s]  
 - [meeting     56m 00s]  
-- [notebooks  2h 37m 37s]  
+- [notebooks  4h 56m 09s]  
 - [planning     56m 00s]  
 - [reading  2h 20m 48s]  
 - [testing 12h 49m 53s]  
@@ -35,7 +35,7 @@ thesis - 4h 59m 40s
 - [review  1h 27m 57s]  
 - [writing  2h 22m 43s]  
 
-Total: 32h 41m 33s
+Total: 35h 00m 05s
 ## Last 7 Days
 Sat 26 January 2019 -> Sat 02 February 2019
 
@@ -43,10 +43,10 @@ hub - 2h 39m 56s
 - [maintenance  1h 47m 14s]  
 - [setup     52m 42s]  
 
-nsf - 22h 20m 20s
-- [bet 21h 24m 20s]  
+nsf - 24h 38m 52s
+- [bet 23h 42m 52s]  
 - [meeting     56m 00s]  
-- [notebooks  2h 37m 37s]  
+- [notebooks  4h 56m 09s]  
 - [planning     56m 00s]  
 - [plotting  1h 33m 58s]  
 - [reading  2h 20m 48s]  
@@ -69,13 +69,13 @@ thesis - 11h 03m 26s
 - [setup  1h 30m 00s]  
 - [writing  3h 35m 59s]  
 
-Total: 41h 12m 14s
+Total: 43h 30m 46s
 ## Last Month
 Fri 01 February 2019 -> Sat 02 February 2019
 
-nsf - 11h 49m 45s
-- [bet 11h 49m 45s]  
-- [notebooks  2h 37m 37s]  
+nsf - 14h 08m 17s
+- [bet 14h 08m 17s]  
+- [notebooks  4h 56m 09s]  
 - [reading  2h 20m 48s]  
 - [testing  7h 30m 26s]  
 - [travis  6h 36m 57s]  
@@ -90,13 +90,13 @@ hub - 5h 48m 57s
 - [setup  1h 53m 20s]  
 - [turing  1h 00m 38s]  
 
-nsf - 44h 09m 02s
+nsf - 46h 27m 34s
 - [background  1h 37m 05s]  
-- [bet 41h 00m 40s]  
+- [bet 43h 19m 12s]  
 - [discussion     32m 00s]  
 - [features  2h 58m 11s]  
 - [meeting  2h 11m 00s]  
-- [notebooks  5h 35m 48s]  
+- [notebooks  7h 54m 20s]  
 - [organization  1h 15m 00s]  
 - [planning     56m 00s]  
 - [plotting  1h 33m 58s]  
@@ -128,4 +128,4 @@ thesis - 13h 58m 39s
 - [setup  1h 30m 00s]  
 - [writing  5h 03m 02s]  
 
-Total: 73h 15m 30s
+Total: 75h 34m 02s
