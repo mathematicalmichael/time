@@ -9,15 +9,28 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 ## This Week
-Mon 28 January 2019 -> Sun 03 February 2019
+Mon 04 February 2019 -> Mon 04 February 2019
+
+bet - 2h 58m 42s
+- [testing  2h 58m 42s]  
+- [travis  2h 58m 42s]  
+- [upgrade  2h 58m 42s]  
+
+## Last 7 Days
+Mon 28 January 2019 -> Mon 04 February 2019
+
+bet - 2h 58m 42s
+- [testing  2h 58m 42s]  
+- [travis  2h 58m 42s]  
+- [upgrade  2h 58m 42s]  
 
 hub - 1h 47m 14s
 - [maintenance  1h 47m 14s]  
 
-nsf - 23h 04m 39s
-- [bet 22h 08m 39s]  
+nsf - 24h 42m 19s
+- [bet 23h 46m 19s]  
 - [meeting     56m 00s]  
-- [notebooks  4h 56m 09s]  
+- [notebooks  6h 33m 49s]  
 - [planning     56m 00s]  
 - [reading  2h 20m 48s]  
 - [testing 12h 49m 53s]  
@@ -29,69 +42,46 @@ professional-development - 5h 08m 32s
 - [meeting  2h 08m 32s]  
 - [stat  5h 08m 32s]  
 
-thesis - 9h 21m 09s
+thesis - 10h 12m 12s
 - [code  4h 21m 29s]  
 - [meeting  1h 09m 00s]  
-- [organization  4h 21m 29s]  
+- [organization  5h 12m 32s]  
 - [planning  2h 33m 21s]  
 - [research  4h 21m 29s]  
 - [review  1h 27m 57s]  
-- [writing  2h 22m 43s]  
+- [writing  3h 13m 46s]  
 
-Total: 39h 21m 34s
-## Last 7 Days
-Sun 27 January 2019 -> Sun 03 February 2019
-
-hub - 2h 39m 56s
-- [maintenance  1h 47m 14s]  
-- [setup     52m 42s]  
-
-nsf - 23h 04m 39s
-- [bet 22h 08m 39s]  
-- [meeting     56m 00s]  
-- [notebooks  4h 56m 09s]  
-- [planning     56m 00s]  
-- [reading  2h 20m 48s]  
-- [testing 12h 49m 53s]  
-- [travis  6h 36m 57s]  
-- [upgrade  6h 25m 59s]  
-- [versioning  8h 35m 32s]  
-
-professional-development - 5h 08m 32s
-- [meeting  2h 08m 32s]  
-- [stat  5h 08m 32s]  
-
-thesis - 15h 24m 55s
-- [code  4h 21m 29s]  
-- [meeting  1h 09m 00s]  
-- [organization  6h 48m 48s]  
-- [planning  2h 33m 21s]  
-- [reading  1h 09m 40s]  
-- [research  4h 21m 29s]  
-- [review  3h 51m 08s]  
-- [setup  1h 30m 00s]  
-- [writing  3h 35m 59s]  
-
-Total: 46h 18m 02s
+Total: 44h 48m 59s
 ## Last Month
-Fri 01 February 2019 -> Sun 03 February 2019
+Fri 01 February 2019 -> Mon 04 February 2019
 
-nsf - 14h 08m 17s
-- [bet 14h 08m 17s]  
-- [notebooks  4h 56m 09s]  
+bet - 2h 58m 42s
+- [testing  2h 58m 42s]  
+- [travis  2h 58m 42s]  
+- [upgrade  2h 58m 42s]  
+
+nsf - 15h 45m 57s
+- [bet 15h 45m 57s]  
+- [notebooks  6h 33m 49s]  
 - [reading  2h 20m 48s]  
 - [testing  7h 30m 26s]  
 - [travis  6h 36m 57s]  
 - [versioning  1h 41m 42s]  
 
-thesis - 4h 21m 29s
+thesis - 5h 12m 32s
 - [code  4h 21m 29s]  
-- [organization  4h 21m 29s]  
+- [organization  5h 12m 32s]  
 - [research  4h 21m 29s]  
+- [writing     51m 03s]  
 
-Total: 18h 29m 46s
+Total: 23h 57m 11s
 ## Last Year
-Tue 01 January 2019 -> Sun 03 February 2019
+Tue 01 January 2019 -> Mon 04 February 2019
+
+bet - 2h 58m 42s
+- [testing  2h 58m 42s]  
+- [travis  2h 58m 42s]  
+- [upgrade  2h 58m 42s]  
 
 hub - 5h 48m 57s
 - [docs     22m 00s]  
@@ -99,13 +89,13 @@ hub - 5h 48m 57s
 - [setup  1h 53m 20s]  
 - [turing  1h 00m 38s]  
 
-nsf - 46h 27m 34s
+nsf - 48h 05m 14s
 - [background  1h 37m 05s]  
-- [bet 43h 19m 12s]  
+- [bet 44h 56m 52s]  
 - [discussion     32m 00s]  
 - [features  2h 58m 11s]  
 - [meeting  2h 11m 00s]  
-- [notebooks  7h 54m 20s]  
+- [notebooks  9h 32m 00s]  
 - [organization  1h 15m 00s]  
 - [planning     56m 00s]  
 - [plotting  1h 33m 58s]  
@@ -128,15 +118,15 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 18h 20m 08s
+thesis - 19h 11m 11s
 - [code  4h 21m 29s]  
 - [meeting  2h 09m 00s]  
-- [organization  8h 16m 58s]  
+- [organization  9h 08m 01s]  
 - [planning  2h 33m 21s]  
 - [reading  1h 09m 40s]  
 - [research  4h 21m 29s]  
 - [review  3h 51m 08s]  
 - [setup  1h 30m 00s]  
-- [writing  5h 03m 02s]  
+- [writing  5h 54m 05s]  
 
-Total: 79h 55m 31s
+Total: 85h 22m 56s
