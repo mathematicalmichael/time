@@ -11,18 +11,18 @@ Ideally, my use of this project will continue in perpetuity.
 ## This Week
 Mon 04 February 2019 -> Mon 04 February 2019
 
-bet - 2h 58m 42s
-- [testing  2h 58m 42s]  
-- [travis  2h 58m 42s]  
-- [upgrade  2h 58m 42s]  
+bet - 5h 39m 07s
+- [testing  5h 39m 07s]  
+- [travis  5h 39m 07s]  
+- [upgrade  5h 39m 07s]  
 
 ## Last 7 Days
 Mon 28 January 2019 -> Mon 04 February 2019
 
-bet - 2h 58m 42s
-- [testing  2h 58m 42s]  
-- [travis  2h 58m 42s]  
-- [upgrade  2h 58m 42s]  
+bet - 5h 39m 07s
+- [testing  5h 39m 07s]  
+- [travis  5h 39m 07s]  
+- [upgrade  5h 39m 07s]  
 
 hub - 1h 47m 14s
 - [maintenance  1h 47m 14s]  
@@ -51,14 +51,14 @@ thesis - 10h 12m 12s
 - [review  1h 27m 57s]  
 - [writing  3h 13m 46s]  
 
-Total: 44h 48m 59s
+Total: 47h 29m 24s
 ## Last Month
 Fri 01 February 2019 -> Mon 04 February 2019
 
-bet - 2h 58m 42s
-- [testing  2h 58m 42s]  
-- [travis  2h 58m 42s]  
-- [upgrade  2h 58m 42s]  
+bet - 5h 39m 07s
+- [testing  5h 39m 07s]  
+- [travis  5h 39m 07s]  
+- [upgrade  5h 39m 07s]  
 
 nsf - 15h 45m 57s
 - [bet 15h 45m 57s]  
@@ -74,14 +74,14 @@ thesis - 5h 12m 32s
 - [research  4h 21m 29s]  
 - [writing     51m 03s]  
 
-Total: 23h 57m 11s
+Total: 26h 37m 36s
 ## Last Year
 Tue 01 January 2019 -> Mon 04 February 2019
 
-bet - 2h 58m 42s
-- [testing  2h 58m 42s]  
-- [travis  2h 58m 42s]  
-- [upgrade  2h 58m 42s]  
+bet - 5h 39m 07s
+- [testing  5h 39m 07s]  
+- [travis  5h 39m 07s]  
+- [upgrade  5h 39m 07s]  
 
 hub - 5h 48m 57s
 - [docs     22m 00s]  
@@ -129,4 +129,4 @@ thesis - 19h 11m 11s
 - [setup  1h 30m 00s]  
 - [writing  5h 54m 05s]  
 
-Total: 85h 22m 56s
+Total: 88h 03m 21s

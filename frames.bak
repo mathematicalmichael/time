@@ -877,5 +877,29 @@
    "testing"
   ],
   1549290998
+ ],
+ [
+  1549292390,
+  1549295058,
+  "bet",
+  "2a7bf3ac6da74adc8ba7b67c04906fdd",
+  [
+   "upgrade",
+   "travis",
+   "testing"
+  ],
+  1549295058
+ ],
+ [
+  1549296510,
+  1549297328,
+  "bet",
+  "4e7f8d6eacee4037a17fd879f6f865d8",
+  [
+   "upgrade",
+   "travis",
+   "testing"
+  ],
+  1549297328
  ]
 ]
