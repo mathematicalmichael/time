@@ -1,9 +1,8 @@
 {
- "project": "bet",
- "start": 1549298036,
+ "project": "thesis",
+ "start": 1549326314,
  "tags": [
-  "upgrade",
-  "travis",
-  "testing"
+  "presentation",
+  "planning"
  ]
 }
