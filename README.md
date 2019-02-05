@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 ## This Week
-Mon 04 February 2019 -> Mon 04 February 2019
+Mon 04 February 2019 -> Tue 05 February 2019
 
 bet - 5h 39m 07s
 - [testing  5h 39m 07s]  
@@ -21,21 +21,22 @@ nsf - 13m 14s
 - [notebooks     13m 14s]  
 - [upgrade     13m 14s]  
 
-thesis - 43m 54s
+thesis - 2h 34m 15s
 - [planning     43m 54s]  
 - [presentation     43m 54s]  
+- [writing  1h 50m 21s]  
 
-Total: 6h 36m 15s
+Total: 8h 26m 36s
 ## Last 7 Days
-Mon 28 January 2019 -> Mon 04 February 2019
+Tue 29 January 2019 -> Tue 05 February 2019
 
 bet - 5h 39m 07s
 - [testing  5h 39m 07s]  
 - [travis  5h 39m 07s]  
 - [upgrade  5h 39m 07s]  
 
-hub - 1h 47m 14s
-- [maintenance  1h 47m 14s]  
+hub - 53m 22s
+- [maintenance     53m 22s]  
 
 nsf - 24h 55m 33s
 - [bet 23h 59m 33s]  
@@ -48,23 +49,22 @@ nsf - 24h 55m 33s
 - [upgrade  6h 39m 13s]  
 - [versioning  8h 35m 32s]  
 
-professional-development - 5h 08m 32s
-- [meeting  2h 08m 32s]  
-- [stat  5h 08m 32s]  
+professional-development - 3h 00m 00s
+- [stat  3h 00m 00s]  
 
-thesis - 10h 56m 06s
+thesis - 11h 44m 48s
 - [code  4h 21m 29s]  
 - [meeting  1h 09m 00s]  
 - [organization  5h 12m 32s]  
-- [planning  3h 17m 15s]  
+- [planning  2h 48m 28s]  
 - [presentation     43m 54s]  
 - [research  4h 21m 29s]  
-- [review  1h 27m 57s]  
-- [writing  3h 13m 46s]  
+- [review     55m 34s]  
+- [writing  4h 34m 51s]  
 
-Total: 48h 26m 32s
+Total: 46h 12m 50s
 ## Last Month
-Fri 01 February 2019 -> Mon 04 February 2019
+Fri 01 February 2019 -> Tue 05 February 2019
 
 bet - 5h 39m 07s
 - [testing  5h 39m 07s]  
@@ -80,17 +80,17 @@ nsf - 15h 59m 11s
 - [upgrade     13m 14s]  
 - [versioning  1h 41m 42s]  
 
-thesis - 5h 56m 26s
+thesis - 7h 46m 47s
 - [code  4h 21m 29s]  
 - [organization  5h 12m 32s]  
 - [planning     43m 54s]  
 - [presentation     43m 54s]  
 - [research  4h 21m 29s]  
-- [writing     51m 03s]  
+- [writing  2h 41m 24s]  
 
-Total: 27h 34m 44s
+Total: 29h 25m 05s
 ## Last Year
-Tue 01 January 2019 -> Mon 04 February 2019
+Tue 01 January 2019 -> Tue 05 February 2019
 
 bet - 5h 39m 07s
 - [testing  5h 39m 07s]  
@@ -132,7 +132,7 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 19h 55m 05s
+thesis - 21h 45m 26s
 - [code  4h 21m 29s]  
 - [meeting  2h 09m 00s]  
 - [organization  9h 08m 01s]  
@@ -142,6 +142,6 @@ thesis - 19h 55m 05s
 - [research  4h 21m 29s]  
 - [review  3h 51m 08s]  
 - [setup  1h 30m 00s]  
-- [writing  5h 54m 05s]  
+- [writing  7h 44m 26s]  
 
-Total: 89h 00m 29s
+Total: 90h 50m 50s
