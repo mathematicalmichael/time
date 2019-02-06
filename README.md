@@ -11,17 +11,17 @@ Ideally, my use of this project will continue in perpetuity.
 ## This Week
 Mon 04 February 2019 -> Tue 05 February 2019
 
-bet - 2h 58m 42s
-- [testing  2h 58m 42s]  
-- [travis  2h 58m 42s]  
-- [upgrade  2h 58m 42s]  
+bet - 2h 14m 14s
+- [testing  2h 14m 14s]  
+- [travis  2h 14m 14s]  
+- [upgrade  2h 14m 14s]  
 
-nsf - 2h 53m 39s
-- [bet  2h 53m 39s]  
+nsf - 3h 38m 07s
+- [bet  3h 38m 07s]  
 - [notebooks     13m 14s]  
-- [testing  2h 40m 25s]  
-- [travis  2h 40m 25s]  
-- [upgrade  2h 53m 39s]  
+- [testing  3h 24m 53s]  
+- [travis  3h 24m 53s]  
+- [upgrade  3h 38m 07s]  
 
 thesis - 2h 34m 15s
 - [planning     43m 54s]  
@@ -32,23 +32,23 @@ Total: 8h 26m 36s
 ## Last 7 Days
 Tue 29 January 2019 -> Tue 05 February 2019
 
-bet - 2h 58m 42s
-- [testing  2h 58m 42s]  
-- [travis  2h 58m 42s]  
-- [upgrade  2h 58m 42s]  
+bet - 2h 14m 14s
+- [testing  2h 14m 14s]  
+- [travis  2h 14m 14s]  
+- [upgrade  2h 14m 14s]  
 
 hub - 53m 22s
 - [maintenance     53m 22s]  
 
-nsf - 27h 35m 58s
-- [bet 26h 39m 58s]  
+nsf - 28h 20m 26s
+- [bet 27h 24m 26s]  
 - [meeting     56m 00s]  
 - [notebooks  6h 47m 03s]  
 - [planning     56m 00s]  
 - [reading  2h 20m 48s]  
-- [testing 15h 30m 18s]  
-- [travis  9h 17m 22s]  
-- [upgrade  9h 19m 38s]  
+- [testing 16h 14m 46s]  
+- [travis 10h 01m 50s]  
+- [upgrade 10h 04m 06s]  
 - [versioning  8h 35m 32s]  
 
 professional-development - 3h 00m 00s
@@ -68,18 +68,18 @@ Total: 46h 12m 50s
 ## Last Month
 Fri 01 February 2019 -> Tue 05 February 2019
 
-bet - 2h 58m 42s
-- [testing  2h 58m 42s]  
-- [travis  2h 58m 42s]  
-- [upgrade  2h 58m 42s]  
+bet - 2h 14m 14s
+- [testing  2h 14m 14s]  
+- [travis  2h 14m 14s]  
+- [upgrade  2h 14m 14s]  
 
-nsf - 18h 39m 36s
-- [bet 18h 39m 36s]  
+nsf - 19h 24m 04s
+- [bet 19h 24m 04s]  
 - [notebooks  6h 47m 03s]  
 - [reading  2h 20m 48s]  
-- [testing 10h 10m 51s]  
-- [travis  9h 17m 22s]  
-- [upgrade  2h 53m 39s]  
+- [testing 10h 55m 19s]  
+- [travis 10h 01m 50s]  
+- [upgrade  3h 38m 07s]  
 - [versioning  1h 41m 42s]  
 
 thesis - 7h 46m 47s
@@ -94,10 +94,10 @@ Total: 29h 25m 05s
 ## Last Year
 Tue 01 January 2019 -> Tue 05 February 2019
 
-bet - 2h 58m 42s
-- [testing  2h 58m 42s]  
-- [travis  2h 58m 42s]  
-- [upgrade  2h 58m 42s]  
+bet - 2h 14m 14s
+- [testing  2h 14m 14s]  
+- [travis  2h 14m 14s]  
+- [upgrade  2h 14m 14s]  
 
 hub - 5h 48m 57s
 - [docs     22m 00s]  
@@ -105,9 +105,9 @@ hub - 5h 48m 57s
 - [setup  1h 53m 20s]  
 - [turing  1h 00m 38s]  
 
-nsf - 50h 58m 53s
+nsf - 51h 43m 21s
 - [background  1h 37m 05s]  
-- [bet 47h 50m 31s]  
+- [bet 48h 34m 59s]  
 - [discussion     32m 00s]  
 - [features  2h 58m 11s]  
 - [meeting  2h 11m 00s]  
@@ -117,10 +117,10 @@ nsf - 50h 58m 53s
 - [plotting  1h 33m 58s]  
 - [reading  2h 20m 48s]  
 - [setup     57m 22s]  
-- [testing 15h 30m 18s]  
+- [testing 16h 14m 46s]  
 - [tests 16h 09m 17s]  
-- [travis  9h 17m 22s]  
-- [upgrade 21h 33m 52s]  
+- [travis 10h 01m 50s]  
+- [upgrade 22h 18m 20s]  
 - [versioning 13h 21m 57s]  
 
 professional-development - 8h 05m 45s
