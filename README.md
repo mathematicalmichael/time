@@ -15,10 +15,10 @@ hub - 1h 49m 59s
 - [maintenance  1h 49m 59s]  
 - [revision  1h 49m 59s]  
 
-nsf - 32h 28m 05s
-- [bet 32h 28m 05s]  
+nsf - 8h 28m 05s
+- [bet  8h 28m 05s]  
 - [notebooks     13m 14s]  
-- [presentation 26h 35m 44s]  
+- [presentation  2h 35m 44s]  
 - [testing  5h 39m 07s]  
 - [travis  5h 39m 07s]  
 - [upgrade  5h 52m 21s]  
@@ -40,7 +40,7 @@ thesis - 11h 19m 38s
 - [research  3h 55m 59s]  
 - [writing  1h 50m 21s]  
 
-Total: 49h 55m 41s
+Total: 25h 55m 41s
 ## Last 7 Days
 Sat 02 February 2019 -> Sat 09 February 2019
 
@@ -48,10 +48,10 @@ hub - 1h 49m 59s
 - [maintenance  1h 49m 59s]  
 - [revision  1h 49m 59s]  
 
-nsf - 40h 48m 49s
-- [bet 40h 48m 49s]  
+nsf - 16h 48m 49s
+- [bet 16h 48m 49s]  
 - [notebooks  6h 47m 03s]  
-- [presentation 26h 35m 44s]  
+- [presentation  2h 35m 44s]  
 - [reading  1h 46m 55s]  
 - [testing  7h 26m 02s]  
 - [travis  7h 26m 02s]  
@@ -76,7 +76,7 @@ thesis - 16h 32m 10s
 - [research  8h 17m 28s]  
 - [writing  2h 41m 24s]  
 
-Total: 63h 28m 57s
+Total: 39h 28m 57s
 ## Last Month
 Fri 01 February 2019 -> Sat 09 February 2019
 
@@ -84,10 +84,10 @@ hub - 1h 49m 59s
 - [maintenance  1h 49m 59s]  
 - [revision  1h 49m 59s]  
 
-nsf - 48h 14m 02s
-- [bet 48h 14m 02s]  
+nsf - 24h 14m 02s
+- [bet 24h 14m 02s]  
 - [notebooks  6h 47m 03s]  
-- [presentation 26h 35m 44s]  
+- [presentation  2h 35m 44s]  
 - [reading  2h 20m 48s]  
 - [testing 13h 09m 33s]  
 - [travis 12h 16m 04s]  
@@ -113,7 +113,7 @@ thesis - 16h 32m 10s
 - [research  8h 17m 28s]  
 - [writing  2h 41m 24s]  
 
-Total: 70h 54m 10s
+Total: 46h 54m 10s
 ## Last Year
 Tue 01 January 2019 -> Sat 09 February 2019
 
@@ -124,9 +124,9 @@ hub - 7h 38m 56s
 - [setup  1h 53m 20s]  
 - [turing  1h 00m 38s]  
 
-nsf - 80h 33m 19s
+nsf - 56h 33m 19s
 - [background  1h 37m 05s]  
-- [bet 77h 24m 57s]  
+- [bet 53h 24m 57s]  
 - [discussion     32m 00s]  
 - [features  2h 58m 11s]  
 - [meeting  2h 11m 00s]  
@@ -134,7 +134,7 @@ nsf - 80h 33m 19s
 - [organization  1h 15m 00s]  
 - [planning     56m 00s]  
 - [plotting  1h 33m 58s]  
-- [presentation 26h 35m 44s]  
+- [presentation  2h 35m 44s]  
 - [reading  2h 20m 48s]  
 - [setup     57m 22s]  
 - [testing 18h 29m 00s]  
@@ -174,4 +174,4 @@ thesis - 30h 30m 49s
 - [setup  1h 30m 00s]  
 - [writing  7h 44m 26s]  
 
-Total: 132h 19m 55s
+Total: 108h 19m 55s
