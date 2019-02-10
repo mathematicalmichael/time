@@ -1,4 +1,4 @@
 [options]
 log_current = true
-date_format = %m/%d/%Y
+date_format = %Y-%m-%d
 
