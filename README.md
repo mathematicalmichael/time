@@ -29,18 +29,18 @@ professional-development - 4h 17m 59s
 - [preparation  2h 34m 26s]  
 - [talk  2h 34m 26s]  
 
-thesis - 11h 19m 38s
+thesis - 11h 58m 41s
 - [background  1h 32m 00s]  
 - [conference  1h 15m 24s]  
 - [examples  1h 43m 48s]  
 - [filtering     40m 11s]  
 - [planning     43m 54s]  
 - [presentation  1h 59m 18s]  
-- [reading  4h 14m 11s]  
-- [research  3h 55m 59s]  
+- [reading  4h 53m 14s]  
+- [research  4h 35m 02s]  
 - [writing  1h 50m 21s]  
 
-Total: 25h 55m 41s
+Total: 26h 34m 44s
 ## Last 7 Days
 Sat 02 February 2019 -> Sat 09 February 2019
 
@@ -63,7 +63,7 @@ professional-development - 4h 17m 59s
 - [preparation  2h 34m 26s]  
 - [talk  2h 34m 26s]  
 
-thesis - 16h 32m 10s
+thesis - 17h 11m 13s
 - [background  1h 32m 00s]  
 - [code  4h 21m 29s]  
 - [conference  1h 15m 24s]  
@@ -72,11 +72,11 @@ thesis - 16h 32m 10s
 - [organization  5h 12m 32s]  
 - [planning     43m 54s]  
 - [presentation  1h 59m 18s]  
-- [reading  4h 14m 11s]  
-- [research  8h 17m 28s]  
+- [reading  4h 53m 14s]  
+- [research  8h 56m 31s]  
 - [writing  2h 41m 24s]  
 
-Total: 39h 28m 57s
+Total: 40h 08m 00s
 ## Last Month
 Fri 01 February 2019 -> Sat 09 February 2019
 
@@ -100,7 +100,7 @@ professional-development - 4h 17m 59s
 - [preparation  2h 34m 26s]  
 - [talk  2h 34m 26s]  
 
-thesis - 16h 32m 10s
+thesis - 17h 11m 13s
 - [background  1h 32m 00s]  
 - [code  4h 21m 29s]  
 - [conference  1h 15m 24s]  
@@ -109,11 +109,11 @@ thesis - 16h 32m 10s
 - [organization  5h 12m 32s]  
 - [planning     43m 54s]  
 - [presentation  1h 59m 18s]  
-- [reading  4h 14m 11s]  
-- [research  8h 17m 28s]  
+- [reading  4h 53m 14s]  
+- [research  8h 56m 31s]  
 - [writing  2h 41m 24s]  
 
-Total: 46h 54m 10s
+Total: 47h 33m 13s
 ## Last Year
 Tue 01 January 2019 -> Sat 09 February 2019
 
@@ -158,7 +158,7 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 30h 30m 49s
+thesis - 31h 09m 52s
 - [background  1h 32m 00s]  
 - [code  4h 21m 29s]  
 - [conference  1h 15m 24s]  
@@ -168,10 +168,10 @@ thesis - 30h 30m 49s
 - [organization  9h 08m 01s]  
 - [planning  3h 17m 15s]  
 - [presentation  1h 59m 18s]  
-- [reading  5h 23m 51s]  
-- [research  8h 17m 28s]  
+- [reading  6h 02m 54s]  
+- [research  8h 56m 31s]  
 - [review  3h 51m 08s]  
 - [setup  1h 30m 00s]  
 - [writing  7h 44m 26s]  
 
-Total: 108h 19m 55s
+Total: 108h 58m 58s
