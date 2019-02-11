@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Mon Feb 11 10:39:06 MST 2019
+## Report Generated on Mon Feb 11 12:15:23 MST 2019
 
 - 01 7h25m13s
 - 02 6h43m04s
@@ -21,24 +21,25 @@ Ideally, my use of this project will continue in perpetuity.
 - 08 7h02m55s
 - 09 9h36m17s
 - 10 9h13m23s
-- 11 3h13m55s
+- 11 4h49m45s
 
 
 ## This Week
 Mon 11 February 2019 -> Mon 11 February 2019
 
-nsf - 2h 39m 06s
-- [bet  2h 39m 06s]  
+nsf - 4h 15m 45s
+- [bet  4h 15m 45s]  
 - [docs     08m 41s]  
 - [notebooks  2h 30m 25s]  
 - [planning     08m 41s]  
+- [plotting  1h 36m 39s]  
 - [upgrade     08m 41s]  
 
 professional-development - 34m 00s
 - [email     34m 00s]  
 - [networking     34m 00s]  
 
-Total: 3h 13m 06s
+Total: 4h 49m 45s
 
 
 ## Last 7 Days
@@ -48,11 +49,12 @@ hub - 1h 49m 59s
 - [maintenance  1h 49m 59s]  
 - [revision  1h 49m 59s]  
 
-nsf - 11h 07m 11s
-- [bet 11h 07m 11s]  
+nsf - 12h 43m 50s
+- [bet 12h 43m 50s]  
 - [docs     08m 41s]  
 - [notebooks  2h 43m 39s]  
 - [planning     08m 41s]  
+- [plotting  1h 36m 39s]  
 - [presentation  2h 35m 44s]  
 - [testing  5h 39m 07s]  
 - [travis  5h 39m 07s]  
@@ -80,7 +82,7 @@ thesis - 16h 34m 48s
 - [research  5h 09m 05s]  
 - [writing  1h 50m 21s]  
 
-Total: 41h 50m 16s
+Total: 43h 26m 55s
 
 
 ## Last Month
@@ -90,11 +92,12 @@ hub - 1h 49m 59s
 - [maintenance  1h 49m 59s]  
 - [revision  1h 49m 59s]  
 
-nsf - 26h 53m 08s
-- [bet 26h 53m 08s]  
+nsf - 28h 29m 47s
+- [bet 28h 29m 47s]  
 - [docs     08m 41s]  
 - [notebooks  9h 17m 28s]  
 - [planning     08m 41s]  
+- [plotting  1h 36m 39s]  
 - [presentation  2h 35m 44s]  
 - [reading  2h 20m 48s]  
 - [testing 13h 09m 33s]  
@@ -126,7 +129,7 @@ thesis - 21h 47m 20s
 - [research  9h 30m 34s]  
 - [writing  2h 41m 24s]  
 
-Total: 62h 48m 45s
+Total: 64h 25m 24s
 
 
 ## Last Year
@@ -139,9 +142,9 @@ hub - 7h 38m 56s
 - [setup  1h 53m 20s]  
 - [turing  1h 00m 38s]  
 
-nsf - 59h 12m 25s
+nsf - 60h 49m 04s
 - [background  1h 37m 05s]  
-- [bet 56h 04m 03s]  
+- [bet 57h 40m 42s]  
 - [discussion     32m 00s]  
 - [docs     08m 41s]  
 - [features  2h 58m 11s]  
@@ -149,7 +152,7 @@ nsf - 59h 12m 25s
 - [notebooks 12h 15m 39s]  
 - [organization  1h 15m 00s]  
 - [planning  1h 04m 41s]  
-- [plotting  1h 33m 58s]  
+- [plotting  3h 10m 37s]  
 - [presentation  2h 35m 44s]  
 - [reading  2h 20m 48s]  
 - [setup     57m 22s]  
@@ -194,4 +197,4 @@ thesis - 35h 45m 59s
 - [setup  1h 30m 00s]  
 - [writing  7h 44m 26s]  
 
-Total: 124h 14m 30s
+Total: 125h 51m 09s
