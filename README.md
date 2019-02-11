@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Sun Feb 10 21:01:09 MST 2019
+## Report Generated on Sun Feb 10 21:03:00 MST 2019
 
 - 01 7h25m13s
 - 02 6h43m04s
@@ -18,7 +18,7 @@ Ideally, my use of this project will continue in perpetuity.
 - 05 1h50m21s
 - 06 2h34m26s
 - 07 1h43m33s
-- 08 4h47m55s
+- 08 7h02m55s
 - 09 9h36m17s
 - 10 9h13m23s
 
@@ -38,12 +38,14 @@ nsf - 8h 28m 05s
 - [travis  5h 39m 07s]  
 - [upgrade  5h 52m 21s]  
 
-professional-development - 9h 29m 18s
+professional-development - 11h 44m 18s
 - [application  5h 11m 19s]  
 - [jobsearch  6h 54m 52s]  
 - [linkedin  6h 54m 52s]  
+- [networking  2h 15m 00s]  
 - [preparation  2h 34m 26s]  
 - [resume  5h 11m 19s]  
+- [stat  2h 15m 00s]  
 - [talk  2h 34m 26s]  
 
 thesis - 16h 34m 48s
@@ -57,7 +59,7 @@ thesis - 16h 34m 48s
 - [research  5h 09m 05s]  
 - [writing  1h 50m 21s]  
 
-Total: 36h 22m 10s
+Total: 38h 37m 10s
 
 
 ## Last 7 Days
@@ -75,12 +77,14 @@ nsf - 10h 05m 45s
 - [travis  5h 39m 07s]  
 - [upgrade  5h 52m 21s]  
 
-professional-development - 9h 29m 18s
+professional-development - 11h 44m 18s
 - [application  5h 11m 19s]  
 - [jobsearch  6h 54m 52s]  
 - [linkedin  6h 54m 52s]  
+- [networking  2h 15m 00s]  
 - [preparation  2h 34m 26s]  
 - [resume  5h 11m 19s]  
+- [stat  2h 15m 00s]  
 - [talk  2h 34m 26s]  
 
 thesis - 21h 47m 20s
@@ -96,7 +100,7 @@ thesis - 21h 47m 20s
 - [research  9h 30m 34s]  
 - [writing  2h 41m 24s]  
 
-Total: 43h 12m 22s
+Total: 45h 27m 22s
 
 
 ## Last Month
@@ -116,12 +120,14 @@ nsf - 24h 14m 02s
 - [upgrade  5h 52m 21s]  
 - [versioning  1h 41m 42s]  
 
-professional-development - 9h 29m 18s
+professional-development - 11h 44m 18s
 - [application  5h 11m 19s]  
 - [jobsearch  6h 54m 52s]  
 - [linkedin  6h 54m 52s]  
+- [networking  2h 15m 00s]  
 - [preparation  2h 34m 26s]  
 - [resume  5h 11m 19s]  
+- [stat  2h 15m 00s]  
 - [talk  2h 34m 26s]  
 
 thesis - 21h 47m 20s
@@ -137,7 +143,7 @@ thesis - 21h 47m 20s
 - [research  9h 30m 34s]  
 - [writing  2h 41m 24s]  
 
-Total: 57h 20m 39s
+Total: 59h 35m 39s
 
 
 ## Last Year
@@ -169,16 +175,17 @@ nsf - 56h 33m 19s
 - [upgrade 24h 32m 34s]  
 - [versioning 13h 21m 57s]  
 
-professional-development - 17h 35m 03s
+professional-development - 19h 50m 03s
 - [application  5h 11m 19s]  
 - [jobsearch  6h 54m 52s]  
 - [linkedin  6h 54m 52s]  
 - [meeting  4h 38m 32s]  
 - [mp     12m 58s]  
+- [networking  2h 15m 00s]  
 - [preparation  2h 34m 26s]  
 - [resources     12m 58s]  
 - [resume  5h 11m 19s]  
-- [stat  7h 38m 32s]  
+- [stat  9h 53m 32s]  
 - [talk  2h 34m 26s]  
 - [web     12m 58s]  
 
@@ -202,4 +209,4 @@ thesis - 35h 45m 59s
 - [setup  1h 30m 00s]  
 - [writing  7h 44m 26s]  
 
-Total: 118h 46m 24s
+Total: 121h 01m 24s
