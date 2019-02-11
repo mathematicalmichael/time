@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Mon Feb 11 12:15:23 MST 2019
+## Report Generated on Mon Feb 11 16:19:18 MST 2019
 
 - 01 7h25m13s
 - 02 6h43m04s
@@ -21,14 +21,15 @@ Ideally, my use of this project will continue in perpetuity.
 - 08 7h02m55s
 - 09 9h36m17s
 - 10 9h13m23s
-- 11 4h49m45s
+- 11 6h43m34s
 
 
 ## This Week
 Mon 11 February 2019 -> Mon 11 February 2019
 
-nsf - 4h 15m 45s
-- [bet  4h 15m 45s]  
+nsf - 6h 09m 34s
+- [bet  6h 09m 34s]  
+- [cleaning  1h 53m 49s]  
 - [docs     08m 41s]  
 - [notebooks  2h 30m 25s]  
 - [planning     08m 41s]  
@@ -39,7 +40,7 @@ professional-development - 34m 00s
 - [email     34m 00s]  
 - [networking     34m 00s]  
 
-Total: 4h 49m 45s
+Total: 6h 43m 34s
 
 
 ## Last 7 Days
@@ -49,8 +50,9 @@ hub - 1h 49m 59s
 - [maintenance  1h 49m 59s]  
 - [revision  1h 49m 59s]  
 
-nsf - 12h 43m 50s
-- [bet 12h 43m 50s]  
+nsf - 14h 37m 39s
+- [bet 14h 37m 39s]  
+- [cleaning  1h 53m 49s]  
 - [docs     08m 41s]  
 - [notebooks  2h 43m 39s]  
 - [planning     08m 41s]  
@@ -82,7 +84,7 @@ thesis - 16h 34m 48s
 - [research  5h 09m 05s]  
 - [writing  1h 50m 21s]  
 
-Total: 43h 26m 55s
+Total: 45h 20m 44s
 
 
 ## Last Month
@@ -92,8 +94,9 @@ hub - 1h 49m 59s
 - [maintenance  1h 49m 59s]  
 - [revision  1h 49m 59s]  
 
-nsf - 28h 29m 47s
-- [bet 28h 29m 47s]  
+nsf - 30h 23m 36s
+- [bet 30h 23m 36s]  
+- [cleaning  1h 53m 49s]  
 - [docs     08m 41s]  
 - [notebooks  9h 17m 28s]  
 - [planning     08m 41s]  
@@ -129,7 +132,7 @@ thesis - 21h 47m 20s
 - [research  9h 30m 34s]  
 - [writing  2h 41m 24s]  
 
-Total: 64h 25m 24s
+Total: 66h 19m 13s
 
 
 ## Last Year
@@ -142,9 +145,10 @@ hub - 7h 38m 56s
 - [setup  1h 53m 20s]  
 - [turing  1h 00m 38s]  
 
-nsf - 60h 49m 04s
+nsf - 62h 42m 53s
 - [background  1h 37m 05s]  
-- [bet 57h 40m 42s]  
+- [bet 59h 34m 31s]  
+- [cleaning  1h 53m 49s]  
 - [discussion     32m 00s]  
 - [docs     08m 41s]  
 - [features  2h 58m 11s]  
@@ -197,4 +201,4 @@ thesis - 35h 45m 59s
 - [setup  1h 30m 00s]  
 - [writing  7h 44m 26s]  
 
-Total: 125h 51m 09s
+Total: 127h 44m 58s
