@@ -1,4 +1,6 @@
 cat intro_readme.md > README.md
+bash gen_summary.sh >> README.md
+
 echo -en "\n\n## This Week\n" >> README.md
 watson report --week | sed 's/\t\[/- \[/g' | sed 's/\]/\]  /g' >> README.md
 
