@@ -1,13 +1,13 @@
 cat intro_readme.md > README.md
-echo "## This Week" >> README.md
+echo -en "\n\n## This Week\n" >> README.md
 watson report --week | sed 's/\t\[/- \[/g' | sed 's/\]/\]  /g' >> README.md
 
-echo "## Last 7 Days" >> README.md
+echo -en "\n\n## Last 7 Days\n" >> README.md
 watson report | sed 's/\t\[/- \[/g' | sed 's/\]/\]  /g' >> README.md
 
-echo "## Last Month" >> README.md
+echo -en "\n\n## Last Month\n" >> README.md
 watson report --month | sed 's/\t\[/- \[/g' | sed 's/\]/\]  /g' >> README.md
 
-echo "## Last Year" >> README.md
+echo -en "\n\n## Last Year\n" >> README.md
 watson report --year | sed 's/\t\[/- \[/g' | sed 's/\]/\]  /g' >> README.md
 
