@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Thu Feb 14 00:18:08 MST 2019
+## Report Generated on Thu Feb 14 00:25:16 MST 2019
 
 - 01 7h25m13s
 - 02 6h43m04s
@@ -44,13 +44,13 @@ professional-development - 34m 00s
 - [email     34m 00s]  
 - [networking     34m 00s]  
 
-thesis - 19h 45m 11s
+thesis - 7h 45m 11s
 - [meeting         17s]  
 - [planning         17s]  
-- [presentation 19h 44m 54s]  
-- [research 18h 34m 49s]  
+- [presentation  7h 44m 54s]  
+- [research  6h 34m 49s]  
 
-Total: 28h 00m 48s
+Total: 16h 00m 48s
 
 
 ## Last 7 Days
@@ -80,18 +80,18 @@ professional-development - 9h 43m 52s
 - [resume  5h 11m 19s]  
 - [stat  2h 15m 00s]  
 
-thesis - 33h 45m 44s
+thesis - 21h 45m 44s
 - [background  1h 32m 00s]  
 - [conference  1h 15m 24s]  
 - [examples  1h 43m 48s]  
 - [filtering     40m 11s]  
 - [meeting         17s]  
 - [planning  1h 56m 18s]  
-- [presentation 25h 02m 22s]  
+- [presentation 13h 02m 22s]  
 - [reading  7h 33m 20s]  
-- [research 23h 43m 54s]  
+- [research 11h 43m 54s]  
 
-Total: 55h 36m 56s
+Total: 43h 36m 56s
 
 
 ## Last Month
@@ -127,7 +127,7 @@ professional-development - 12h 18m 18s
 - [stat  2h 15m 00s]  
 - [talk  2h 34m 26s]  
 
-thesis - 41h 32m 31s
+thesis - 29h 32m 31s
 - [background  1h 32m 00s]  
 - [code  4h 21m 29s]  
 - [conference  1h 15m 24s]  
@@ -136,12 +136,12 @@ thesis - 41h 32m 31s
 - [meeting         17s]  
 - [organization  5h 12m 32s]  
 - [planning  2h 40m 12s]  
-- [presentation 25h 46m 16s]  
+- [presentation 13h 46m 16s]  
 - [reading  7h 33m 20s]  
-- [research 28h 05m 23s]  
+- [research 16h 05m 23s]  
 - [writing  2h 41m 24s]  
 
-Total: 87h 36m 27s
+Total: 75h 36m 27s
 
 
 ## Last Year
@@ -195,7 +195,7 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 55h 31m 10s
+thesis - 43h 31m 10s
 - [background  1h 32m 00s]  
 - [code  4h 21m 29s]  
 - [conference  1h 15m 24s]  
@@ -204,11 +204,11 @@ thesis - 55h 31m 10s
 - [meeting  2h 09m 17s]  
 - [organization  9h 08m 01s]  
 - [planning  5h 13m 33s]  
-- [presentation 25h 46m 16s]  
+- [presentation 13h 46m 16s]  
 - [reading  8h 43m 00s]  
-- [research 28h 05m 23s]  
+- [research 16h 05m 23s]  
 - [review  3h 51m 08s]  
 - [setup  1h 30m 00s]  
 - [writing  7h 44m 26s]  
 
-Total: 149h 02m 12s
+Total: 137h 02m 12s
