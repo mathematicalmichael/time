@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Wed Feb 13 18:20:56 MST 2019
+## Report Generated on Thu Feb 14 00:18:08 MST 2019
 
 - 01 7h25m13s
 - 02 6h43m04s
@@ -24,10 +24,11 @@ Ideally, my use of this project will continue in perpetuity.
 - 11 8h15m37s
 - 12 1h10m22s
 - 13 4h46m44s
+-  
 
 
 ## This Week
-Mon 11 February 2019 -> Wed 13 February 2019
+Mon 11 February 2019 -> Thu 14 February 2019
 
 nsf - 7h 41m 37s
 - [bet  7h 41m 37s]  
@@ -43,17 +44,17 @@ professional-development - 34m 00s
 - [email     34m 00s]  
 - [networking     34m 00s]  
 
-thesis - 5h 57m 06s
+thesis - 19h 45m 11s
 - [meeting         17s]  
 - [planning         17s]  
-- [presentation  5h 56m 49s]  
-- [research  4h 46m 44s]  
+- [presentation 19h 44m 54s]  
+- [research 18h 34m 49s]  
 
-Total: 14h 12m 43s
+Total: 28h 00m 48s
 
 
 ## Last 7 Days
-Wed 06 February 2019 -> Wed 13 February 2019
+Thu 07 February 2019 -> Thu 14 February 2019
 
 hub - 1h 49m 59s
 - [maintenance  1h 49m 59s]  
@@ -70,33 +71,31 @@ nsf - 10h 17m 21s
 - [presentation  2h 35m 44s]  
 - [upgrade     08m 41s]  
 
-professional-development - 12h 18m 18s
+professional-development - 9h 43m 52s
 - [application  5h 11m 19s]  
 - [email     34m 00s]  
 - [jobsearch  6h 54m 52s]  
 - [linkedin  6h 54m 52s]  
 - [networking  2h 49m 00s]  
-- [preparation  2h 34m 26s]  
 - [resume  5h 11m 19s]  
 - [stat  2h 15m 00s]  
-- [talk  2h 34m 26s]  
 
-thesis - 19h 57m 39s
+thesis - 33h 45m 44s
 - [background  1h 32m 00s]  
 - [conference  1h 15m 24s]  
 - [examples  1h 43m 48s]  
 - [filtering     40m 11s]  
 - [meeting         17s]  
 - [planning  1h 56m 18s]  
-- [presentation 11h 14m 17s]  
+- [presentation 25h 02m 22s]  
 - [reading  7h 33m 20s]  
-- [research  9h 55m 49s]  
+- [research 23h 43m 54s]  
 
-Total: 44h 23m 17s
+Total: 55h 36m 56s
 
 
 ## Last Month
-Fri 01 February 2019 -> Wed 13 February 2019
+Fri 01 February 2019 -> Thu 14 February 2019
 
 hub - 1h 49m 59s
 - [maintenance  1h 49m 59s]  
@@ -128,7 +127,7 @@ professional-development - 12h 18m 18s
 - [stat  2h 15m 00s]  
 - [talk  2h 34m 26s]  
 
-thesis - 27h 44m 26s
+thesis - 41h 32m 31s
 - [background  1h 32m 00s]  
 - [code  4h 21m 29s]  
 - [conference  1h 15m 24s]  
@@ -137,16 +136,16 @@ thesis - 27h 44m 26s
 - [meeting         17s]  
 - [organization  5h 12m 32s]  
 - [planning  2h 40m 12s]  
-- [presentation 11h 58m 11s]  
+- [presentation 25h 46m 16s]  
 - [reading  7h 33m 20s]  
-- [research 14h 17m 18s]  
+- [research 28h 05m 23s]  
 - [writing  2h 41m 24s]  
 
-Total: 73h 48m 22s
+Total: 87h 36m 27s
 
 
 ## Last Year
-Tue 01 January 2019 -> Wed 13 February 2019
+Tue 01 January 2019 -> Thu 14 February 2019
 
 hub - 7h 38m 56s
 - [docs     22m 00s]  
@@ -196,7 +195,7 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 41h 43m 05s
+thesis - 55h 31m 10s
 - [background  1h 32m 00s]  
 - [code  4h 21m 29s]  
 - [conference  1h 15m 24s]  
@@ -205,11 +204,11 @@ thesis - 41h 43m 05s
 - [meeting  2h 09m 17s]  
 - [organization  9h 08m 01s]  
 - [planning  5h 13m 33s]  
-- [presentation 11h 58m 11s]  
+- [presentation 25h 46m 16s]  
 - [reading  8h 43m 00s]  
-- [research 14h 17m 18s]  
+- [research 28h 05m 23s]  
 - [review  3h 51m 08s]  
 - [setup  1h 30m 00s]  
 - [writing  7h 44m 26s]  
 
-Total: 135h 14m 07s
+Total: 149h 02m 12s
