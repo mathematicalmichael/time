@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Thu Feb 14 21:31:22 MST 2019
+## Report Generated on Thu Feb 14 23:03:54 MST 2019
 
 - 01 7h25m13s
 - 02 6h43m04s
@@ -24,7 +24,7 @@ Ideally, my use of this project will continue in perpetuity.
 - 11 8h15m37s
 - 12 7h39m22s
 - 13 6h32m43s
-- 14 6h04m11s
+- 14 7h07m05s
 
 
 ## This Week
@@ -45,18 +45,20 @@ nsf - 9h 26m 30s
 - [presentation     50m 30s]  
 - [upgrade  1h 03m 04s]  
 
-professional-development - 2h 24m 00s
+professional-development - 2h 52m 34s
 - [email     34m 00s]  
 - [networking  2h 24m 00s]  
+- [resume     28m 34s]  
 - [stat  1h 50m 00s]  
 
-thesis - 12h 34m 23s
+thesis - 13h 08m 43s
 - [meeting  2h 22m 17s]  
+- [organization     34m 20s]  
 - [planning  2h 22m 17s]  
 - [presentation 10h 12m 06s]  
-- [research  9h 02m 01s]  
+- [research  9h 36m 21s]  
 
-Total: 28h 31m 53s
+Total: 29h 34m 47s
 
 
 ## Last 7 Days
@@ -78,27 +80,28 @@ nsf - 12h 02m 14s
 - [presentation  3h 26m 14s]  
 - [upgrade  1h 03m 04s]  
 
-professional-development - 11h 33m 52s
+professional-development - 12h 02m 26s
 - [application  5h 11m 19s]  
 - [email     34m 00s]  
 - [jobsearch  6h 54m 52s]  
 - [linkedin  6h 54m 52s]  
 - [networking  4h 39m 00s]  
-- [resume  5h 11m 19s]  
+- [resume  5h 39m 53s]  
 - [stat  4h 05m 00s]  
 
-thesis - 26h 34m 56s
+thesis - 27h 09m 16s
 - [background  1h 32m 00s]  
 - [conference  1h 15m 24s]  
 - [examples  1h 43m 48s]  
 - [filtering     40m 11s]  
 - [meeting  2h 22m 17s]  
+- [organization     34m 20s]  
 - [planning  4h 18m 18s]  
 - [presentation 15h 29m 34s]  
 - [reading  7h 33m 20s]  
-- [research 14h 11m 06s]  
+- [research 14h 45m 26s]  
 
-Total: 56h 08m 01s
+Total: 57h 10m 55s
 
 
 ## Last Month
@@ -124,32 +127,32 @@ nsf - 33h 40m 32s
 - [upgrade  6h 55m 25s]  
 - [versioning  1h 41m 42s]  
 
-professional-development - 14h 08m 18s
+professional-development - 14h 36m 52s
 - [application  5h 11m 19s]  
 - [email     34m 00s]  
 - [jobsearch  6h 54m 52s]  
 - [linkedin  6h 54m 52s]  
 - [networking  4h 39m 00s]  
 - [preparation  2h 34m 26s]  
-- [resume  5h 11m 19s]  
+- [resume  5h 39m 53s]  
 - [stat  4h 05m 00s]  
 - [talk  2h 34m 26s]  
 
-thesis - 34h 21m 43s
+thesis - 34h 56m 03s
 - [background  1h 32m 00s]  
 - [code  4h 21m 29s]  
 - [conference  1h 15m 24s]  
 - [examples  1h 43m 48s]  
 - [filtering     40m 11s]  
 - [meeting  2h 22m 17s]  
-- [organization  5h 12m 32s]  
+- [organization  5h 46m 52s]  
 - [planning  5h 02m 12s]  
 - [presentation 16h 13m 28s]  
 - [reading  7h 33m 20s]  
-- [research 18h 32m 35s]  
+- [research 19h 06m 55s]  
 - [writing  2h 41m 24s]  
 
-Total: 88h 07m 32s
+Total: 89h 10m 26s
 
 
 ## Last Year
@@ -185,7 +188,7 @@ nsf - 65h 59m 49s
 - [upgrade 25h 35m 38s]  
 - [versioning 13h 21m 57s]  
 
-professional-development - 22h 14m 03s
+professional-development - 22h 42m 37s
 - [application  5h 11m 19s]  
 - [email     34m 00s]  
 - [jobsearch  6h 54m 52s]  
@@ -195,7 +198,7 @@ professional-development - 22h 14m 03s
 - [networking  4h 39m 00s]  
 - [preparation  2h 34m 26s]  
 - [resources     12m 58s]  
-- [resume  5h 11m 19s]  
+- [resume  5h 39m 53s]  
 - [stat 11h 43m 32s]  
 - [talk  2h 34m 26s]  
 - [web     12m 58s]  
@@ -204,20 +207,20 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 48h 20m 22s
+thesis - 48h 54m 42s
 - [background  1h 32m 00s]  
 - [code  4h 21m 29s]  
 - [conference  1h 15m 24s]  
 - [examples  1h 43m 48s]  
 - [filtering     40m 11s]  
 - [meeting  4h 31m 17s]  
-- [organization  9h 08m 01s]  
+- [organization  9h 42m 21s]  
 - [planning  7h 35m 33s]  
 - [presentation 16h 13m 28s]  
 - [reading  8h 43m 00s]  
-- [research 18h 32m 35s]  
+- [research 19h 06m 55s]  
 - [review  3h 51m 08s]  
 - [setup  1h 30m 00s]  
 - [writing  7h 44m 26s]  
 
-Total: 149h 33m 17s
+Total: 150h 36m 11s
