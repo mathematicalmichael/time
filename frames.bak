@@ -1363,12 +1363,54 @@
  ],
  [
   1550211069,
-  1550242121,
+  1550214881,
   "thesis",
   "ffca2ef0e2b54fc19ad3114eac262323",
   [
    "presentation"
   ],
-  1550242121
+  1550242142
+ ],
+ [
+  1550259000,
+  1550268900,
+  "thesis",
+  "3ed0b0a90af74ac793c7cc1e6ade729f",
+  [
+   "presentation",
+   "organization",
+   "meeting"
+  ],
+  1550271741
+ ],
+ [
+  1550245500,
+  1550251800,
+  "professional-development",
+  "3b5ffdef2d004701a864b3e6795ad79d",
+  [
+   "volunteering"
+  ],
+  1550271656
+ ],
+ [
+  1550251800,
+  1550259000,
+  "professional-development",
+  "909ee0802507444c890da936ad357e1a",
+  [
+   "presentation"
+  ],
+  1550271625
+ ],
+ [
+  1550183220,
+  1550185920,
+  "professional-development",
+  "6c0b91f1565b4a759d0ba0ad48b0b1bf",
+  [
+   "resume"
+  ],
+  1550271717
  ]
 ]
