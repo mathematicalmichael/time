@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Fri Feb 15 16:03:44 MST 2019
+## Report Generated on Sat Feb 16 16:38:58 MST 2019
 
 - 01 7h25m13s
 - 02 6h43m04s
@@ -25,14 +25,15 @@ Ideally, my use of this project will continue in perpetuity.
 - 12 7h39m22s
 - 13 6h32m43s
 - 14 7h52m05s
-- 15 7h17m36s
+- 15 9h24m22s
+- 16 8h49m19s
 
 
 ## This Week
-Mon 11 February 2019 -> Fri 15 February 2019
+Mon 11 February 2019 -> Sat 16 February 2019
 
-hub - 4h 07m 00s
-- [maintenance  4h 07m 00s]  
+hub - 6h 13m 46s
+- [maintenance  6h 13m 46s]  
 - [upgrade  4h 07m 00s]  
 
 nsf - 9h 26m 30s
@@ -54,66 +55,68 @@ professional-development - 7h 22m 34s
 - [stat  1h 50m 00s]  
 - [volunteering  1h 45m 00s]  
 
-thesis - 17h 44m 51s
+thesis - 26h 34m 10s
+- [backups  8h 49m 19s]  
+- [cleanup  8h 49m 19s]  
 - [meeting  5h 07m 17s]  
-- [organization  3h 19m 20s]  
+- [organization 12h 08m 39s]  
 - [planning  2h 22m 17s]  
 - [presentation 14h 48m 14s]  
 - [research  9h 36m 21s]  
 
-Total: 38h 40m 55s
+Total: 49h 37m 00s
 
 
 ## Last 7 Days
-Fri 08 February 2019 -> Fri 15 February 2019
+Sat 09 February 2019 -> Sat 16 February 2019
 
-hub - 5h 56m 59s
-- [maintenance  5h 56m 59s]  
+hub - 8h 03m 45s
+- [maintenance  8h 03m 45s]  
 - [revision  1h 49m 59s]  
 - [upgrade  4h 07m 00s]  
 
-nsf - 12h 02m 14s
-- [bet 12h 02m 14s]  
+nsf - 9h 26m 30s
+- [bet  9h 26m 30s]  
 - [cleaning  3h 08m 12s]  
 - [docs     08m 41s]  
 - [examples  1h 12m 03s]  
 - [notebooks  2h 30m 25s]  
 - [planning     08m 41s]  
 - [plotting  1h 36m 39s]  
-- [presentation  3h 26m 14s]  
+- [presentation     50m 30s]  
 - [upgrade  1h 03m 04s]  
 
-professional-development - 14h 48m 53s
+professional-development - 12h 33m 53s
 - [application  5h 11m 19s]  
 - [email     34m 00s]  
 - [jobsearch  5h 11m 19s]  
 - [linkedin  5h 11m 19s]  
-- [networking  4h 39m 00s]  
+- [networking  2h 24m 00s]  
 - [presentation  2h 00m 00s]  
 - [resume  6h 24m 53s]  
-- [stat  4h 05m 00s]  
+- [stat  1h 50m 00s]  
 - [volunteering  1h 45m 00s]  
 
-thesis - 31h 45m 24s
-- [background  1h 32m 00s]  
+thesis - 38h 22m 32s
+- [backups  8h 49m 19s]  
+- [cleanup  8h 49m 19s]  
 - [conference  1h 15m 24s]  
 - [examples  1h 43m 48s]  
-- [filtering     40m 11s]  
 - [meeting  5h 07m 17s]  
-- [organization  3h 19m 20s]  
+- [organization 12h 08m 39s]  
 - [planning  4h 18m 18s]  
 - [presentation 20h 05m 42s]  
-- [reading  7h 33m 20s]  
-- [research 14h 45m 26s]  
+- [reading  6h 53m 09s]  
+- [research 12h 33m 15s]  
 
-Total: 64h 33m 30s
+Total: 68h 26m 40s
 
 
 ## Last Month
-Fri 01 February 2019 -> Fri 15 February 2019
+Fri 01 February 2019 -> Sat 16 February 2019
 
-hub - 5h 56m 59s
-- [maintenance  5h 56m 59s]  
+hub - 8h 03m 45s
+- [maintenance  8h 03m 45s]  
 - [revision  1h 49m 59s]  
 - [upgrade  4h 07m 00s]  
 
@@ -145,29 +148,31 @@ professional-development - 19h 06m 52s
 - [talk  2h 34m 26s]  
 - [volunteering  1h 45m 00s]  
 
-thesis - 39h 32m 11s
+thesis - 48h 21m 30s
 - [background  1h 32m 00s]  
+- [backups  8h 49m 19s]  
+- [cleanup  8h 49m 19s]  
 - [code  4h 21m 29s]  
 - [conference  1h 15m 24s]  
 - [examples  1h 43m 48s]  
 - [filtering     40m 11s]  
 - [meeting  5h 07m 17s]  
-- [organization  8h 31m 52s]  
+- [organization 17h 21m 11s]  
 - [planning  5h 02m 12s]  
 - [presentation 20h 49m 36s]  
 - [reading  7h 33m 20s]  
 - [research 19h 06m 55s]  
 - [writing  2h 41m 24s]  
 
-Total: 98h 16m 34s
+Total: 109h 12m 39s
 
 
 ## Last Year
-Tue 01 January 2019 -> Fri 15 February 2019
+Tue 01 January 2019 -> Sat 16 February 2019
 
-hub - 11h 45m 56s
+hub - 13h 52m 42s
 - [docs     22m 00s]  
-- [maintenance  9h 30m 36s]  
+- [maintenance 11h 37m 22s]  
 - [revision  1h 49m 59s]  
 - [setup  1h 53m 20s]  
 - [turing  1h 00m 38s]  
@@ -216,14 +221,16 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 53h 30m 50s
+thesis - 62h 20m 09s
 - [background  1h 32m 00s]  
+- [backups  8h 49m 19s]  
+- [cleanup  8h 49m 19s]  
 - [code  4h 21m 29s]  
 - [conference  1h 15m 24s]  
 - [examples  1h 43m 48s]  
 - [filtering     40m 11s]  
 - [meeting  7h 16m 17s]  
-- [organization 12h 27m 21s]  
+- [organization 21h 16m 40s]  
 - [planning  7h 35m 33s]  
 - [presentation 20h 49m 36s]  
 - [reading  8h 43m 00s]  
@@ -232,4 +239,4 @@ thesis - 53h 30m 50s
 - [setup  1h 30m 00s]  
 - [writing  7h 44m 26s]  
 
-Total: 159h 42m 19s
+Total: 170h 38m 24s
