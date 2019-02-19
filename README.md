@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Mon Feb 18 18:17:42 MST 2019
+## Report Generated on Mon Feb 18 22:54:45 MST 2019
 
 - 01 7h25m13s
 - 02 6h43m04s
@@ -28,7 +28,7 @@ Ideally, my use of this project will continue in perpetuity.
 - 15 9h24m22s
 - 16 8h49m19s
 -  
-- 18 6h49m32s
+- 18 9h48m18s
 
 
 ## This Week
@@ -44,7 +44,11 @@ nsf - 5h 59m 24s
 - [testing  3h 04m 49s]  
 - [upgrade  2h 54m 35s]  
 
-Total: 6h 49m 32s
+nsf thesis - 2h 58m 46s
+- [organization  2h 58m 46s]  
+- [research  2h 58m 46s]  
+
+Total: 9h 48m 18s
 
 
 ## Last 7 Days
@@ -67,6 +71,10 @@ nsf - 15h 25m 54s
 - [testing  3h 04m 49s]  
 - [upgrade  3h 57m 39s]  
 
+nsf thesis - 2h 58m 46s
+- [organization  2h 58m 46s]  
+- [research  2h 58m 46s]  
+
 professional-development - 7h 22m 34s
 - [email     34m 00s]  
 - [networking  2h 24m 00s]  
@@ -84,7 +92,7 @@ thesis - 26h 34m 10s
 - [presentation 14h 48m 14s]  
 - [research  9h 36m 21s]  
 
-Total: 56h 26m 32s
+Total: 59h 25m 18s
 
 
 ## Last Month
@@ -110,6 +118,10 @@ nsf - 39h 39m 56s
 - [travis 12h 16m 04s]  
 - [upgrade  9h 50m 00s]  
 - [versioning  1h 41m 42s]  
+
+nsf thesis - 2h 58m 46s
+- [organization  2h 58m 46s]  
+- [research  2h 58m 46s]  
 
 professional-development - 19h 06m 52s
 - [application  5h 11m 19s]  
@@ -140,7 +152,7 @@ thesis - 48h 21m 30s
 - [research 19h 06m 55s]  
 - [writing  2h 41m 24s]  
 
-Total: 116h 02m 11s
+Total: 119h 00m 57s
 
 
 ## Last Year
@@ -176,6 +188,10 @@ nsf - 71h 59m 13s
 - [travis 12h 16m 04s]  
 - [upgrade 28h 30m 13s]  
 - [versioning 13h 21m 57s]  
+
+nsf thesis - 2h 58m 46s
+- [organization  2h 58m 46s]  
+- [research  2h 58m 46s]  
 
 professional-development - 27h 12m 37s
 - [application  5h 11m 19s]  
@@ -216,4 +232,4 @@ thesis - 62h 20m 09s
 - [setup  1h 30m 00s]  
 - [writing  7h 44m 26s]  
 
-Total: 177h 27m 56s
+Total: 180h 26m 42s
