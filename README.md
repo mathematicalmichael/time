@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Sat Feb 16 16:38:58 MST 2019
+## Report Generated on Mon Feb 18 18:17:42 MST 2019
 
 - 01 7h25m13s
 - 02 6h43m04s
@@ -27,25 +27,45 @@ Ideally, my use of this project will continue in perpetuity.
 - 14 7h52m05s
 - 15 9h24m22s
 - 16 8h49m19s
+-  
+- 18 6h49m32s
 
 
 ## This Week
-Mon 11 February 2019 -> Sat 16 February 2019
+Mon 18 February 2019 -> Mon 18 February 2019
 
-hub - 6h 13m 46s
-- [maintenance  6h 13m 46s]  
+hub - 50m 08s
+- [maintenance     50m 08s]  
+
+nsf - 5h 59m 24s
+- [bet  5h 59m 24s]  
+- [improvements  3h 04m 49s]  
+- [planning  2h 54m 35s]  
+- [testing  3h 04m 49s]  
+- [upgrade  2h 54m 35s]  
+
+Total: 6h 49m 32s
+
+
+## Last 7 Days
+Mon 11 February 2019 -> Mon 18 February 2019
+
+hub - 7h 03m 54s
+- [maintenance  7h 03m 54s]  
 - [upgrade  4h 07m 00s]  
 
-nsf - 9h 26m 30s
-- [bet  9h 26m 30s]  
+nsf - 15h 25m 54s
+- [bet 15h 25m 54s]  
 - [cleaning  3h 08m 12s]  
 - [docs     08m 41s]  
 - [examples  1h 12m 03s]  
+- [improvements  3h 04m 49s]  
 - [notebooks  2h 30m 25s]  
-- [planning     08m 41s]  
+- [planning  3h 03m 16s]  
 - [plotting  1h 36m 39s]  
 - [presentation     50m 30s]  
-- [upgrade  1h 03m 04s]  
+- [testing  3h 04m 49s]  
+- [upgrade  3h 57m 39s]  
 
 professional-development - 7h 22m 34s
 - [email     34m 00s]  
@@ -64,75 +84,31 @@ thesis - 26h 34m 10s
 - [presentation 14h 48m 14s]  
 - [research  9h 36m 21s]  
 
-Total: 49h 37m 00s
-
-
-## Last 7 Days
-Sat 09 February 2019 -> Sat 16 February 2019
-
-hub - 8h 03m 45s
-- [maintenance  8h 03m 45s]  
-- [revision  1h 49m 59s]  
-- [upgrade  4h 07m 00s]  
-
-nsf - 9h 26m 30s
-- [bet  9h 26m 30s]  
-- [cleaning  3h 08m 12s]  
-- [docs     08m 41s]  
-- [examples  1h 12m 03s]  
-- [notebooks  2h 30m 25s]  
-- [planning     08m 41s]  
-- [plotting  1h 36m 39s]  
-- [presentation     50m 30s]  
-- [upgrade  1h 03m 04s]  
-
-professional-development - 12h 33m 53s
-- [application  5h 11m 19s]  
-- [email     34m 00s]  
-- [jobsearch  5h 11m 19s]  
-- [linkedin  5h 11m 19s]  
-- [networking  2h 24m 00s]  
-- [presentation  2h 00m 00s]  
-- [resume  6h 24m 53s]  
-- [stat  1h 50m 00s]  
-- [volunteering  1h 45m 00s]  
-
-thesis - 38h 22m 32s
-- [backups  8h 49m 19s]  
-- [cleanup  8h 49m 19s]  
-- [conference  1h 15m 24s]  
-- [examples  1h 43m 48s]  
-- [meeting  5h 07m 17s]  
-- [organization 12h 08m 39s]  
-- [planning  4h 18m 18s]  
-- [presentation 20h 05m 42s]  
-- [reading  6h 53m 09s]  
-- [research 12h 33m 15s]  
-
-Total: 68h 26m 40s
+Total: 56h 26m 32s
 
 
 ## Last Month
-Fri 01 February 2019 -> Sat 16 February 2019
+Fri 01 February 2019 -> Mon 18 February 2019
 
-hub - 8h 03m 45s
-- [maintenance  8h 03m 45s]  
+hub - 8h 53m 53s
+- [maintenance  8h 53m 53s]  
 - [revision  1h 49m 59s]  
 - [upgrade  4h 07m 00s]  
 
-nsf - 33h 40m 32s
-- [bet 33h 40m 32s]  
+nsf - 39h 39m 56s
+- [bet 39h 39m 56s]  
 - [cleaning  3h 08m 12s]  
 - [docs     08m 41s]  
 - [examples  1h 12m 03s]  
+- [improvements  3h 04m 49s]  
 - [notebooks  9h 17m 28s]  
-- [planning     08m 41s]  
+- [planning  3h 03m 16s]  
 - [plotting  1h 36m 39s]  
 - [presentation  3h 26m 14s]  
 - [reading  2h 20m 48s]  
-- [testing 13h 09m 33s]  
+- [testing 16h 14m 22s]  
 - [travis 12h 16m 04s]  
-- [upgrade  6h 55m 25s]  
+- [upgrade  9h 50m 00s]  
 - [versioning  1h 41m 42s]  
 
 professional-development - 19h 06m 52s
@@ -164,40 +140,41 @@ thesis - 48h 21m 30s
 - [research 19h 06m 55s]  
 - [writing  2h 41m 24s]  
 
-Total: 109h 12m 39s
+Total: 116h 02m 11s
 
 
 ## Last Year
-Tue 01 January 2019 -> Sat 16 February 2019
+Tue 01 January 2019 -> Mon 18 February 2019
 
-hub - 13h 52m 42s
+hub - 14h 42m 50s
 - [docs     22m 00s]  
-- [maintenance 11h 37m 22s]  
+- [maintenance 12h 27m 30s]  
 - [revision  1h 49m 59s]  
 - [setup  1h 53m 20s]  
 - [turing  1h 00m 38s]  
 - [upgrade  4h 07m 00s]  
 
-nsf - 65h 59m 49s
+nsf - 71h 59m 13s
 - [background  1h 37m 05s]  
-- [bet 62h 51m 27s]  
+- [bet 68h 50m 51s]  
 - [cleaning  3h 08m 12s]  
 - [discussion     32m 00s]  
 - [docs     08m 41s]  
 - [examples  1h 12m 03s]  
 - [features  2h 58m 11s]  
+- [improvements  3h 04m 49s]  
 - [meeting  2h 11m 00s]  
 - [notebooks 12h 15m 39s]  
 - [organization  1h 15m 00s]  
-- [planning  1h 04m 41s]  
+- [planning  3h 59m 16s]  
 - [plotting  3h 10m 37s]  
 - [presentation  3h 26m 14s]  
 - [reading  2h 20m 48s]  
 - [setup     57m 22s]  
-- [testing 18h 29m 00s]  
+- [testing 21h 33m 49s]  
 - [tests 16h 09m 17s]  
 - [travis 12h 16m 04s]  
-- [upgrade 25h 35m 38s]  
+- [upgrade 28h 30m 13s]  
 - [versioning 13h 21m 57s]  
 
 professional-development - 27h 12m 37s
@@ -239,4 +216,4 @@ thesis - 62h 20m 09s
 - [setup  1h 30m 00s]  
 - [writing  7h 44m 26s]  
 
-Total: 170h 38m 24s
+Total: 177h 27m 56s
