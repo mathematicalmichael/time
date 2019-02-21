@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Wed Feb 20 22:17:08 MST 2019
+## Report Generated on Wed Feb 20 22:19:04 MST 2019
 
 - 01 7h25m13s
 - 02 6h43m04s
@@ -39,16 +39,18 @@ Mon 18 February 2019 -> Wed 20 February 2019
 hub - 1h 10m 58s
 - [maintenance  1h 10m 58s]  
 
-nsf - 5h 59m 24s
+nsf - 7h 54m 05s
 - [bet  5h 59m 24s]  
 - [improvements  3h 04m 49s]  
+- [organization  1h 54m 41s]  
 - [planning  2h 54m 35s]  
+- [research  1h 54m 41s]  
 - [testing  3h 04m 49s]  
 - [upgrade  2h 54m 35s]  
 
-nsf thesis - 2h 58m 46s
-- [organization  2h 58m 46s]  
-- [research  2h 58m 46s]  
+nsf thesis - 1h 04m 05s
+- [organization  1h 04m 05s]  
+- [research  1h 04m 05s]  
 
 thesis - 11h 31m 16s
 - [figures  6h 23m 39s]  
@@ -66,18 +68,20 @@ Wed 13 February 2019 -> Wed 20 February 2019
 hub - 3h 17m 44s
 - [maintenance  3h 17m 44s]  
 
-nsf - 7h 44m 17s
+nsf - 9h 38m 58s
 - [bet  7h 44m 17s]  
 - [cleaning     54m 23s]  
 - [improvements  3h 04m 49s]  
+- [organization  1h 54m 41s]  
 - [planning  2h 54m 35s]  
 - [presentation     50m 30s]  
+- [research  1h 54m 41s]  
 - [testing  3h 04m 49s]  
 - [upgrade  3h 48m 58s]  
 
-nsf thesis - 2h 58m 46s
-- [organization  2h 58m 46s]  
-- [research  2h 58m 46s]  
+nsf thesis - 1h 04m 05s
+- [organization  1h 04m 05s]  
+- [research  1h 04m 05s]  
 
 professional-development - 6h 48m 34s
 - [networking  1h 50m 00s]  
@@ -108,25 +112,27 @@ hub - 9h 14m 43s
 - [revision  1h 49m 59s]  
 - [upgrade  4h 07m 00s]  
 
-nsf - 39h 39m 56s
+nsf - 41h 34m 37s
 - [bet 39h 39m 56s]  
 - [cleaning  3h 08m 12s]  
 - [docs     08m 41s]  
 - [examples  1h 12m 03s]  
 - [improvements  3h 04m 49s]  
 - [notebooks  9h 17m 28s]  
+- [organization  1h 54m 41s]  
 - [planning  3h 03m 16s]  
 - [plotting  1h 36m 39s]  
 - [presentation  3h 26m 14s]  
 - [reading  2h 20m 48s]  
+- [research  1h 54m 41s]  
 - [testing 16h 14m 22s]  
 - [travis 12h 16m 04s]  
 - [upgrade  9h 50m 00s]  
 - [versioning  1h 41m 42s]  
 
-nsf thesis - 2h 58m 46s
-- [organization  2h 58m 46s]  
-- [research  2h 58m 46s]  
+nsf thesis - 1h 04m 05s
+- [organization  1h 04m 05s]  
+- [research  1h 04m 05s]  
 
 professional-development - 19h 06m 52s
 - [application  5h 11m 19s]  
@@ -173,7 +179,7 @@ hub - 15h 03m 40s
 - [turing  1h 00m 38s]  
 - [upgrade  4h 07m 00s]  
 
-nsf - 71h 59m 13s
+nsf - 73h 53m 54s
 - [background  1h 37m 05s]  
 - [bet 68h 50m 51s]  
 - [cleaning  3h 08m 12s]  
@@ -184,11 +190,12 @@ nsf - 71h 59m 13s
 - [improvements  3h 04m 49s]  
 - [meeting  2h 11m 00s]  
 - [notebooks 12h 15m 39s]  
-- [organization  1h 15m 00s]  
+- [organization  3h 09m 41s]  
 - [planning  3h 59m 16s]  
 - [plotting  3h 10m 37s]  
 - [presentation  3h 26m 14s]  
 - [reading  2h 20m 48s]  
+- [research  1h 54m 41s]  
 - [setup     57m 22s]  
 - [testing 21h 33m 49s]  
 - [tests 16h 09m 17s]  
@@ -196,9 +203,9 @@ nsf - 71h 59m 13s
 - [upgrade 28h 30m 13s]  
 - [versioning 13h 21m 57s]  
 
-nsf thesis - 2h 58m 46s
-- [organization  2h 58m 46s]  
-- [research  2h 58m 46s]  
+nsf thesis - 1h 04m 05s
+- [organization  1h 04m 05s]  
+- [research  1h 04m 05s]  
 
 professional-development - 27h 12m 37s
 - [application  5h 11m 19s]  
