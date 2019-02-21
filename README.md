@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Wed Feb 20 23:23:48 MST 2019
+## Report Generated on Thu Feb 21 16:19:41 MST 2019
 
 - 01 7h25m13s
 - 02 6h43m04s
@@ -31,10 +31,11 @@ Ideally, my use of this project will continue in perpetuity.
 - 18 9h48m18s
 - 19 5h02m20s
 - 20 7h55m46s
+- 21 6h21m22s
 
 
 ## This Week
-Mon 18 February 2019 -> Wed 20 February 2019
+Mon 18 February 2019 -> Thu 21 February 2019
 
 hub - 1h 10m 58s
 - [maintenance  1h 10m 58s]  
@@ -52,18 +53,21 @@ nsf thesis - 1h 04m 05s
 - [organization  1h 04m 05s]  
 - [research  1h 04m 05s]  
 
-thesis - 12h 37m 16s
+professional-development - 12m 32s
+- [jobsearch     12m 32s]  
+
+thesis - 18h 46m 06s
 - [figures  7h 29m 39s]  
 - [meetings  4h 41m 30s]  
 - [planning  4h 41m 30s]  
-- [presentation  7h 55m 46s]  
-- [research  4h 41m 30s]  
+- [presentation 14h 04m 36s]  
+- [research 10h 50m 20s]  
 
-Total: 22h 46m 24s
+Total: 29h 07m 46s
 
 
 ## Last 7 Days
-Wed 13 February 2019 -> Wed 20 February 2019
+Thu 14 February 2019 -> Thu 21 February 2019
 
 hub - 3h 17m 44s
 - [maintenance  3h 17m 44s]  
@@ -83,14 +87,15 @@ nsf thesis - 1h 04m 05s
 - [organization  1h 04m 05s]  
 - [research  1h 04m 05s]  
 
-professional-development - 6h 48m 34s
+professional-development - 7h 01m 06s
+- [jobsearch     12m 32s]  
 - [networking  1h 50m 00s]  
 - [presentation  2h 00m 00s]  
 - [resume  1h 13m 34s]  
 - [stat  1h 50m 00s]  
 - [volunteering  1h 45m 00s]  
 
-thesis - 35h 39m 04s
+thesis - 35h 15m 11s
 - [backups  8h 49m 19s]  
 - [cleanup  8h 49m 19s]  
 - [figures  7h 29m 39s]  
@@ -98,14 +103,14 @@ thesis - 35h 39m 04s
 - [meetings  4h 41m 30s]  
 - [organization 12h 08m 39s]  
 - [planning  4h 41m 30s]  
-- [presentation 21h 33m 55s]  
-- [research 14h 17m 51s]  
+- [presentation 21h 10m 02s]  
+- [research 13h 53m 58s]  
 
-Total: 56h 28m 25s
+Total: 56h 17m 04s
 
 
 ## Last Month
-Fri 01 February 2019 -> Wed 20 February 2019
+Fri 01 February 2019 -> Thu 21 February 2019
 
 hub - 9h 14m 43s
 - [maintenance  9h 14m 43s]  
@@ -134,10 +139,10 @@ nsf thesis - 1h 04m 05s
 - [organization  1h 04m 05s]  
 - [research  1h 04m 05s]  
 
-professional-development - 19h 06m 52s
+professional-development - 19h 19m 24s
 - [application  5h 11m 19s]  
 - [email     34m 00s]  
-- [jobsearch  6h 54m 52s]  
+- [jobsearch  7h 07m 24s]  
 - [linkedin  6h 54m 52s]  
 - [networking  4h 39m 00s]  
 - [preparation  2h 34m 26s]  
@@ -147,7 +152,7 @@ professional-development - 19h 06m 52s
 - [talk  2h 34m 26s]  
 - [volunteering  1h 45m 00s]  
 
-thesis - 60h 58m 46s
+thesis - 67h 07m 36s
 - [background  1h 32m 00s]  
 - [backups  8h 49m 19s]  
 - [cleanup  8h 49m 19s]  
@@ -160,16 +165,16 @@ thesis - 60h 58m 46s
 - [meetings  4h 41m 30s]  
 - [organization 17h 21m 11s]  
 - [planning  9h 43m 42s]  
-- [presentation 28h 45m 22s]  
+- [presentation 34h 54m 12s]  
 - [reading  7h 33m 20s]  
-- [research 23h 48m 25s]  
+- [research 29h 57m 15s]  
 - [writing  2h 41m 24s]  
 
-Total: 131h 59m 03s
+Total: 138h 20m 25s
 
 
 ## Last Year
-Tue 01 January 2019 -> Wed 20 February 2019
+Tue 01 January 2019 -> Thu 21 February 2019
 
 hub - 15h 03m 40s
 - [docs     22m 00s]  
@@ -207,10 +212,10 @@ nsf thesis - 1h 04m 05s
 - [organization  1h 04m 05s]  
 - [research  1h 04m 05s]  
 
-professional-development - 27h 12m 37s
+professional-development - 27h 25m 09s
 - [application  5h 11m 19s]  
 - [email     34m 00s]  
-- [jobsearch  6h 54m 52s]  
+- [jobsearch  7h 07m 24s]  
 - [linkedin  6h 54m 52s]  
 - [meeting  4h 38m 32s]  
 - [mp     12m 58s]  
@@ -228,7 +233,7 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 74h 57m 25s
+thesis - 81h 06m 15s
 - [background  1h 32m 00s]  
 - [backups  8h 49m 19s]  
 - [cleanup  8h 49m 19s]  
@@ -241,11 +246,11 @@ thesis - 74h 57m 25s
 - [meetings  4h 41m 30s]  
 - [organization 21h 16m 40s]  
 - [planning 12h 17m 03s]  
-- [presentation 28h 45m 22s]  
+- [presentation 34h 54m 12s]  
 - [reading  8h 43m 00s]  
-- [research 23h 48m 25s]  
+- [research 29h 57m 15s]  
 - [review  3h 51m 08s]  
 - [setup  1h 30m 00s]  
 - [writing  7h 44m 26s]  
 
-Total: 193h 24m 48s
+Total: 199h 46m 10s
