@@ -1,6 +1,7 @@
 echo "Beginning Summary Process"
 cat intro_readme.md > README.md
-bash gen_summary.sh >> README.md
+bash gen_summary.sh > feb_summary.md
+cat feb_summary.md >> README.md
 
 echo "Second Part..."
 echo -en "\n\n## This Week\n" >> README.md
