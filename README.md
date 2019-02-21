@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Wed Feb 20 23:08:36 MST 2019
+## Report Generated on Wed Feb 20 23:23:48 MST 2019
 
 - 01 7h25m13s
 - 02 6h43m04s
@@ -30,7 +30,7 @@ Ideally, my use of this project will continue in perpetuity.
 -  
 - 18 9h48m18s
 - 19 5h02m20s
-- 20 6h49m46s
+- 20 7h55m46s
 
 
 ## This Week
@@ -52,14 +52,14 @@ nsf thesis - 1h 04m 05s
 - [organization  1h 04m 05s]  
 - [research  1h 04m 05s]  
 
-thesis - 11h 31m 16s
-- [figures  6h 23m 39s]  
+thesis - 12h 37m 16s
+- [figures  7h 29m 39s]  
 - [meetings  4h 41m 30s]  
 - [planning  4h 41m 30s]  
-- [presentation  6h 49m 46s]  
+- [presentation  7h 55m 46s]  
 - [research  4h 41m 30s]  
 
-Total: 21h 40m 24s
+Total: 22h 46m 24s
 
 
 ## Last 7 Days
@@ -90,18 +90,18 @@ professional-development - 6h 48m 34s
 - [stat  1h 50m 00s]  
 - [volunteering  1h 45m 00s]  
 
-thesis - 34h 33m 04s
+thesis - 35h 39m 04s
 - [backups  8h 49m 19s]  
 - [cleanup  8h 49m 19s]  
-- [figures  6h 23m 39s]  
+- [figures  7h 29m 39s]  
 - [meeting  2h 45m 00s]  
 - [meetings  4h 41m 30s]  
 - [organization 12h 08m 39s]  
 - [planning  4h 41m 30s]  
-- [presentation 20h 27m 55s]  
+- [presentation 21h 33m 55s]  
 - [research 14h 17m 51s]  
 
-Total: 55h 22m 25s
+Total: 56h 28m 25s
 
 
 ## Last Month
@@ -147,25 +147,25 @@ professional-development - 19h 06m 52s
 - [talk  2h 34m 26s]  
 - [volunteering  1h 45m 00s]  
 
-thesis - 59h 52m 46s
+thesis - 60h 58m 46s
 - [background  1h 32m 00s]  
 - [backups  8h 49m 19s]  
 - [cleanup  8h 49m 19s]  
 - [code  4h 21m 29s]  
 - [conference  1h 15m 24s]  
 - [examples  1h 43m 48s]  
-- [figures  6h 23m 39s]  
+- [figures  7h 29m 39s]  
 - [filtering     40m 11s]  
 - [meeting  5h 07m 17s]  
 - [meetings  4h 41m 30s]  
 - [organization 17h 21m 11s]  
 - [planning  9h 43m 42s]  
-- [presentation 27h 39m 22s]  
+- [presentation 28h 45m 22s]  
 - [reading  7h 33m 20s]  
 - [research 23h 48m 25s]  
 - [writing  2h 41m 24s]  
 
-Total: 130h 53m 03s
+Total: 131h 59m 03s
 
 
 ## Last Year
@@ -228,24 +228,24 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 73h 51m 25s
+thesis - 74h 57m 25s
 - [background  1h 32m 00s]  
 - [backups  8h 49m 19s]  
 - [cleanup  8h 49m 19s]  
 - [code  4h 21m 29s]  
 - [conference  1h 15m 24s]  
 - [examples  1h 43m 48s]  
-- [figures  6h 23m 39s]  
+- [figures  7h 29m 39s]  
 - [filtering     40m 11s]  
 - [meeting  7h 16m 17s]  
 - [meetings  4h 41m 30s]  
 - [organization 21h 16m 40s]  
 - [planning 12h 17m 03s]  
-- [presentation 27h 39m 22s]  
+- [presentation 28h 45m 22s]  
 - [reading  8h 43m 00s]  
 - [research 23h 48m 25s]  
 - [review  3h 51m 08s]  
 - [setup  1h 30m 00s]  
 - [writing  7h 44m 26s]  
 
-Total: 192h 18m 48s
+Total: 193h 24m 48s
