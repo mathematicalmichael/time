@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Thu Feb 21 16:59:44 MST 2019
+## Report Generated on Thu Feb 21 22:25:23 MST 2019
 
 - 01 7h25m13s
 - 02 6h43m04s
@@ -31,7 +31,7 @@ Ideally, my use of this project will continue in perpetuity.
 - 18 9h48m18s
 - 19 5h02m20s
 - 20 7h55m46s
-- 21 7h01m22s
+- 21 9h18m35s
 
 
 ## This Week
@@ -56,14 +56,14 @@ nsf thesis - 1h 04m 05s
 professional-development - 12m 32s
 - [jobsearch     12m 32s]  
 
-thesis - 19h 26m 06s
+thesis - 21h 43m 19s
 - [figures  7h 29m 39s]  
 - [meetings  4h 41m 30s]  
 - [planning  4h 41m 30s]  
-- [presentation 14h 44m 36s]  
+- [presentation 17h 01m 49s]  
 - [research 11h 30m 20s]  
 
-Total: 29h 47m 46s
+Total: 32h 04m 59s
 
 
 ## Last 7 Days
@@ -95,7 +95,7 @@ professional-development - 7h 01m 06s
 - [stat  1h 50m 00s]  
 - [volunteering  1h 45m 00s]  
 
-thesis - 35h 55m 11s
+thesis - 38h 12m 24s
 - [backups  8h 49m 19s]  
 - [cleanup  8h 49m 19s]  
 - [figures  7h 29m 39s]  
@@ -103,10 +103,10 @@ thesis - 35h 55m 11s
 - [meetings  4h 41m 30s]  
 - [organization 12h 08m 39s]  
 - [planning  4h 41m 30s]  
-- [presentation 21h 50m 02s]  
+- [presentation 24h 07m 15s]  
 - [research 14h 33m 58s]  
 
-Total: 56h 57m 04s
+Total: 59h 14m 17s
 
 
 ## Last Month
@@ -152,7 +152,7 @@ professional-development - 19h 19m 24s
 - [talk  2h 34m 26s]  
 - [volunteering  1h 45m 00s]  
 
-thesis - 67h 47m 36s
+thesis - 70h 04m 49s
 - [background  1h 32m 00s]  
 - [backups  8h 49m 19s]  
 - [cleanup  8h 49m 19s]  
@@ -165,12 +165,12 @@ thesis - 67h 47m 36s
 - [meetings  4h 41m 30s]  
 - [organization 17h 21m 11s]  
 - [planning  9h 43m 42s]  
-- [presentation 35h 34m 12s]  
+- [presentation 37h 51m 25s]  
 - [reading  7h 33m 20s]  
 - [research 30h 37m 15s]  
 - [writing  2h 41m 24s]  
 
-Total: 139h 00m 25s
+Total: 141h 17m 38s
 
 
 ## Last Year
@@ -233,7 +233,7 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 81h 46m 15s
+thesis - 84h 03m 28s
 - [background  1h 32m 00s]  
 - [backups  8h 49m 19s]  
 - [cleanup  8h 49m 19s]  
@@ -246,11 +246,11 @@ thesis - 81h 46m 15s
 - [meetings  4h 41m 30s]  
 - [organization 21h 16m 40s]  
 - [planning 12h 17m 03s]  
-- [presentation 35h 34m 12s]  
+- [presentation 37h 51m 25s]  
 - [reading  8h 43m 00s]  
 - [research 30h 37m 15s]  
 - [review  3h 51m 08s]  
 - [setup  1h 30m 00s]  
 - [writing  7h 44m 26s]  
 
-Total: 200h 26m 10s
+Total: 202h 43m 23s
