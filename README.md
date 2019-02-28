@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Wed Feb 27 23:02:46 MST 2019
+## Report Generated on Thu Feb 28 16:42:07 MST 2019
 
 - 01 7h25m13s
 - 02 6h43m04s
@@ -33,15 +33,16 @@ Ideally, my use of this project will continue in perpetuity.
 - 20 7h55m46s
 - 21 9h18m35s
 - 22 3h31m14s
--  
+- 23 12h59m10s
 - 24 27m27s
 - 25 6h22m02s
 - 26 2h12m03s
 - 27 11h30m00s
+-  
 
 
 ## This Week
-Mon 25 February 2019 -> Wed 27 February 2019
+Mon 25 February 2019 -> Thu 28 February 2019
 
 professional-development - 3h 27m 03s
 - [networking  1h 15m 00s]  
@@ -54,36 +55,40 @@ Total: 20h 04m 05s
 
 
 ## Last 7 Days
-Wed 20 February 2019 -> Wed 27 February 2019
+Thu 21 February 2019 -> Thu 28 February 2019
 
-professional-development - 6h 11m 04s
+nsf - 12h 36m 03s
+- [conference 12h 36m 03s]  
+- [travel 12h 36m 03s]  
+
+professional-development - 6h 34m 11s
 - [jobsearch     12m 32s]  
 - [networking  1h 15m 00s]  
 - [resume     27m 27s]  
 - [siam  2h 04m 02s]  
 - [video  2h 04m 02s]  
-- [web  2h 39m 30s]  
+- [web  3h 02m 37s]  
 
-thesis - 35h 06m 03s
+thesis - 27h 10m 17s
 - [conference 16h 37m 02s]  
-- [figures  7h 29m 39s]  
-- [presentation 18h 29m 01s]  
+- [presentation 10h 33m 15s]  
 - [research  6h 48m 50s]  
 
-Total: 41h 17m 07s
+Total: 46h 20m 31s
 
 
 ## Last Month
-Fri 01 February 2019 -> Wed 27 February 2019
+Fri 01 February 2019 -> Thu 28 February 2019
 
 hub - 9h 14m 43s
 - [maintenance  9h 14m 43s]  
 - [revision  1h 49m 59s]  
 - [upgrade  4h 07m 00s]  
 
-nsf - 41h 34m 37s
+nsf - 54h 10m 40s
 - [bet 39h 39m 56s]  
 - [cleaning  3h 08m 12s]  
+- [conference 12h 36m 03s]  
 - [docs     08m 41s]  
 - [examples  1h 12m 03s]  
 - [improvements  3h 04m 49s]  
@@ -95,6 +100,7 @@ nsf - 41h 34m 37s
 - [reading  2h 20m 48s]  
 - [research  1h 54m 41s]  
 - [testing 16h 14m 22s]  
+- [travel 12h 36m 03s]  
 - [travis 12h 16m 04s]  
 - [upgrade  9h 50m 00s]  
 - [versioning  1h 41m 42s]  
@@ -103,7 +109,7 @@ nsf thesis - 1h 04m 05s
 - [organization  1h 04m 05s]  
 - [research  1h 04m 05s]  
 
-professional-development - 25h 17m 56s
+professional-development - 25h 41m 03s
 - [application  5h 11m 19s]  
 - [email     34m 00s]  
 - [jobsearch  7h 07m 24s]  
@@ -117,7 +123,7 @@ professional-development - 25h 17m 56s
 - [talk  2h 34m 26s]  
 - [video  2h 04m 02s]  
 - [volunteering  1h 45m 00s]  
-- [web  2h 39m 30s]  
+- [web  3h 02m 37s]  
 
 thesis - 88h 09m 03s
 - [background  1h 32m 00s]  
@@ -137,11 +143,11 @@ thesis - 88h 09m 03s
 - [research 30h 37m 15s]  
 - [writing  2h 41m 24s]  
 
-Total: 165h 20m 24s
+Total: 178h 19m 34s
 
 
 ## Last Year
-Tue 01 January 2019 -> Wed 27 February 2019
+Tue 01 January 2019 -> Thu 28 February 2019
 
 hub - 15h 03m 40s
 - [docs     22m 00s]  
@@ -151,10 +157,11 @@ hub - 15h 03m 40s
 - [turing  1h 00m 38s]  
 - [upgrade  4h 07m 00s]  
 
-nsf - 73h 53m 54s
+nsf - 86h 29m 57s
 - [background  1h 37m 05s]  
 - [bet 68h 50m 51s]  
 - [cleaning  3h 08m 12s]  
+- [conference 12h 36m 03s]  
 - [discussion     32m 00s]  
 - [docs     08m 41s]  
 - [examples  1h 12m 03s]  
@@ -171,6 +178,7 @@ nsf - 73h 53m 54s
 - [setup     57m 22s]  
 - [testing 21h 33m 49s]  
 - [tests 16h 09m 17s]  
+- [travel 12h 36m 03s]  
 - [travis 12h 16m 04s]  
 - [upgrade 28h 30m 13s]  
 - [versioning 13h 21m 57s]  
@@ -179,7 +187,7 @@ nsf thesis - 1h 04m 05s
 - [organization  1h 04m 05s]  
 - [research  1h 04m 05s]  
 
-professional-development - 33h 23m 41s
+professional-development - 33h 46m 48s
 - [application  5h 11m 19s]  
 - [email     34m 00s]  
 - [jobsearch  7h 07m 24s]  
@@ -196,7 +204,7 @@ professional-development - 33h 23m 41s
 - [talk  2h 34m 26s]  
 - [video  2h 04m 02s]  
 - [volunteering  1h 45m 00s]  
-- [web  2h 52m 28s]  
+- [web  3h 15m 35s]  
 
 school - 1h 13m 07s
 - [email     17m 01s]  
@@ -222,4 +230,4 @@ thesis - 102h 07m 42s
 - [setup  1h 30m 00s]  
 - [writing  7h 44m 26s]  
 
-Total: 226h 46m 09s
+Total: 239h 45m 19s
