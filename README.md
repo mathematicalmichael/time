@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Mon Feb 25 20:36:34 MST 2019
+## Report Generated on Wed Feb 27 23:02:46 MST 2019
 
 - 01 7h25m13s
 - 02 6h43m04s
@@ -36,55 +36,45 @@ Ideally, my use of this project will continue in perpetuity.
 -  
 - 24 27m27s
 - 25 6h22m02s
+- 26 2h12m03s
+- 27 11h30m00s
 
 
 ## This Week
-Mon 25 February 2019 -> Mon 25 February 2019
+Mon 25 February 2019 -> Wed 27 February 2019
 
-thesis - 6h 22m 02s
-- [conference  6h 22m 02s]  
+professional-development - 3h 27m 03s
+- [networking  1h 15m 00s]  
+- [web  2h 12m 03s]  
 
+thesis - 16h 37m 02s
+- [conference 16h 37m 02s]  
+
+Total: 20h 04m 05s
 
 
 ## Last 7 Days
-Mon 18 February 2019 -> Mon 25 February 2019
+Wed 20 February 2019 -> Wed 27 February 2019
 
-hub - 1h 10m 58s
-- [maintenance  1h 10m 58s]  
-
-nsf - 7h 54m 05s
-- [bet  5h 59m 24s]  
-- [improvements  3h 04m 49s]  
-- [organization  1h 54m 41s]  
-- [planning  2h 54m 35s]  
-- [research  1h 54m 41s]  
-- [testing  3h 04m 49s]  
-- [upgrade  2h 54m 35s]  
-
-nsf thesis - 1h 04m 05s
-- [organization  1h 04m 05s]  
-- [research  1h 04m 05s]  
-
-professional-development - 2h 44m 01s
+professional-development - 6h 11m 04s
 - [jobsearch     12m 32s]  
+- [networking  1h 15m 00s]  
 - [resume     27m 27s]  
 - [siam  2h 04m 02s]  
 - [video  2h 04m 02s]  
-- [web     27m 27s]  
+- [web  2h 39m 30s]  
 
-thesis - 29h 32m 33s
-- [conference  6h 22m 02s]  
+thesis - 35h 06m 03s
+- [conference 16h 37m 02s]  
 - [figures  7h 29m 39s]  
-- [meetings  4h 41m 30s]  
-- [planning  4h 41m 30s]  
 - [presentation 18h 29m 01s]  
-- [research 11h 30m 20s]  
+- [research  6h 48m 50s]  
 
-Total: 42h 25m 42s
+Total: 41h 17m 07s
 
 
 ## Last Month
-Fri 01 February 2019 -> Mon 25 February 2019
+Fri 01 February 2019 -> Wed 27 February 2019
 
 hub - 9h 14m 43s
 - [maintenance  9h 14m 43s]  
@@ -113,12 +103,12 @@ nsf thesis - 1h 04m 05s
 - [organization  1h 04m 05s]  
 - [research  1h 04m 05s]  
 
-professional-development - 21h 50m 53s
+professional-development - 25h 17m 56s
 - [application  5h 11m 19s]  
 - [email     34m 00s]  
 - [jobsearch  7h 07m 24s]  
 - [linkedin  6h 54m 52s]  
-- [networking  4h 39m 00s]  
+- [networking  5h 54m 00s]  
 - [preparation  2h 34m 26s]  
 - [presentation  2h 00m 00s]  
 - [resume  6h 52m 20s]  
@@ -127,14 +117,14 @@ professional-development - 21h 50m 53s
 - [talk  2h 34m 26s]  
 - [video  2h 04m 02s]  
 - [volunteering  1h 45m 00s]  
-- [web     27m 27s]  
+- [web  2h 39m 30s]  
 
-thesis - 77h 54m 03s
+thesis - 88h 09m 03s
 - [background  1h 32m 00s]  
 - [backups  8h 49m 19s]  
 - [cleanup  8h 49m 19s]  
 - [code  4h 21m 29s]  
-- [conference  7h 37m 26s]  
+- [conference 17h 52m 26s]  
 - [examples  1h 43m 48s]  
 - [figures  7h 29m 39s]  
 - [filtering     40m 11s]  
@@ -147,11 +137,11 @@ thesis - 77h 54m 03s
 - [research 30h 37m 15s]  
 - [writing  2h 41m 24s]  
 
-Total: 151h 38m 21s
+Total: 165h 20m 24s
 
 
 ## Last Year
-Tue 01 January 2019 -> Mon 25 February 2019
+Tue 01 January 2019 -> Wed 27 February 2019
 
 hub - 15h 03m 40s
 - [docs     22m 00s]  
@@ -189,14 +179,14 @@ nsf thesis - 1h 04m 05s
 - [organization  1h 04m 05s]  
 - [research  1h 04m 05s]  
 
-professional-development - 29h 56m 38s
+professional-development - 33h 23m 41s
 - [application  5h 11m 19s]  
 - [email     34m 00s]  
 - [jobsearch  7h 07m 24s]  
 - [linkedin  6h 54m 52s]  
 - [meeting  4h 38m 32s]  
 - [mp     12m 58s]  
-- [networking  4h 39m 00s]  
+- [networking  5h 54m 00s]  
 - [preparation  2h 34m 26s]  
 - [presentation  2h 00m 00s]  
 - [resources     12m 58s]  
@@ -206,18 +196,18 @@ professional-development - 29h 56m 38s
 - [talk  2h 34m 26s]  
 - [video  2h 04m 02s]  
 - [volunteering  1h 45m 00s]  
-- [web     40m 25s]  
+- [web  2h 52m 28s]  
 
 school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 91h 52m 42s
+thesis - 102h 07m 42s
 - [background  1h 32m 00s]  
 - [backups  8h 49m 19s]  
 - [cleanup  8h 49m 19s]  
 - [code  4h 21m 29s]  
-- [conference  7h 37m 26s]  
+- [conference 17h 52m 26s]  
 - [examples  1h 43m 48s]  
 - [figures  7h 29m 39s]  
 - [filtering     40m 11s]  
@@ -232,4 +222,4 @@ thesis - 91h 52m 42s
 - [setup  1h 30m 00s]  
 - [writing  7h 44m 26s]  
 
-Total: 213h 04m 06s
+Total: 226h 46m 09s
