@@ -9,64 +9,62 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Sat Mar  2 16:14:16 MST 2019
+## Report Generated on Mon Mar  4 10:39:11 MST 2019
 
 - 01 7h25m13s
 - 02 6h43m04s
+- 03 6h50m12s
+- 04 6h36m15s
 
 
 ## This Week
-Mon 25 February 2019 -> Sat 02 March 2019
+Mon 04 March 2019 -> Mon 04 March 2019
 
-nsf - 8h 26m 03s
-- [conference  8h 26m 03s]  
-- [travel  8h 26m 03s]  
-
-professional-development - 3h 27m 03s
-- [networking  1h 15m 00s]  
-- [web  2h 12m 03s]  
-
-thesis - 23h 54m 06s
-- [conference 16h 37m 02s]  
-- [framsc  7h 17m 04s]  
-
-Total: 35h 47m 12s
 
 
 ## Last 7 Days
-Sat 23 February 2019 -> Sat 02 March 2019
-
-nsf - 21h 02m 06s
-- [conference 21h 02m 06s]  
-- [travel 21h 02m 06s]  
-
-professional-development - 4h 17m 37s
-- [networking  1h 15m 00s]  
-- [resume     27m 27s]  
-- [web  3h 02m 37s]  
-
-thesis - 23h 54m 06s
-- [conference 16h 37m 02s]  
-- [framsc  7h 17m 04s]  
-
-Total: 49h 13m 49s
-
-
-## Last Month
-Fri 01 March 2019 -> Sat 02 March 2019
+Mon 25 February 2019 -> Mon 04 March 2019
 
 nsf - 8h 26m 03s
 - [conference  8h 26m 03s]  
 - [travel  8h 26m 03s]  
 
-thesis - 7h 17m 04s
-- [framsc  7h 17m 04s]  
+professional-development - 6h 51m 07s
+- [mathcomputer  3h 24m 04s]  
+- [networking  4h 39m 04s]  
+- [web  5h 36m 07s]  
 
-Total: 15h 43m 07s
+thesis - 26h 28m 08s
+- [competition  2h 34m 02s]  
+- [conference 16h 37m 02s]  
+- [framsc  7h 17m 04s]  
+- [planning  2h 34m 02s]  
+
+Total: 41h 45m 18s
+
+
+## Last Month
+Fri 01 March 2019 -> Mon 04 March 2019
+
+nsf - 8h 26m 03s
+- [conference  8h 26m 03s]  
+- [travel  8h 26m 03s]  
+
+professional-development - 3h 24m 04s
+- [mathcomputer  3h 24m 04s]  
+- [networking  3h 24m 04s]  
+- [web  3h 24m 04s]  
+
+thesis - 9h 51m 06s
+- [competition  2h 34m 02s]  
+- [framsc  7h 17m 04s]  
+- [planning  2h 34m 02s]  
+
+Total: 21h 41m 13s
 
 
 ## Last Year
-Tue 01 January 2019 -> Sat 02 March 2019
+Tue 01 January 2019 -> Mon 04 March 2019
 
 hub - 15h 03m 40s
 - [docs     22m 00s]  
@@ -106,14 +104,15 @@ nsf thesis - 1h 04m 05s
 - [organization  1h 04m 05s]  
 - [research  1h 04m 05s]  
 
-professional-development - 33h 46m 48s
+professional-development - 37h 10m 52s
 - [application  5h 11m 19s]  
 - [email     34m 00s]  
 - [jobsearch  7h 07m 24s]  
 - [linkedin  6h 54m 52s]  
+- [mathcomputer  3h 24m 04s]  
 - [meeting  4h 38m 32s]  
 - [mp     12m 58s]  
-- [networking  5h 54m 00s]  
+- [networking  9h 18m 04s]  
 - [preparation  2h 34m 26s]  
 - [presentation  2h 00m 00s]  
 - [resources     12m 58s]  
@@ -123,17 +122,18 @@ professional-development - 33h 46m 48s
 - [talk  2h 34m 26s]  
 - [video  2h 04m 02s]  
 - [volunteering  1h 45m 00s]  
-- [web  3h 15m 35s]  
+- [web  6h 39m 39s]  
 
 school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 109h 24m 46s
+thesis - 111h 58m 48s
 - [background  1h 32m 00s]  
 - [backups  8h 49m 19s]  
 - [cleanup  8h 49m 19s]  
 - [code  4h 21m 29s]  
+- [competition  2h 34m 02s]  
 - [conference 17h 52m 26s]  
 - [examples  1h 43m 48s]  
 - [figures  7h 29m 39s]  
@@ -142,7 +142,7 @@ thesis - 109h 24m 46s
 - [meeting  7h 16m 17s]  
 - [meetings  4h 41m 30s]  
 - [organization 21h 16m 40s]  
-- [planning 12h 17m 03s]  
+- [planning 14h 51m 05s]  
 - [presentation 39h 18m 37s]  
 - [reading  8h 43m 00s]  
 - [research 30h 37m 15s]  
@@ -150,4 +150,4 @@ thesis - 109h 24m 46s
 - [setup  1h 30m 00s]  
 - [writing  7h 44m 26s]  
 
-Total: 255h 28m 26s
+Total: 261h 26m 32s
