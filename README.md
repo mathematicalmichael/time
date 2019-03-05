@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Mon Mar  4 10:39:11 MST 2019
+## Report Generated on Mon Mar  4 18:16:03 MST 2019
 
 - 01 7h25m13s
 - 02 6h43m04s
@@ -20,19 +20,31 @@ Ideally, my use of this project will continue in perpetuity.
 ## This Week
 Mon 04 March 2019 -> Mon 04 March 2019
 
+nsf - 1h 14m 38s
+- [bet  1h 14m 38s]  
+- [improvements  1h 14m 38s]  
+
+professional-development - 56m 46s
+- [documentation     56m 46s]  
+- [web     56m 46s]  
+
+Total: 2h 11m 24s
 
 
 ## Last 7 Days
 Mon 25 February 2019 -> Mon 04 March 2019
 
-nsf - 8h 26m 03s
-- [conference  8h 26m 03s]  
+nsf - 17h 17m 44s
+- [bet  1h 14m 38s]  
+- [conference 16h 03m 06s]  
+- [improvements  1h 14m 38s]  
 - [travel  8h 26m 03s]  
 
-professional-development - 6h 51m 07s
+professional-development - 7h 47m 53s
+- [documentation     56m 46s]  
 - [mathcomputer  3h 24m 04s]  
 - [networking  4h 39m 04s]  
-- [web  5h 36m 07s]  
+- [web  6h 32m 53s]  
 
 thesis - 26h 28m 08s
 - [competition  2h 34m 02s]  
@@ -40,27 +52,30 @@ thesis - 26h 28m 08s
 - [framsc  7h 17m 04s]  
 - [planning  2h 34m 02s]  
 
-Total: 41h 45m 18s
+Total: 51h 33m 45s
 
 
 ## Last Month
 Fri 01 March 2019 -> Mon 04 March 2019
 
-nsf - 8h 26m 03s
+nsf - 9h 40m 41s
+- [bet  1h 14m 38s]  
 - [conference  8h 26m 03s]  
+- [improvements  1h 14m 38s]  
 - [travel  8h 26m 03s]  
 
-professional-development - 3h 24m 04s
+professional-development - 4h 20m 50s
+- [documentation     56m 46s]  
 - [mathcomputer  3h 24m 04s]  
 - [networking  3h 24m 04s]  
-- [web  3h 24m 04s]  
+- [web  4h 20m 50s]  
 
 thesis - 9h 51m 06s
 - [competition  2h 34m 02s]  
 - [framsc  7h 17m 04s]  
 - [planning  2h 34m 02s]  
 
-Total: 21h 41m 13s
+Total: 23h 52m 37s
 
 
 ## Last Year
@@ -74,16 +89,16 @@ hub - 15h 03m 40s
 - [turing  1h 00m 38s]  
 - [upgrade  4h 07m 00s]  
 
-nsf - 94h 56m 00s
+nsf - 103h 47m 41s
 - [background  1h 37m 05s]  
-- [bet 68h 50m 51s]  
+- [bet 70h 05m 29s]  
 - [cleaning  3h 08m 12s]  
-- [conference 21h 02m 06s]  
+- [conference 28h 39m 09s]  
 - [discussion     32m 00s]  
 - [docs     08m 41s]  
 - [examples  1h 12m 03s]  
 - [features  2h 58m 11s]  
-- [improvements  3h 04m 49s]  
+- [improvements  4h 19m 27s]  
 - [meeting  2h 11m 00s]  
 - [notebooks 12h 15m 39s]  
 - [organization  3h 09m 41s]  
@@ -104,8 +119,9 @@ nsf thesis - 1h 04m 05s
 - [organization  1h 04m 05s]  
 - [research  1h 04m 05s]  
 
-professional-development - 37h 10m 52s
+professional-development - 38h 07m 38s
 - [application  5h 11m 19s]  
+- [documentation     56m 46s]  
 - [email     34m 00s]  
 - [jobsearch  7h 07m 24s]  
 - [linkedin  6h 54m 52s]  
@@ -122,7 +138,7 @@ professional-development - 37h 10m 52s
 - [talk  2h 34m 26s]  
 - [video  2h 04m 02s]  
 - [volunteering  1h 45m 00s]  
-- [web  6h 39m 39s]  
+- [web  7h 36m 25s]  
 
 school - 1h 13m 07s
 - [email     17m 01s]  
@@ -150,4 +166,4 @@ thesis - 111h 58m 48s
 - [setup  1h 30m 00s]  
 - [writing  7h 44m 26s]  
 
-Total: 261h 26m 32s
+Total: 271h 14m 59s
