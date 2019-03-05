@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Mon Mar  4 18:16:03 MST 2019
+## Report Generated on Mon Mar  4 22:15:59 MST 2019
 
 - 01 7h25m13s
 - 02 6h43m04s
@@ -28,7 +28,10 @@ professional-development - 56m 46s
 - [documentation     56m 46s]  
 - [web     56m 46s]  
 
-Total: 2h 11m 24s
+thesis - 46m 20s
+- [reading     46m 20s]  
+
+Total: 2h 57m 44s
 
 
 ## Last 7 Days
@@ -46,13 +49,14 @@ professional-development - 7h 47m 53s
 - [networking  4h 39m 04s]  
 - [web  6h 32m 53s]  
 
-thesis - 26h 28m 08s
+thesis - 27h 14m 28s
 - [competition  2h 34m 02s]  
 - [conference 16h 37m 02s]  
 - [framsc  7h 17m 04s]  
 - [planning  2h 34m 02s]  
+- [reading     46m 20s]  
 
-Total: 51h 33m 45s
+Total: 52h 20m 05s
 
 
 ## Last Month
@@ -70,12 +74,13 @@ professional-development - 4h 20m 50s
 - [networking  3h 24m 04s]  
 - [web  4h 20m 50s]  
 
-thesis - 9h 51m 06s
+thesis - 10h 37m 26s
 - [competition  2h 34m 02s]  
 - [framsc  7h 17m 04s]  
 - [planning  2h 34m 02s]  
+- [reading     46m 20s]  
 
-Total: 23h 52m 37s
+Total: 24h 38m 57s
 
 
 ## Last Year
@@ -144,7 +149,7 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 111h 58m 48s
+thesis - 112h 45m 08s
 - [background  1h 32m 00s]  
 - [backups  8h 49m 19s]  
 - [cleanup  8h 49m 19s]  
@@ -160,10 +165,10 @@ thesis - 111h 58m 48s
 - [organization 21h 16m 40s]  
 - [planning 14h 51m 05s]  
 - [presentation 39h 18m 37s]  
-- [reading  8h 43m 00s]  
+- [reading  9h 29m 20s]  
 - [research 30h 37m 15s]  
 - [review  3h 51m 08s]  
 - [setup  1h 30m 00s]  
 - [writing  7h 44m 26s]  
 
-Total: 271h 14m 59s
+Total: 272h 01m 19s
