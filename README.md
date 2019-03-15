@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Wed Mar 13 22:31:22 MDT 2019
+## Report Generated on Thu Mar 14 19:49:26 MDT 2019
 
 - 01 7h25m13s
 - 02 6h43m04s
@@ -24,10 +24,11 @@ Ideally, my use of this project will continue in perpetuity.
 - 11 8h15m37s
 - 12 7h39m22s
 - 13 6h32m43s
+- 14 7h52m05s
 
 
 ## This Week
-Mon 11 March 2019 -> Wed 13 March 2019
+Mon 11 March 2019 -> Thu 14 March 2019
 
 hub - 1h 17m 27s
 - [aime  1h 09m 04s]  
@@ -38,55 +39,54 @@ nsf - 2h 36m 01s
 - [bet  2h 36m 01s]  
 - [improvements  2h 36m 01s]  
 
-professional-development - 14h 17m 54s
+professional-development - 22h 57m 37s
 - [documentation  3h 26m 03s]  
 - [jobsearch  7h 23m 06s]  
-- [networking  7h 23m 06s]  
-- [resume  6h 54m 48s]  
+- [networking 11h 28m 08s]  
+- [resume 11h 29m 29s]  
 - [social  7h 23m 06s]  
-- [update  3h 26m 03s]  
-- [web  3h 26m 03s]  
+- [update  8h 00m 44s]  
+- [web  8h 00m 44s]  
 
 thesis - 2h 00m 03s
 - [meeting  2h 00m 03s]  
 
-Total: 20h 11m 25s
+Total: 28h 51m 08s
 
 
 ## Last 7 Days
-Wed 06 March 2019 -> Wed 13 March 2019
+Thu 07 March 2019 -> Thu 14 March 2019
 
-hub - 2h 21m 33s
+hub - 1h 48m 30s
 - [aime  1h 40m 07s]  
 - [help     31m 03s]  
-- [maintenance  1h 50m 30s]  
+- [maintenance  1h 17m 27s]  
 - [stat     08m 23s]  
 
 nsf - 2h 36m 01s
 - [bet  2h 36m 01s]  
 - [improvements  2h 36m 01s]  
 
-professional-development - 24h 00m 01s
+professional-development - 31h 49m 47s
 - [documentation  4h 06m 17s]  
 - [jobsearch  7h 23m 06s]  
 - [meeting  3h 51m 20s]  
-- [networking 11h 43m 42s]  
-- [organizing     49m 57s]  
-- [resume  8h 24m 59s]  
+- [networking 15h 48m 44s]  
+- [resume 12h 09m 43s]  
 - [social  7h 23m 06s]  
-- [update  3h 26m 03s]  
-- [web  3h 26m 03s]  
+- [update  8h 00m 44s]  
+- [web  8h 00m 44s]  
 
 thesis - 6h 40m 09s
 - [competition  4h 15m 02s]  
 - [meeting  2h 00m 03s]  
 - [reading     25m 04s]  
 
-Total: 35h 37m 44s
+Total: 42h 54m 27s
 
 
 ## Last Month
-Fri 01 March 2019 -> Wed 13 March 2019
+Fri 01 March 2019 -> Thu 14 March 2019
 
 hub - 3h 30m 47s
 - [aime  1h 40m 07s]  
@@ -100,17 +100,17 @@ nsf - 15h 07m 27s
 - [improvements  6h 41m 24s]  
 - [travel  8h 26m 03s]  
 
-professional-development - 28h 20m 51s
+professional-development - 37h 00m 34s
 - [documentation  5h 03m 03s]  
 - [jobsearch  7h 23m 06s]  
 - [mathcomputer  3h 24m 04s]  
 - [meeting  3h 51m 20s]  
-- [networking 15h 07m 46s]  
+- [networking 19h 12m 48s]  
 - [organizing     49m 57s]  
-- [resume  8h 24m 59s]  
+- [resume 12h 59m 40s]  
 - [social  7h 23m 06s]  
-- [update  3h 26m 03s]  
-- [web  7h 46m 53s]  
+- [update  8h 00m 44s]  
+- [web 12h 21m 34s]  
 
 thesis - 18h 41m 23s
 - [competition  6h 49m 04s]  
@@ -119,11 +119,11 @@ thesis - 18h 41m 23s
 - [planning  2h 34m 02s]  
 - [reading  1h 11m 24s]  
 
-Total: 65h 40m 28s
+Total: 74h 20m 11s
 
 
 ## Last Year
-Tue 01 January 2019 -> Wed 13 March 2019
+Tue 01 January 2019 -> Thu 14 March 2019
 
 hub - 18h 34m 27s
 - [aime  1h 40m 07s]  
@@ -166,7 +166,7 @@ nsf thesis - 1h 04m 05s
 - [organization  1h 04m 05s]  
 - [research  1h 04m 05s]  
 
-professional-development - 62h 07m 39s
+professional-development - 70h 47m 22s
 - [application  5h 11m 19s]  
 - [documentation  5h 03m 03s]  
 - [email     34m 00s]  
@@ -175,20 +175,20 @@ professional-development - 62h 07m 39s
 - [mathcomputer  3h 24m 04s]  
 - [meeting  8h 29m 52s]  
 - [mp     12m 58s]  
-- [networking 21h 01m 46s]  
+- [networking 25h 06m 48s]  
 - [organizing     49m 57s]  
 - [preparation  2h 34m 26s]  
 - [presentation  2h 00m 00s]  
 - [resources     12m 58s]  
-- [resume 15h 17m 19s]  
+- [resume 19h 52m 00s]  
 - [siam  2h 04m 02s]  
 - [social  7h 23m 06s]  
 - [stat 11h 43m 32s]  
 - [talk  2h 34m 26s]  
-- [update  3h 26m 03s]  
+- [update  8h 00m 44s]  
 - [video  2h 04m 02s]  
 - [volunteering  1h 45m 00s]  
-- [web 11h 02m 28s]  
+- [web 15h 37m 09s]  
 
 school - 1h 13m 07s
 - [email     17m 01s]  
@@ -216,4 +216,4 @@ thesis - 120h 49m 05s
 - [setup  1h 30m 00s]  
 - [writing  7h 44m 26s]  
 
-Total: 313h 02m 50s
+Total: 321h 42m 33s

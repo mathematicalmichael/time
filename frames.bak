@@ -2053,7 +2053,7 @@
   1552525843
  ],
  [
-  1552537858,
+  1552525498,
   1552537861,
   "professional-development",
   "57a3502a476347cb9cae4610812bd1fd",
@@ -2063,6 +2063,28 @@
    "web",
    "documentation"
   ],
-  1552537861
+  1552537880
+ ],
+ [
+  1552572030,
+  1552586732,
+  "professional-development",
+  "df6b75fc47fc4c038c81d295280e2d62",
+  [
+   "networking"
+  ],
+  1552586744
+ ],
+ [
+  1552614530,
+  1552614533,
+  "professional-development",
+  "12a6b96e34144ceb896e5aa3c403b10b",
+  [
+   "resume",
+   "update",
+   "web"
+  ],
+  1552614533
  ]
 ]
