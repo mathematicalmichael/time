@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Thu Mar 28 10:25:43 MDT 2019
+## Report Generated on Fri Mar 29 16:02:40 MDT 2019
 
 - 01 7h25m13s
 - 02 6h43m04s
@@ -42,41 +42,49 @@ Ideally, my use of this project will continue in perpetuity.
 
 
 ## This Week
-Mon 25 March 2019 -> Thu 28 March 2019
+Mon 25 March 2019 -> Fri 29 March 2019
 
 hub - 56m 25s
 - [maintenance     56m 25s]  
 
-nsf - 2h 25m 36s
-- [bet  2h 25m 36s]  
+nsf - 5h 40m 09s
+- [bet  5h 40m 09s]  
 - [improvements  2h 00m 14s]  
 - [organization     25m 22s]  
 
 professional-development - 31h 42m 39s
 - [resume 31h 42m 39s]  
 
-Total: 35h 04m 40s
+thesis - 1h 14m 51s
+- [bibliography  1h 14m 51s]  
+- [writing  1h 14m 51s]  
+
+Total: 39h 34m 04s
 
 
 ## Last 7 Days
-Thu 21 March 2019 -> Thu 28 March 2019
+Fri 22 March 2019 -> Fri 29 March 2019
 
 hub - 56m 25s
 - [maintenance     56m 25s]  
 
-nsf - 2h 49m 51s
-- [bet  2h 49m 51s]  
+nsf - 6h 04m 24s
+- [bet  6h 04m 24s]  
 - [improvements  2h 00m 14s]  
 - [organization     25m 22s]  
 
 professional-development - 31h 42m 39s
 - [resume 31h 42m 39s]  
 
-Total: 35h 28m 55s
+thesis - 1h 14m 51s
+- [bibliography  1h 14m 51s]  
+- [writing  1h 14m 51s]  
+
+Total: 39h 58m 19s
 
 
 ## Last Month
-Fri 01 March 2019 -> Thu 28 March 2019
+Fri 01 March 2019 -> Fri 29 March 2019
 
 hub - 4h 27m 12s
 - [aime  1h 40m 07s]  
@@ -84,8 +92,8 @@ hub - 4h 27m 12s
 - [maintenance  3h 56m 09s]  
 - [stat     08m 23s]  
 
-nsf - 17h 57m 18s
-- [bet  9h 31m 15s]  
+nsf - 21h 11m 51s
+- [bet 12h 45m 48s]  
 - [conference  8h 26m 03s]  
 - [improvements  8h 41m 38s]  
 - [organization     25m 22s]  
@@ -103,19 +111,20 @@ professional-development - 95h 28m 40s
 - [update  8h 00m 44s]  
 - [web 22h 45m 14s]  
 
-thesis - 22h 45m 37s
+thesis - 24h 00m 28s
+- [bibliography  1h 14m 51s]  
 - [competition  6h 49m 04s]  
 - [framsc  7h 17m 04s]  
 - [meeting  3h 23m 51s]  
 - [planning  2h 34m 02s]  
 - [reading  3h 47m 26s]  
-- [writing  1h 28m 12s]  
+- [writing  2h 43m 03s]  
 
-Total: 140h 38m 47s
+Total: 145h 08m 11s
 
 
 ## Last Year
-Tue 01 January 2019 -> Thu 28 March 2019
+Tue 01 January 2019 -> Fri 29 March 2019
 
 hub - 19h 30m 52s
 - [aime  1h 40m 07s]  
@@ -128,9 +137,9 @@ hub - 19h 30m 52s
 - [turing  1h 00m 38s]  
 - [upgrade  4h 07m 00s]  
 
-nsf - 112h 04m 18s
+nsf - 115h 18m 51s
 - [background  1h 37m 05s]  
-- [bet 78h 22m 06s]  
+- [bet 81h 36m 39s]  
 - [cleaning  3h 08m 12s]  
 - [conference 28h 39m 09s]  
 - [discussion     32m 00s]  
@@ -186,9 +195,10 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 124h 53m 19s
+thesis - 126h 08m 10s
 - [background  1h 32m 00s]  
 - [backups  8h 49m 19s]  
+- [bibliography  1h 14m 51s]  
 - [cleanup  8h 49m 19s]  
 - [code  4h 21m 29s]  
 - [competition  6h 49m 04s]  
@@ -206,6 +216,6 @@ thesis - 124h 53m 19s
 - [research 30h 37m 15s]  
 - [review  3h 51m 08s]  
 - [setup  1h 30m 00s]  
-- [writing  9h 12m 38s]  
+- [writing 10h 27m 29s]  
 
-Total: 388h 01m 09s
+Total: 392h 30m 33s
