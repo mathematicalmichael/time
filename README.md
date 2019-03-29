@@ -9,36 +9,37 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Fri Mar 29 16:02:40 MDT 2019
+## Report Generated on Fri Mar 29 16:03:56 MDT 2019
 
-- 01 7h25m13s
-- 02 6h43m04s
-- 03 6h50m12s
-- 04 6h36m15s
-- 05 1h50m21s
-- 06 2h34m26s
-- 07 1h43m33s
-- 08 7h02m55s
-- 09 9h36m17s
-- 10 9h13m23s
-- 11 8h15m37s
-- 12 7h39m22s
-- 13 6h32m43s
-- 14 7h52m05s
-- 15 9h24m22s
-- 16 8h49m19s
+- 01 8h26m03s
+- 02 7h17m04s
+- 03 5h58m06s
+- 04 2h57m44s
+- 05 5h23m47s
+- 06 1h23m00s
+- 07 5h27m41s
+- 08 4h20m36s
+- 09 4h15m02s
 -  
-- 18 9h48m18s
-- 19 5h02m20s
-- 20 7h55m46s
-- 21 9h18m35s
-- 22 3h31m14s
-- 23 12h59m10s
-- 24 27m27s
-- 25 6h22m02s
-- 26 2h12m03s
-- 27 11h30m00s
-- 28 7h37m03s
+- 11 3h28m45s
+- 12 5h53m31s
+- 13 10h49m09s
+- 14 8h39m43s
+- 15 5h27m50s
+- 16 6h48m06s
+- 17 6h04m38s
+- 18 1h28m12s
+- 19 9h27m12s
+- 20 1h33m43s
+-  
+- 22 24m15s
+-  
+-  
+- 25 3h22m01s
+-  
+- 27 2h20m02s
+- 28 2h31m46s
+- 29 4h29m24s
 
 
 ## This Week
