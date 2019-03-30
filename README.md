@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Fri Mar 29 16:03:56 MDT 2019
+## Report Generated on Fri Mar 29 22:33:58 MDT 2019
 
 - 01 8h26m03s
 - 02 7h17m04s
@@ -39,7 +39,7 @@ Ideally, my use of this project will continue in perpetuity.
 -  
 - 27 2h20m02s
 - 28 2h31m46s
-- 29 4h29m24s
+- 29 6h43m28s
 
 
 ## This Week
@@ -48,19 +48,22 @@ Mon 25 March 2019 -> Fri 29 March 2019
 hub - 56m 25s
 - [maintenance     56m 25s]  
 
-nsf - 5h 40m 09s
-- [bet  5h 40m 09s]  
+nsf - 7h 15m 29s
+- [bet  7h 15m 29s]  
+- [features  1h 35m 20s]  
 - [improvements  2h 00m 14s]  
 - [organization     25m 22s]  
+- [planning  1h 35m 20s]  
+- [sampling  1h 35m 20s]  
 
-professional-development - 31h 42m 39s
-- [resume 31h 42m 39s]  
+professional-development - 32h 21m 23s
+- [resume 32h 21m 23s]  
 
 thesis - 1h 14m 51s
 - [bibliography  1h 14m 51s]  
 - [writing  1h 14m 51s]  
 
-Total: 39h 34m 04s
+Total: 41h 48m 08s
 
 
 ## Last 7 Days
@@ -69,19 +72,22 @@ Fri 22 March 2019 -> Fri 29 March 2019
 hub - 56m 25s
 - [maintenance     56m 25s]  
 
-nsf - 6h 04m 24s
-- [bet  6h 04m 24s]  
+nsf - 7h 39m 44s
+- [bet  7h 39m 44s]  
+- [features  1h 35m 20s]  
 - [improvements  2h 00m 14s]  
 - [organization     25m 22s]  
+- [planning  1h 35m 20s]  
+- [sampling  1h 35m 20s]  
 
-professional-development - 31h 42m 39s
-- [resume 31h 42m 39s]  
+professional-development - 32h 21m 23s
+- [resume 32h 21m 23s]  
 
 thesis - 1h 14m 51s
 - [bibliography  1h 14m 51s]  
 - [writing  1h 14m 51s]  
 
-Total: 39h 58m 19s
+Total: 42h 12m 23s
 
 
 ## Last Month
@@ -93,21 +99,24 @@ hub - 4h 27m 12s
 - [maintenance  3h 56m 09s]  
 - [stat     08m 23s]  
 
-nsf - 21h 11m 51s
-- [bet 12h 45m 48s]  
+nsf - 22h 47m 11s
+- [bet 14h 21m 08s]  
 - [conference  8h 26m 03s]  
+- [features  1h 35m 20s]  
 - [improvements  8h 41m 38s]  
 - [organization     25m 22s]  
+- [planning  1h 35m 20s]  
+- [sampling  1h 35m 20s]  
 - [travel  8h 26m 03s]  
 
-professional-development - 95h 28m 40s
+professional-development - 96h 07m 24s
 - [documentation  9h 15m 07s]  
 - [jobsearch 14h 24m 39s]  
 - [mathcomputer  3h 24m 04s]  
 - [meeting  3h 51m 20s]  
 - [networking 19h 12m 48s]  
 - [organization 10h 17m 09s]  
-- [resume 54h 59m 01s]  
+- [resume 55h 37m 45s]  
 - [social  7h 23m 06s]  
 - [update  8h 00m 44s]  
 - [web 22h 45m 14s]  
@@ -121,7 +130,7 @@ thesis - 24h 00m 28s
 - [reading  3h 47m 26s]  
 - [writing  2h 43m 03s]  
 
-Total: 145h 08m 11s
+Total: 147h 22m 15s
 
 
 ## Last Year
@@ -138,24 +147,25 @@ hub - 19h 30m 52s
 - [turing  1h 00m 38s]  
 - [upgrade  4h 07m 00s]  
 
-nsf - 115h 18m 51s
+nsf - 116h 54m 11s
 - [background  1h 37m 05s]  
-- [bet 81h 36m 39s]  
+- [bet 83h 11m 59s]  
 - [cleaning  3h 08m 12s]  
 - [conference 28h 39m 09s]  
 - [discussion     32m 00s]  
 - [docs     08m 41s]  
 - [examples  1h 12m 03s]  
-- [features  2h 58m 11s]  
+- [features  4h 33m 31s]  
 - [improvements 11h 46m 27s]  
 - [meeting  2h 11m 00s]  
 - [notebooks 12h 15m 39s]  
 - [organization  3h 35m 03s]  
-- [planning  3h 59m 16s]  
+- [planning  5h 34m 36s]  
 - [plotting  3h 10m 37s]  
 - [presentation  3h 26m 14s]  
 - [reading  2h 20m 48s]  
 - [research  1h 54m 41s]  
+- [sampling  1h 35m 20s]  
 - [setup     57m 22s]  
 - [testing 21h 33m 49s]  
 - [tests 16h 09m 17s]  
@@ -168,7 +178,7 @@ nsf thesis - 1h 04m 05s
 - [organization  1h 04m 05s]  
 - [research  1h 04m 05s]  
 
-professional-development - 129h 15m 28s
+professional-development - 129h 54m 12s
 - [application  5h 11m 19s]  
 - [documentation  9h 15m 07s]  
 - [email     34m 00s]  
@@ -182,7 +192,7 @@ professional-development - 129h 15m 28s
 - [preparation  2h 34m 26s]  
 - [presentation  2h 00m 00s]  
 - [resources     12m 58s]  
-- [resume 61h 51m 21s]  
+- [resume 62h 30m 05s]  
 - [siam  2h 04m 02s]  
 - [social  7h 23m 06s]  
 - [stat 11h 43m 32s]  
@@ -219,4 +229,4 @@ thesis - 126h 08m 10s
 - [setup  1h 30m 00s]  
 - [writing 10h 27m 29s]  
 
-Total: 392h 30m 33s
+Total: 394h 44m 37s
