@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Sun Apr 28 12:47:07 MDT 2019
+## Report Generated on Sun Apr 28 14:27:33 MDT 2019
 
 - 01 6h30m05s
 - 02 1h48m12s
@@ -38,7 +38,7 @@ Ideally, my use of this project will continue in perpetuity.
 - 25 5h23m20s
 - 26 7h32m23s
 - 27 5h16m03s
-- 28 3h33m48s
+- 28 5h16m41s
 
 
 ## This Week
@@ -50,12 +50,14 @@ bet - 1h 45m 02s
 hub - 2h 40m 06s
 - [presentation  2h 40m 06s]  
 
-nsf - 27h 11m 48s
-- [bet 27h 11m 48s]  
+nsf - 28h 54m 41s
+- [bet 28h 54m 41s]  
 - [documentation  8h 49m 51s]  
 - [features 16h 06m 53s]  
+- [organization  1h 42m 53s]  
 - [parallel  2h 15m 04s]  
-- [testing 14h 57m 45s]  
+- [planning  1h 42m 53s]  
+- [testing 16h 40m 38s]  
 
 professional-development - 5h 43m 49s
 - [phbalance     41m 02s]  
@@ -65,7 +67,7 @@ thesis - 1h 19m 43s
 - [editing  1h 19m 43s]  
 - [reading  1h 19m 43s]  
 
-Total: 38h 40m 28s
+Total: 40h 23m 21s
 
 
 ## Last 7 Days
@@ -77,12 +79,14 @@ bet - 1h 45m 02s
 hub - 2h 40m 06s
 - [presentation  2h 40m 06s]  
 
-nsf - 27h 11m 48s
-- [bet 27h 11m 48s]  
+nsf - 28h 54m 41s
+- [bet 28h 54m 41s]  
 - [documentation  8h 49m 51s]  
 - [features 16h 06m 53s]  
+- [organization  1h 42m 53s]  
 - [parallel  2h 15m 04s]  
-- [testing 14h 57m 45s]  
+- [planning  1h 42m 53s]  
+- [testing 16h 40m 38s]  
 
 professional-development - 9h 20m 08s
 - [phbalance     41m 02s]  
@@ -94,7 +98,7 @@ thesis - 1h 19m 43s
 - [editing  1h 19m 43s]  
 - [reading  1h 19m 43s]  
 
-Total: 42h 16m 47s
+Total: 43h 59m 40s
 
 
 ## Last Month
@@ -111,18 +115,18 @@ hub - 8h 13m 10s
 - [presentation  2h 40m 06s]  
 - [research     40m 04s]  
 
-nsf - 99h 24m 25s
-- [bet 99h 24m 25s]  
+nsf - 101h 07m 18s
+- [bet 101h 07m 18s]  
 - [cleanup  1h 35m 47s]  
 - [documentation  8h 49m 51s]  
 - [features 80h 04m 56s]  
 - [metrics 22h 16m 25s]  
-- [organization  4h 55m 39s]  
+- [organization  6h 38m 32s]  
 - [parallel  2h 15m 04s]  
-- [planning  3h 33m 02s]  
+- [planning  5h 15m 55s]  
 - [research  1h 08m 08s]  
 - [review  3h 33m 02s]  
-- [testing 52h 23m 24s]  
+- [testing 54h 06m 17s]  
 - [travis 11h 47m 36s]  
 
 professional-development - 14h 21m 17s
@@ -143,7 +147,7 @@ thesis - 24h 27m 08s
 - [reading  1h 19m 43s]  
 - [writing 14h 46m 52s]  
 
-Total: 148h 11m 02s
+Total: 149h 53m 55s
 
 
 ## Last Year
@@ -169,9 +173,9 @@ hub - 28h 57m 44s
 - [turing  1h 00m 38s]  
 - [upgrade  4h 07m 00s]  
 
-nsf - 215h 00m 28s
+nsf - 216h 43m 21s
 - [background     39m 43s]  
-- [bet 182h 15m 38s]  
+- [bet 183h 58m 31s]  
 - [cleaning  3h 08m 12s]  
 - [cleanup  1h 35m 47s]  
 - [conference 28h 39m 09s]  
@@ -184,16 +188,16 @@ nsf - 215h 00m 28s
 - [meeting  2h 11m 00s]  
 - [metrics 22h 16m 25s]  
 - [notebooks 12h 15m 39s]  
-- [organization  8h 30m 42s]  
+- [organization 10h 13m 35s]  
 - [parallel  2h 15m 04s]  
-- [planning  9h 07m 38s]  
+- [planning 10h 50m 31s]  
 - [plotting  3h 10m 37s]  
 - [presentation  3h 26m 14s]  
 - [reading  2h 20m 48s]  
 - [research  3h 02m 49s]  
 - [review  3h 33m 02s]  
 - [sampling  1h 35m 20s]  
-- [testing 73h 57m 13s]  
+- [testing 75h 40m 06s]  
 - [tests 16h 09m 17s]  
 - [travel 21h 02m 06s]  
 - [travis 24h 03m 40s]  
@@ -257,4 +261,4 @@ thesis - 151h 42m 50s
 - [setup  1h 30m 00s]  
 - [writing 25h 14m 21s]  
 
-Total: 549h 49m 42s
+Total: 551h 32m 35s
