@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Sun Apr 28 14:27:33 MDT 2019
+## Report Generated on Sun Apr 28 14:34:35 MDT 2019
 
 - 01 6h30m05s
 - 02 1h48m12s
@@ -27,7 +27,7 @@ Ideally, my use of this project will continue in perpetuity.
 - 14 4h43m17s
 - 15 10h32m27s
 - 16 6h59m36s
--  
+- 17 3h58m07s
 - 18 3h56m46s
 - 19 3h21m14s
 -  
@@ -107,12 +107,12 @@ Mon 01 April 2019 -> Sun 28 April 2019
 bet - 1h 45m 02s
 - [testing  1h 45m 02s]  
 
-hub - 8h 13m 10s
+hub - 9h 42m 13s
 - [experimental  3h 32m 30s]  
 - [features  4h 12m 34s]  
 - [improvements     40m 04s]  
 - [maintenance  1h 20m 30s]  
-- [presentation  2h 40m 06s]  
+- [presentation  4h 09m 09s]  
 - [research     40m 04s]  
 
 nsf - 101h 07m 18s
@@ -129,7 +129,8 @@ nsf - 101h 07m 18s
 - [testing 54h 06m 17s]  
 - [travis 11h 47m 36s]  
 
-professional-development - 14h 21m 17s
+professional-development - 15h 50m 19s
+- [interview  1h 29m 02s]  
 - [networking  4h 27m 06s]  
 - [phbalance     41m 02s]  
 - [racas  5h 02m 47s]  
@@ -138,16 +139,18 @@ professional-development - 14h 21m 17s
 - [stat  2h 07m 02s]  
 - [web  3h 36m 19s]  
 
-thesis - 24h 27m 08s
+thesis - 25h 27m 10s
 - [code     54m 43s]  
 - [editing  1h 19m 43s]  
 - [edits  9h 04m 26s]  
 - [meeting  1h 32m 04s]  
 - [planning  1h 01m 12s]  
 - [reading  1h 19m 43s]  
+- [research  1h 00m 02s]  
+- [seminar  1h 00m 02s]  
 - [writing 14h 46m 52s]  
 
-Total: 149h 53m 55s
+Total: 153h 52m 02s
 
 
 ## Last Year
@@ -156,7 +159,7 @@ Tue 01 January 2019 -> Sun 28 April 2019
 bet - 1h 45m 02s
 - [testing  1h 45m 02s]  
 
-hub - 28h 57m 44s
+hub - 30h 26m 47s
 - [aime  1h 40m 07s]  
 - [application     09m 23s]  
 - [docs     22m 00s]  
@@ -165,7 +168,7 @@ hub - 28h 57m 44s
 - [help     31m 03s]  
 - [improvements     40m 04s]  
 - [maintenance 19h 09m 15s]  
-- [presentation  2h 40m 06s]  
+- [presentation  4h 09m 09s]  
 - [research     40m 04s]  
 - [revision  1h 49m 59s]  
 - [setup  1h 53m 20s]  
@@ -204,10 +207,11 @@ nsf - 216h 43m 21s
 - [upgrade 28h 09m 27s]  
 - [versioning 13h 21m 57s]  
 
-professional-development - 151h 10m 31s
+professional-development - 152h 39m 33s
 - [application  6h 44m 27s]  
 - [documentation  9h 15m 07s]  
 - [email     34m 00s]  
+- [interview  1h 29m 02s]  
 - [jobsearch 21h 32m 03s]  
 - [linkedin  6h 54m 52s]  
 - [mathcomputer  3h 24m 04s]  
@@ -236,7 +240,7 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 151h 42m 50s
+thesis - 152h 42m 52s
 - [background  1h 32m 00s]  
 - [backups  8h 49m 19s]  
 - [bibliography  1h 14m 51s]  
@@ -256,9 +260,10 @@ thesis - 151h 42m 50s
 - [planning 15h 52m 17s]  
 - [presentation 39h 18m 37s]  
 - [reading 13h 50m 09s]  
-- [research 31h 41m 20s]  
+- [research 32h 41m 22s]  
 - [review  3h 51m 08s]  
+- [seminar  1h 00m 02s]  
 - [setup  1h 30m 00s]  
 - [writing 25h 14m 21s]  
 
-Total: 551h 32m 35s
+Total: 555h 30m 42s

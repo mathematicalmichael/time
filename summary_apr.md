@@ -1,5 +1,5 @@
 
-## Report Generated on Sun Apr 28 12:46:59 MDT 2019
+## Report Generated on Sun Apr 28 14:34:28 MDT 2019
 
 - 01 6h30m05s
 - 02 1h48m12s
@@ -17,7 +17,7 @@
 - 14 4h43m17s
 - 15 10h32m27s
 - 16 6h59m36s
--  
+- 17 3h58m07s
 - 18 3h56m46s
 - 19 3h21m14s
 -  
@@ -28,4 +28,4 @@
 - 25 5h23m20s
 - 26 7h32m23s
 - 27 5h16m03s
-- 28 3h33m48s
+- 28 5h16m41s
