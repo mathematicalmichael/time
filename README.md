@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Tue Apr 16 09:46:14 MDT 2019
+## Report Generated on Sun Apr 28 12:42:14 MDT 2019
 
 - 01 6h30m05s
 - 02 1h48m12s
@@ -26,89 +26,121 @@ Ideally, my use of this project will continue in perpetuity.
 - 13 7h00m37s
 - 14 4h43m17s
 - 15 10h32m27s
-- 16 2h50m21s
+- 16 6h59m36s
+-  
+- 18 3h56m46s
+- 19 3h21m14s
+-  
+- 21 3h36m19s
+- 22 6h58m39s
+- 23 8h36m32s
+- 24 1h19m43s
+- 25 5h23m20s
+- 26 1h47m16s
+-  
+- 28 3h33m48s
 
 
 ## This Week
-Mon 15 April 2019 -> Tue 16 April 2019
+Mon 22 April 2019 -> Sun 28 April 2019
 
-nsf - 13h 22m 48s
-- [bet 13h 22m 48s]  
-- [features 13h 22m 48s]  
-- [testing 13h 22m 48s]  
+hub - 2h 40m 06s
+- [presentation  2h 40m 06s]  
 
+nsf - 51h 11m 48s
+- [bet 51h 11m 48s]  
+- [documentation 32h 49m 51s]  
+- [features 16h 06m 53s]  
+- [parallel  2h 15m 04s]  
+- [testing 38h 57m 45s]  
+
+professional-development - 1h 43m 44s
+- [phbalance     41m 02s]  
+- [racas  1h 02m 42s]  
+
+thesis - 1h 19m 43s
+- [editing  1h 19m 43s]  
+- [reading  1h 19m 43s]  
+
+Total: 56h 55m 21s
 
 
 ## Last 7 Days
-Tue 09 April 2019 -> Tue 16 April 2019
+Sun 21 April 2019 -> Sun 28 April 2019
 
-hub - 22m 02s
-- [maintenance     22m 02s]  
+hub - 2h 40m 06s
+- [presentation  2h 40m 06s]  
 
-nsf - 56h 46m 43s
-- [bet 56h 46m 43s]  
-- [cleanup  1h 35m 47s]  
-- [features 48h 32m 09s]  
-- [metrics 22h 16m 25s]  
-- [organization  4h 55m 39s]  
-- [planning  3h 33m 02s]  
-- [review  3h 33m 02s]  
-- [testing 25h 58m 24s]  
-- [travis 11h 47m 36s]  
+nsf - 51h 11m 48s
+- [bet 51h 11m 48s]  
+- [documentation 32h 49m 51s]  
+- [features 16h 06m 53s]  
+- [parallel  2h 15m 04s]  
+- [testing 38h 57m 45s]  
 
-professional-development - 2h 43m 04s
-- [networking  2h 43m 04s]  
-- [stat  2h 07m 02s]  
+professional-development - 5h 20m 03s
+- [phbalance     41m 02s]  
+- [racas  1h 02m 42s]  
+- [slumlords  3h 06m 13s]  
+- [web  3h 36m 19s]  
 
-thesis - 5h 43m 56s
-- [edits  4h 11m 52s]  
-- [meeting  1h 32m 04s]  
-- [writing  4h 11m 52s]  
+thesis - 1h 19m 43s
+- [editing  1h 19m 43s]  
+- [reading  1h 19m 43s]  
 
-Total: 65h 35m 45s
+Total: 60h 31m 40s
 
 
 ## Last Month
-Mon 01 April 2019 -> Tue 16 April 2019
+Mon 01 April 2019 -> Sun 28 April 2019
 
-hub - 5h 33m 04s
+hub - 8h 13m 10s
 - [experimental  3h 32m 30s]  
 - [features  4h 12m 34s]  
 - [improvements     40m 04s]  
 - [maintenance  1h 20m 30s]  
+- [presentation  2h 40m 06s]  
 - [research     40m 04s]  
 
-nsf - 60h 45m 22s
-- [bet 60h 45m 22s]  
+nsf - 123h 24m 25s
+- [bet 123h 24m 25s]  
 - [cleanup  1h 35m 47s]  
-- [features 52h 30m 48s]  
+- [documentation 32h 49m 51s]  
+- [features 80h 04m 56s]  
 - [metrics 22h 16m 25s]  
 - [organization  4h 55m 39s]  
+- [parallel  2h 15m 04s]  
 - [planning  3h 33m 02s]  
 - [research  1h 08m 08s]  
 - [review  3h 33m 02s]  
-- [testing 25h 58m 24s]  
+- [testing 76h 23m 24s]  
 - [travis 11h 47m 36s]  
 
-professional-development - 5h 01m 09s
+professional-development - 10h 21m 12s
 - [networking  4h 27m 06s]  
+- [phbalance     41m 02s]  
+- [racas  1h 02m 42s]  
 - [resume     34m 03s]  
+- [slumlords  3h 06m 13s]  
 - [stat  2h 07m 02s]  
+- [web  3h 36m 19s]  
 
-thesis - 23h 07m 25s
+thesis - 24h 27m 08s
 - [code     54m 43s]  
+- [editing  1h 19m 43s]  
 - [edits  9h 04m 26s]  
 - [meeting  1h 32m 04s]  
 - [planning  1h 01m 12s]  
+- [reading  1h 19m 43s]  
 - [writing 14h 46m 52s]  
 
-Total: 94h 27m 00s
+Total: 166h 25m 55s
 
 
 ## Last Year
-Tue 01 January 2019 -> Tue 16 April 2019
+Tue 01 January 2019 -> Sun 28 April 2019
 
-hub - 26h 17m 38s
+hub - 28h 57m 44s
 - [aime  1h 40m 07s]  
 - [application     09m 23s]  
 - [docs     22m 00s]  
@@ -117,6 +149,7 @@ hub - 26h 17m 38s
 - [help     31m 03s]  
 - [improvements     40m 04s]  
 - [maintenance 19h 09m 15s]  
+- [presentation  2h 40m 06s]  
 - [research     40m 04s]  
 - [revision  1h 49m 59s]  
 - [setup  1h 53m 20s]  
@@ -124,21 +157,23 @@ hub - 26h 17m 38s
 - [turing  1h 00m 38s]  
 - [upgrade  4h 07m 00s]  
 
-nsf - 176h 21m 25s
+nsf - 239h 00m 28s
 - [background     39m 43s]  
-- [bet 143h 36m 35s]  
+- [bet 206h 15m 38s]  
 - [cleaning  3h 08m 12s]  
 - [cleanup  1h 35m 47s]  
 - [conference 28h 39m 09s]  
 - [discussion     32m 00s]  
 - [docs     08m 41s]  
+- [documentation 32h 49m 51s]  
 - [examples  1h 12m 03s]  
-- [features 57h 04m 19s]  
+- [features 84h 38m 27s]  
 - [improvements 11h 46m 27s]  
 - [meeting  2h 11m 00s]  
 - [metrics 22h 16m 25s]  
 - [notebooks 12h 15m 39s]  
 - [organization  8h 30m 42s]  
+- [parallel  2h 15m 04s]  
 - [planning  9h 07m 38s]  
 - [plotting  3h 10m 37s]  
 - [presentation  3h 26m 14s]  
@@ -146,14 +181,14 @@ nsf - 176h 21m 25s
 - [research  3h 02m 49s]  
 - [review  3h 33m 02s]  
 - [sampling  1h 35m 20s]  
-- [testing 47h 32m 13s]  
+- [testing 97h 57m 13s]  
 - [tests 16h 09m 17s]  
 - [travel 21h 02m 06s]  
 - [travis 24h 03m 40s]  
 - [upgrade 28h 09m 27s]  
 - [versioning 13h 21m 57s]  
 
-professional-development - 141h 50m 23s
+professional-development - 147h 10m 26s
 - [application  6h 44m 27s]  
 - [documentation  9h 15m 07s]  
 - [email     34m 00s]  
@@ -164,11 +199,14 @@ professional-development - 141h 50m 23s
 - [mp     12m 58s]  
 - [networking 35h 10m 03s]  
 - [organization 10h 17m 09s]  
+- [phbalance     41m 02s]  
 - [preparation  2h 34m 26s]  
 - [presentation  2h 00m 00s]  
+- [racas  1h 02m 42s]  
 - [resources     12m 58s]  
 - [resume 68h 40m 17s]  
 - [siam  2h 04m 02s]  
+- [slumlords  3h 06m 13s]  
 - [social  7h 23m 06s]  
 - [stat 13h 50m 34s]  
 - [talk  2h 34m 26s]  
@@ -176,13 +214,13 @@ professional-development - 141h 50m 23s
 - [update  8h 00m 44s]  
 - [video  2h 04m 02s]  
 - [volunteering  1h 45m 00s]  
-- [web 31h 36m 58s]  
+- [web 35h 13m 17s]  
 
 school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 150h 23m 07s
+thesis - 151h 42m 50s
 - [background  1h 32m 00s]  
 - [backups  8h 49m 19s]  
 - [bibliography  1h 14m 51s]  
@@ -190,6 +228,7 @@ thesis - 150h 23m 07s
 - [code  5h 16m 12s]  
 - [competition  6h 49m 04s]  
 - [conference 17h 52m 26s]  
+- [editing  1h 19m 43s]  
 - [edits  9h 04m 26s]  
 - [examples  1h 43m 48s]  
 - [figures  7h 29m 39s]  
@@ -200,10 +239,10 @@ thesis - 150h 23m 07s
 - [organization 22h 20m 45s]  
 - [planning 15h 52m 17s]  
 - [presentation 39h 18m 37s]  
-- [reading 12h 30m 26s]  
+- [reading 13h 50m 09s]  
 - [research 31h 41m 20s]  
 - [review  3h 51m 08s]  
 - [setup  1h 30m 00s]  
 - [writing 25h 14m 21s]  
 
-Total: 496h 05m 40s
+Total: 568h 04m 35s
