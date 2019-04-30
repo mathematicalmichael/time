@@ -9,7 +9,7 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Mon Apr 29 13:55:24 MDT 2019
+## Report Generated on Tue Apr 30 13:24:27 MDT 2019
 
 - 01 6h30m05s
 - 02 1h48m12s
@@ -39,24 +39,25 @@ Ideally, my use of this project will continue in perpetuity.
 - 26 7h32m23s
 - 27 5h16m03s
 - 28 9h49m06s
-- 29 4h14m13s
+- 29 4h43m00s
+- 30 4h00m39s
 
 
 ## This Week
-Mon 29 April 2019 -> Mon 29 April 2019
+Mon 29 April 2019 -> Tue 30 April 2019
 
-nsf - 3h 54m 13s
-- [bet  3h 54m 13s]  
-- [features  3h 54m 13s]  
+nsf - 18h 55m 34s
+- [bet 18h 55m 34s]  
+- [features 18h 55m 34s]  
 
 professional-development - 20m 00s
 - [cooperation     20m 00s]  
 
-Total: 4h 14m 13s
+Total: 19h 15m 34s
 
 
 ## Last 7 Days
-Mon 22 April 2019 -> Mon 29 April 2019
+Tue 23 April 2019 -> Tue 30 April 2019
 
 bet - 1h 45m 02s
 - [testing  1h 45m 02s]  
@@ -64,29 +65,28 @@ bet - 1h 45m 02s
 hub - 2h 40m 06s
 - [presentation  2h 40m 06s]  
 
-nsf - 37h 21m 19s
-- [bet 37h 21m 19s]  
+nsf - 46h 05m 03s
+- [bet 46h 05m 03s]  
 - [documentation  8h 49m 51s]  
-- [features 24h 33m 31s]  
+- [features 33h 17m 15s]  
 - [organization  1h 42m 53s]  
 - [parallel  2h 15m 04s]  
 - [planning  1h 42m 53s]  
 - [testing 16h 40m 38s]  
 
-professional-development - 6h 03m 49s
+professional-development - 5h 22m 47s
 - [cooperation     20m 00s]  
-- [phbalance     41m 02s]  
 - [racas  5h 02m 47s]  
 
 thesis - 1h 19m 43s
 - [editing  1h 19m 43s]  
 - [reading  1h 19m 43s]  
 
-Total: 49h 09m 59s
+Total: 57h 12m 41s
 
 
 ## Last Month
-Mon 01 April 2019 -> Mon 29 April 2019
+Mon 01 April 2019 -> Tue 30 April 2019
 
 bet - 1h 45m 02s
 - [testing  1h 45m 02s]  
@@ -99,11 +99,11 @@ hub - 9h 42m 13s
 - [presentation  4h 09m 09s]  
 - [research     40m 04s]  
 
-nsf - 109h 33m 56s
-- [bet 109h 33m 56s]  
+nsf - 124h 35m 17s
+- [bet 124h 35m 17s]  
 - [cleanup  1h 35m 47s]  
 - [documentation  8h 49m 51s]  
-- [features 88h 31m 34s]  
+- [features 103h 32m 55s]  
 - [metrics 22h 16m 25s]  
 - [organization  6h 38m 32s]  
 - [parallel  2h 15m 04s]  
@@ -135,11 +135,11 @@ thesis - 25h 27m 10s
 - [seminar  1h 00m 02s]  
 - [writing 14h 46m 52s]  
 
-Total: 162h 38m 40s
+Total: 177h 40m 01s
 
 
 ## Last Year
-Tue 01 January 2019 -> Mon 29 April 2019
+Tue 01 January 2019 -> Tue 30 April 2019
 
 bet - 1h 45m 02s
 - [testing  1h 45m 02s]  
@@ -161,9 +161,9 @@ hub - 30h 26m 47s
 - [turing  1h 00m 38s]  
 - [upgrade  4h 07m 00s]  
 
-nsf - 225h 09m 59s
+nsf - 240h 11m 20s
 - [background     39m 43s]  
-- [bet 192h 25m 09s]  
+- [bet 207h 26m 30s]  
 - [cleaning  3h 08m 12s]  
 - [cleanup  1h 35m 47s]  
 - [conference 28h 39m 09s]  
@@ -171,7 +171,7 @@ nsf - 225h 09m 59s
 - [docs     08m 41s]  
 - [documentation  8h 49m 51s]  
 - [examples  1h 12m 03s]  
-- [features 93h 05m 05s]  
+- [features 108h 06m 26s]  
 - [improvements 11h 46m 27s]  
 - [meeting  2h 11m 00s]  
 - [metrics 22h 16m 25s]  
@@ -252,4 +252,4 @@ thesis - 152h 42m 52s
 - [setup  1h 30m 00s]  
 - [writing 25h 14m 21s]  
 
-Total: 564h 17m 20s
+Total: 579h 18m 41s
