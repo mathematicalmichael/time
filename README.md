@@ -9,9 +9,9 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Wed May  1 08:59:27 MDT 2019
+## Report Generated on Wed May  1 09:57:59 MDT 2019
 
-- 01 6h30m05s
+-  
 
 
 ## This Week
@@ -33,17 +33,14 @@ Total: 23h 19m 41s
 ## Last 7 Days
 Wed 24 April 2019 -> Wed 01 May 2019
 
-bet - 1h 45m 02s
-- [testing  1h 45m 02s]  
-
-nsf - 40h 35m 40s
+nsf - 42h 20m 42s
 - [bet 40h 35m 40s]  
 - [documentation  8h 49m 51s]  
 - [features 27h 47m 52s]  
 - [organization  1h 42m 53s]  
 - [parallel  2h 15m 04s]  
 - [planning  1h 42m 53s]  
-- [testing 16h 40m 38s]  
+- [testing 18h 25m 40s]  
 
 professional-development - 5h 22m 47s
 - [cooperation     20m 00s]  
@@ -65,9 +62,6 @@ Wed 01 May 2019 -> Wed 01 May 2019
 ## Last Year
 Tue 01 January 2019 -> Wed 01 May 2019
 
-bet - 1h 45m 02s
-- [testing  1h 45m 02s]  
-
 hub - 30h 26m 47s
 - [aime  1h 40m 07s]  
 - [application     09m 23s]  
@@ -85,7 +79,7 @@ hub - 30h 26m 47s
 - [turing  1h 00m 38s]  
 - [upgrade  4h 07m 00s]  
 
-nsf - 240h 38m 23s
+nsf - 242h 23m 25s
 - [background     39m 43s]  
 - [bet 207h 53m 33s]  
 - [cleaning  3h 08m 12s]  
@@ -109,7 +103,7 @@ nsf - 240h 38m 23s
 - [research  3h 02m 49s]  
 - [review  3h 33m 02s]  
 - [sampling  1h 35m 20s]  
-- [testing 75h 40m 06s]  
+- [testing 77h 25m 08s]  
 - [tests 16h 09m 17s]  
 - [travel 21h 02m 06s]  
 - [travis 24h 03m 40s]  
