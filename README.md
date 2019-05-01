@@ -9,66 +9,37 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Tue Apr 30 13:24:27 MDT 2019
+## Report Generated on Wed May  1 08:59:27 MDT 2019
 
 - 01 6h30m05s
-- 02 1h48m12s
-- 03 2h45m14s
-- 04 3h24m34s
--  
-- 06 2h09m04s
-- 07 6h23m04s
-- 08 5h51m02s
-- 09 8h31m33s
-- 10 11h29m03s
-- 11 5h12m39s
-- 12 12h05m45s
-- 13 7h00m37s
-- 14 4h43m17s
-- 15 10h32m27s
-- 16 6h59m36s
-- 17 3h58m07s
-- 18 3h56m46s
-- 19 3h21m14s
--  
-- 21 3h36m19s
-- 22 6h58m39s
-- 23 8h36m32s
-- 24 1h19m43s
-- 25 5h23m20s
-- 26 7h32m23s
-- 27 5h16m03s
-- 28 9h49m06s
-- 29 4h43m00s
-- 30 4h00m39s
 
 
 ## This Week
-Mon 29 April 2019 -> Tue 30 April 2019
+Mon 29 April 2019 -> Wed 01 May 2019
 
-nsf - 18h 55m 34s
-- [bet 18h 55m 34s]  
-- [features 18h 55m 34s]  
+nsf - 19h 22m 37s
+- [bet 19h 22m 37s]  
+- [features 19h 22m 37s]  
 
 professional-development - 20m 00s
 - [cooperation     20m 00s]  
 
-Total: 19h 15m 34s
+thesis - 3h 37m 04s
+- [meeting  3h 37m 04s]  
+
+Total: 23h 19m 41s
 
 
 ## Last 7 Days
-Tue 23 April 2019 -> Tue 30 April 2019
+Wed 24 April 2019 -> Wed 01 May 2019
 
 bet - 1h 45m 02s
 - [testing  1h 45m 02s]  
 
-hub - 2h 40m 06s
-- [presentation  2h 40m 06s]  
-
-nsf - 46h 05m 03s
-- [bet 46h 05m 03s]  
+nsf - 40h 35m 40s
+- [bet 40h 35m 40s]  
 - [documentation  8h 49m 51s]  
-- [features 33h 17m 15s]  
+- [features 27h 47m 52s]  
 - [organization  1h 42m 53s]  
 - [parallel  2h 15m 04s]  
 - [planning  1h 42m 53s]  
@@ -78,68 +49,21 @@ professional-development - 5h 22m 47s
 - [cooperation     20m 00s]  
 - [racas  5h 02m 47s]  
 
-thesis - 1h 19m 43s
+thesis - 4h 56m 47s
 - [editing  1h 19m 43s]  
+- [meeting  3h 37m 04s]  
 - [reading  1h 19m 43s]  
 
-Total: 57h 12m 41s
+Total: 52h 40m 16s
 
 
 ## Last Month
-Mon 01 April 2019 -> Tue 30 April 2019
+Wed 01 May 2019 -> Wed 01 May 2019
 
-bet - 1h 45m 02s
-- [testing  1h 45m 02s]  
-
-hub - 9h 42m 13s
-- [experimental  3h 32m 30s]  
-- [features  4h 12m 34s]  
-- [improvements     40m 04s]  
-- [maintenance  1h 20m 30s]  
-- [presentation  4h 09m 09s]  
-- [research     40m 04s]  
-
-nsf - 124h 35m 17s
-- [bet 124h 35m 17s]  
-- [cleanup  1h 35m 47s]  
-- [documentation  8h 49m 51s]  
-- [features 103h 32m 55s]  
-- [metrics 22h 16m 25s]  
-- [organization  6h 38m 32s]  
-- [parallel  2h 15m 04s]  
-- [planning  5h 15m 55s]  
-- [research  1h 08m 08s]  
-- [review  3h 33m 02s]  
-- [testing 54h 06m 17s]  
-- [travis 11h 47m 36s]  
-
-professional-development - 16h 10m 19s
-- [cooperation     20m 00s]  
-- [interview  1h 29m 02s]  
-- [networking  4h 27m 06s]  
-- [phbalance     41m 02s]  
-- [racas  5h 02m 47s]  
-- [resume     34m 03s]  
-- [slumlords  3h 06m 13s]  
-- [stat  2h 07m 02s]  
-- [web  3h 36m 19s]  
-
-thesis - 25h 27m 10s
-- [code     54m 43s]  
-- [editing  1h 19m 43s]  
-- [edits  9h 04m 26s]  
-- [meeting  1h 32m 04s]  
-- [planning  1h 01m 12s]  
-- [reading  1h 19m 43s]  
-- [research  1h 00m 02s]  
-- [seminar  1h 00m 02s]  
-- [writing 14h 46m 52s]  
-
-Total: 177h 40m 01s
 
 
 ## Last Year
-Tue 01 January 2019 -> Tue 30 April 2019
+Tue 01 January 2019 -> Wed 01 May 2019
 
 bet - 1h 45m 02s
 - [testing  1h 45m 02s]  
@@ -161,9 +85,9 @@ hub - 30h 26m 47s
 - [turing  1h 00m 38s]  
 - [upgrade  4h 07m 00s]  
 
-nsf - 240h 11m 20s
+nsf - 240h 38m 23s
 - [background     39m 43s]  
-- [bet 207h 26m 30s]  
+- [bet 207h 53m 33s]  
 - [cleaning  3h 08m 12s]  
 - [cleanup  1h 35m 47s]  
 - [conference 28h 39m 09s]  
@@ -171,7 +95,7 @@ nsf - 240h 11m 20s
 - [docs     08m 41s]  
 - [documentation  8h 49m 51s]  
 - [examples  1h 12m 03s]  
-- [features 108h 06m 26s]  
+- [features 108h 33m 29s]  
 - [improvements 11h 46m 27s]  
 - [meeting  2h 11m 00s]  
 - [metrics 22h 16m 25s]  
@@ -226,7 +150,7 @@ school - 1h 13m 07s
 - [email     17m 01s]  
 - [paperwork     56m 06s]  
 
-thesis - 152h 42m 52s
+thesis - 156h 19m 56s
 - [background  1h 32m 00s]  
 - [backups  8h 49m 19s]  
 - [bibliography  1h 14m 51s]  
@@ -240,7 +164,7 @@ thesis - 152h 42m 52s
 - [figures  7h 29m 39s]  
 - [filtering     40m 11s]  
 - [framsc  7h 17m 04s]  
-- [meeting 12h 12m 12s]  
+- [meeting 15h 49m 16s]  
 - [meetings  4h 41m 30s]  
 - [organization 22h 20m 45s]  
 - [planning 15h 52m 17s]  
@@ -252,4 +176,4 @@ thesis - 152h 42m 52s
 - [setup  1h 30m 00s]  
 - [writing 25h 14m 21s]  
 
-Total: 579h 18m 41s
+Total: 583h 22m 48s
