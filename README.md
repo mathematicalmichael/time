@@ -9,19 +9,26 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Thu May  2 01:02:56 MDT 2019
+## Report Generated on Sun May  5 23:25:47 MDT 2019
 
 - 01 10h15m41s
-- 02 1h01m25s
+- 02 6h18m25s
+- 03 3h05m06s
+- 04 10h41m59s
+- 05 15h31m06s
 
 
 ## This Week
-Mon 29 April 2019 -> Thu 02 May 2019
+Mon 29 April 2019 -> Sun 05 May 2019
 
-nsf - 30h 39m 43s
-- [bet 30h 39m 43s]  
-- [features 30h 39m 43s]  
-- [testing 11h 17m 06s]  
+nsf - 65h 14m 54s
+- [bet 65h 14m 54s]  
+- [datadriven 15h 31m 06s]  
+- [debugging  7h 42m 23s]  
+- [features 43h 07m 54s]  
+- [planning  6h 35m 54s]  
+- [sampling 32h 10m 10s]  
+- [testing 13h 42m 07s]  
 
 professional-development - 20m 00s
 - [cooperation     20m 00s]  
@@ -29,43 +36,48 @@ professional-development - 20m 00s
 thesis - 3h 37m 04s
 - [meeting  3h 37m 04s]  
 
-Total: 34h 36m 47s
+Total: 69h 11m 58s
 
 
 ## Last 7 Days
-Thu 25 April 2019 -> Thu 02 May 2019
+Sun 28 April 2019 -> Sun 05 May 2019
 
-nsf - 53h 37m 48s
-- [bet 51h 52m 46s]  
-- [documentation  8h 49m 51s]  
-- [features 39h 04m 58s]  
+nsf - 75h 04m 00s
+- [bet 75h 04m 00s]  
+- [datadriven 15h 31m 06s]  
+- [debugging  7h 42m 23s]  
+- [documentation  3h 33m 48s]  
+- [features 47h 40m 19s]  
 - [organization  1h 42m 53s]  
-- [parallel  2h 15m 04s]  
-- [planning  1h 42m 53s]  
-- [testing 29h 42m 46s]  
+- [planning  8h 18m 47s]  
+- [sampling 32h 10m 10s]  
+- [testing 18h 58m 48s]  
 
-professional-development - 5h 22m 47s
+professional-development - 20m 00s
 - [cooperation     20m 00s]  
-- [racas  5h 02m 47s]  
 
 thesis - 3h 37m 04s
 - [meeting  3h 37m 04s]  
 
-Total: 62h 37m 39s
+Total: 79h 01m 04s
 
 
 ## Last Month
-Wed 01 May 2019 -> Thu 02 May 2019
+Wed 01 May 2019 -> Sun 05 May 2019
 
-nsf - 11h 17m 06s
-- [bet 11h 17m 06s]  
-- [features 11h 17m 06s]  
-- [testing 11h 17m 06s]  
+nsf - 45h 52m 17s
+- [bet 45h 52m 17s]  
+- [datadriven 15h 31m 06s]  
+- [debugging  7h 42m 23s]  
+- [features 23h 45m 17s]  
+- [planning  6h 35m 54s]  
+- [sampling 32h 10m 10s]  
+- [testing 13h 42m 07s]  
 
 
 
 ## Last Year
-Tue 01 January 2019 -> Thu 02 May 2019
+Tue 01 January 2019 -> Sun 05 May 2019
 
 hub - 30h 26m 47s
 - [aime  1h 40m 07s]  
@@ -84,31 +96,33 @@ hub - 30h 26m 47s
 - [turing  1h 00m 38s]  
 - [upgrade  4h 07m 00s]  
 
-nsf - 253h 40m 31s
+nsf - 288h 15m 42s
 - [background     39m 43s]  
-- [bet 219h 10m 39s]  
+- [bet 253h 45m 50s]  
 - [cleaning  3h 08m 12s]  
 - [cleanup  1h 35m 47s]  
 - [conference 28h 39m 09s]  
+- [datadriven 15h 31m 06s]  
+- [debugging  7h 42m 23s]  
 - [discussion     32m 00s]  
 - [docs     08m 41s]  
 - [documentation  8h 49m 51s]  
 - [examples  1h 12m 03s]  
-- [features 119h 50m 35s]  
+- [features 132h 18m 46s]  
 - [improvements 11h 46m 27s]  
 - [meeting  2h 11m 00s]  
 - [metrics 22h 16m 25s]  
 - [notebooks 12h 15m 39s]  
 - [organization 10h 13m 35s]  
 - [parallel  2h 15m 04s]  
-- [planning 10h 50m 31s]  
+- [planning 17h 26m 25s]  
 - [plotting  3h 10m 37s]  
 - [presentation  3h 26m 14s]  
 - [reading  2h 20m 48s]  
 - [research  3h 02m 49s]  
 - [review  3h 33m 02s]  
-- [sampling  1h 35m 20s]  
-- [testing 88h 42m 14s]  
+- [sampling 33h 45m 30s]  
+- [testing 91h 07m 15s]  
 - [tests 16h 09m 17s]  
 - [travel 21h 02m 06s]  
 - [travis 24h 03m 40s]  
@@ -175,4 +189,4 @@ thesis - 156h 19m 56s
 - [setup  1h 30m 00s]  
 - [writing 25h 14m 21s]  
 
-Total: 594h 39m 54s
+Total: 629h 15m 05s
