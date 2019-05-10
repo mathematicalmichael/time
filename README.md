@@ -9,14 +9,14 @@ My goal is to work at least 40 hours a week, split evenly between Thesis and NSF
 Ideally, my use of this project will continue in perpetuity.
 
 
-## Report Generated on Thu May  9 22:36:38 MDT 2019
+## Report Generated on Thu May  9 22:56:41 MDT 2019
 
 - 01 10h15m41s
 - 02 6h18m25s
 - 03 3h05m06s
 - 04 10h41m59s
 - 05 15h31m06s
--  
+- 06 4h16m02s
 - 07 7h04m15s
 - 08 9h59m13s
 - 09 13h08m02s
@@ -30,21 +30,21 @@ hub - 50m 04s
 - [maintenance     50m 04s]  
 - [upgrades     50m 04s]  
 
-nsf - 28h 31m 25s
-- [bet 28h 31m 25s]  
+nsf - 32h 47m 27s
+- [bet 32h 47m 27s]  
 - [bugs 22h 36m 28s]  
 - [datadriven     17m 12s]  
 - [debugging     17m 12s]  
 - [features  1h 38m 56s]  
-- [planning 18h 45m 47s]  
+- [planning 23h 01m 49s]  
 - [samping  1h 38m 56s]  
-- [sampling 26h 52m 29s]  
+- [sampling 31h 08m 31s]  
 
 thesis - 50m 01s
 - [editing     50m 01s]  
 - [reading     50m 01s]  
 
-Total: 30h 11m 30s
+Total: 34h 27m 32s
 
 
 ## Last 7 Days
@@ -55,22 +55,22 @@ hub - 50m 04s
 - [maintenance     50m 04s]  
 - [upgrades     50m 04s]  
 
-nsf - 64h 08m 01s
-- [bet 64h 08m 01s]  
+nsf - 68h 24m 03s
+- [bet 68h 24m 03s]  
 - [bugs 22h 36m 28s]  
 - [datadriven 15h 48m 18s]  
 - [debugging  7h 59m 35s]  
 - [features 15h 08m 32s]  
-- [planning 25h 21m 41s]  
+- [planning 29h 37m 43s]  
 - [samping  1h 38m 56s]  
-- [sampling 59h 02m 39s]  
+- [sampling 63h 18m 41s]  
 - [testing  3h 26m 26s]  
 
 thesis - 50m 01s
 - [editing     50m 01s]  
 - [reading     50m 01s]  
 
-Total: 65h 48m 06s
+Total: 70h 04m 08s
 
 
 ## Last Month
@@ -81,22 +81,22 @@ hub - 50m 04s
 - [maintenance     50m 04s]  
 - [upgrades     50m 04s]  
 
-nsf - 74h 23m 42s
-- [bet 74h 23m 42s]  
+nsf - 78h 39m 44s
+- [bet 78h 39m 44s]  
 - [bugs 22h 36m 28s]  
 - [datadriven 15h 48m 18s]  
 - [debugging  7h 59m 35s]  
 - [features 25h 24m 13s]  
-- [planning 25h 21m 41s]  
+- [planning 29h 37m 43s]  
 - [samping  1h 38m 56s]  
-- [sampling 59h 02m 39s]  
+- [sampling 63h 18m 41s]  
 - [testing 13h 42m 07s]  
 
 thesis - 50m 01s
 - [editing     50m 01s]  
 - [reading     50m 01s]  
 
-Total: 76h 03m 47s
+Total: 80h 19m 49s
 
 
 ## Last Year
@@ -120,9 +120,9 @@ hub - 31h 16m 51s
 - [upgrade  4h 07m 00s]  
 - [upgrades     50m 04s]  
 
-nsf - 316h 47m 07s
+nsf - 321h 03m 09s
 - [background     39m 43s]  
-- [bet 282h 17m 15s]  
+- [bet 286h 33m 17s]  
 - [bugs 22h 36m 28s]  
 - [cleaning  3h 08m 12s]  
 - [cleanup  1h 35m 47s]  
@@ -140,14 +140,14 @@ nsf - 316h 47m 07s
 - [notebooks 12h 15m 39s]  
 - [organization 10h 13m 35s]  
 - [parallel  2h 15m 04s]  
-- [planning 36h 12m 12s]  
+- [planning 40h 28m 14s]  
 - [plotting  3h 10m 37s]  
 - [presentation  3h 26m 14s]  
 - [reading  2h 20m 48s]  
 - [research  3h 02m 49s]  
 - [review  3h 33m 02s]  
 - [samping  1h 38m 56s]  
-- [sampling 60h 37m 59s]  
+- [sampling 64h 54m 01s]  
 - [testing 91h 07m 15s]  
 - [tests 16h 09m 17s]  
 - [travel 21h 02m 06s]  
@@ -215,4 +215,4 @@ thesis - 157h 09m 57s
 - [setup  1h 30m 00s]  
 - [writing 25h 14m 21s]  
 
-Total: 659h 26m 35s
+Total: 663h 42m 37s
