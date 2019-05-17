@@ -1,5 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mathematicalmichael/time/master)
 
+
 # Public Time-Log of Michael Pilosov
 
 This document was generated using some modifications to [Watson](https://github.com/TailorDev/Watson).
